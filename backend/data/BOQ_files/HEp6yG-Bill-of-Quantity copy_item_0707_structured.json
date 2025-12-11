@@ -1,0 +1,223 @@
+{
+  "title": "MAHAVITARAN Cost Estimate",
+  "item_code": null,
+  "items": [
+    {
+      "serial_number": 1,
+      "description": "33 kV Single Circuit road crossing with 100sqmm on 100 X 116mm,10 mtr RSJ Poles (Item Code 0707)",
+      "unit": null,
+      "quantity": 1.0,
+      "rate_per_unit": 133418.0,
+      "total_cost": 133418.0,
+      "components": [
+        {
+          "description": "RSJ 116x100, 10 m long",
+          "unit": "No.",
+          "quantity": 4.0,
+          "rate_per_unit": 10283.0,
+          "total_cost": 41132.0
+        },
+        {
+          "description": "MS Channel 100x50x6 mm",
+          "unit": "Kg.",
+          "quantity": 70.0,
+          "rate_per_unit": 51.8,
+          "total_cost": 3626.0
+        },
+        {
+          "description": "4 MS angle 50x50x6 mm",
+          "unit": "kg.",
+          "quantity": 22.0,
+          "rate_per_unit": 51.8,
+          "total_cost": 1139.6
+        },
+        {
+          "description": "5 M.S.Flat 50 x 6 mm",
+          "unit": "kg.",
+          "quantity": 24.0,
+          "rate_per_unit": 48.5,
+          "total_cost": 1164.0
+        },
+        {
+          "description": "7 AAAC 100 mm2",
+          "unit": "m",
+          "quantity": 100.0,
+          "rate_per_unit": 51.82,
+          "total_cost": 5182.0
+        },
+        {
+          "description": "8 33 kV Pin Insulators with G.I. Pins",
+          "unit": "NO.",
+          "quantity": 6.0,
+          "rate_per_unit": 541.0,
+          "total_cost": 3246.0
+        },
+        {
+          "description": "11 Disc Insulator 11 KV 45 KN",
+          "unit": "NO.",
+          "quantity": 36.0,
+          "rate_per_unit": 244.0,
+          "total_cost": 8784.0
+        },
+        {
+          "description": "12 Strain Hardware for Dog0.1 or Equ.AAAC.",
+          "unit": "No.",
+          "quantity": 12.0,
+          "rate_per_unit": 322.0,
+          "total_cost": 3864.0
+        },
+        {
+          "description": "13 H.T.Stay Set",
+          "unit": "No",
+          "quantity": 4.0,
+          "rate_per_unit": 598.0,
+          "total_cost": 2392.0
+        },
+        {
+          "description": "14 G.I.Stay Wire 7/4mm(8 SWG)",
+          "unit": "kg.",
+          "quantity": 20.0,
+          "rate_per_unit": 57.45,
+          "total_cost": 1149.0
+        },
+        {
+          "description": "15 Earthing Sets H.T",
+          "unit": "No.",
+          "quantity": 4.0,
+          "rate_per_unit": 342.0,
+          "total_cost": 1368.0
+        },
+        {
+          "description": "16 Danger Board in yard.",
+          "unit": "No.",
+          "quantity": 4.0,
+          "rate_per_unit": 50.0,
+          "total_cost": 200.0
+        },
+        {
+          "description": "17 G.I.Wire 8 SWG/ 6 SWG",
+          "unit": "Kg.",
+          "quantity": 25.0,
+          "rate_per_unit": 57.4,
+          "total_cost": 1435.0
+        },
+        {
+          "description": "18 G.I.Barbed Wire 'A' type.",
+          "unit": "kg.",
+          "quantity": 30.0,
+          "rate_per_unit": 64.27,
+          "total_cost": 1928.1
+        },
+        {
+          "description": "19 Black Bituminus Paint",
+          "unit": "Ltr.",
+          "quantity": 2.0,
+          "rate_per_unit": 85.0,
+          "total_cost": 170.0
+        },
+        {
+          "description": "20 Red Oxide Paint for 2 coats",
+          "unit": "Ltr.",
+          "quantity": 6.0,
+          "rate_per_unit": 85.0,
+          "total_cost": 510.0
+        },
+        {
+          "description": "21 Aluminium Paint for 1 coat",
+          "unit": "Ltr.",
+          "quantity": 4.0,
+          "rate_per_unit": 113.0,
+          "total_cost": 452.0
+        },
+        {
+          "description": "22 Concreting ration 1:3:6",
+          "unit": "CMT.",
+          "quantity": 4.0,
+          "rate_per_unit": 3027.0,
+          "total_cost": 12108.0
+        },
+        {
+          "description": "23 Sundries",
+          "unit": "L.S.",
+          "quantity": 1.0,
+          "rate_per_unit": 810.0,
+          "total_cost": 810.0
+        },
+        {
+          "description": "24 Wedge connectors DOG TO DOG or equivalent AAAC",
+          "unit": "No",
+          "quantity": 12.0,
+          "rate_per_unit": 559.0,
+          "total_cost": 6708.0
+        }
+      ]
+    },
+    {
+      "serial_number": 2,
+      "description": "Cost Data for laying of 1 Km. 33 KV 3 C 300 mm 2 XLPE under ground Cable (Item Code 0708)",
+      "unit": null,
+      "quantity": 1.0,
+      "rate_per_unit": 2768352.0,
+      "total_cost": 2768352.0,
+      "components": [
+        {
+          "description": "XLPE Cable 33 KV. 3 C / 300 mm sq.",
+          "unit": "Rmt",
+          "quantity": 1000.0,
+          "rate_per_unit": 1737.0,
+          "total_cost": 1737000.0
+        },
+        {
+          "description": "R.C.C. Pipe 150 mm 2 M",
+          "unit": "No",
+          "quantity": 30.0,
+          "rate_per_unit": 572.0,
+          "total_cost": 17160.0
+        },
+        {
+          "description": "RCC Tiles (0.6 x 0.5) Mtrs.",
+          "unit": "No.",
+          "quantity": 940.0,
+          "rate_per_unit": 104.0,
+          "total_cost": 97760.0
+        },
+        {
+          "description": "33 kV Heat shrik Straight through joint (AI) kit for XLPE 3 C X 300 sqmm",
+          "unit": "No.",
+          "quantity": 2.0,
+          "rate_per_unit": 36900.0,
+          "total_cost": 73800.0
+        },
+        {
+          "description": "33 kV Heat shrik Outdoor termination joint (AI) kit for XLPE 3 C X 300 sqmm",
+          "unit": "No.",
+          "quantity": 2.0,
+          "rate_per_unit": 19028.0,
+          "total_cost": 38056.0
+        },
+        {
+          "description": "Sand",
+          "unit": "Cmt.",
+          "quantity": 250.0,
+          "rate_per_unit": 222.0,
+          "total_cost": 55500.0
+        },
+        {
+          "description": "Misc. for XLPE U/G Cable",
+          "unit": "LS",
+          "quantity": 1.0,
+          "rate_per_unit": 1050.0,
+          "total_cost": 1050.0
+        }
+      ]
+    }
+  ],
+  "summary": {
+    "cost_of_material": 2117693.7,
+    "service_cost": 645896.0,
+    "sub_total": 2763590.0,
+    "turnkey_charges": 138179.0,
+    "total_cost_of_estimate": 2901770.0,
+    "civil_works_cost": null
+  }
+}

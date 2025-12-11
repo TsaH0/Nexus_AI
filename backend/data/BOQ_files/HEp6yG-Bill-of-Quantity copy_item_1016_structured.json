@@ -1,0 +1,176 @@
+{
+  "title": "22/0.4 KV , 100 KVA Dist. Transformer centers on RSJ pole 9 mtrs, with kitkat DB.",
+  "item_code": "1016",
+  "items": [
+    {
+      "serial_number": 1,
+      "description": "Dist.transformer 100kva,22/0.4kv",
+      "unit": "No",
+      "quantity": 1.0,
+      "rate_per_unit": 202380.0,
+      "total_cost": 202380.0,
+      "components": null
+    },
+    {
+      "serial_number": 2,
+      "description": "RSJ 116x100, 9 m long",
+      "unit": "No",
+      "quantity": 2.0,
+      "rate_per_unit": 9254.0,
+      "total_cost": 18508.0,
+      "components": null
+    },
+    {
+      "serial_number": 3,
+      "description": "MS Channel 100x50x6 mm",
+      "unit": "Kg",
+      "quantity": 100.0,
+      "rate_per_unit": 51.8,
+      "total_cost": 5180.0,
+      "components": null
+    },
+    {
+      "serial_number": 4,
+      "description": "M.S.Channel 75x40x6 mm",
+      "unit": "Kg",
+      "quantity": 44.0,
+      "rate_per_unit": 51.8,
+      "total_cost": 2279.2,
+      "components": null
+    },
+    {
+      "serial_number": 5,
+      "description": "MS angle 50x50x6 mm",
+      "unit": "Kg",
+      "quantity": 22.0,
+      "rate_per_unit": 51.8,
+      "total_cost": 1139.6,
+      "components": null
+    },
+    {
+      "serial_number": 6,
+      "description": "M.S.Flat 50 x 6 mm",
+      "unit": "Kg",
+      "quantity": 24.0,
+      "rate_per_unit": 48.5,
+      "total_cost": 1164.0,
+      "components": null
+    },
+    {
+      "serial_number": 7,
+      "description": "22 kV Pin Insulators with G.I. Pins",
+      "unit": "No",
+      "quantity": 3.0,
+      "rate_per_unit": 336.0,
+      "total_cost": 1008.0,
+      "components": null
+    },
+    {
+      "serial_number": 8,
+      "description": "L.T.Dist. Boxes 100 KVA with KITKAT",
+      "unit": "No",
+      "quantity": 1.0,
+      "rate_per_unit": 11834.0,
+      "total_cost": 11834.0,
+      "components": null
+    },
+    {
+      "serial_number": 9,
+      "description": "L.A.s 22KV (Gapless type) with disconnector",
+      "unit": "Set",
+      "quantity": 1.0,
+      "rate_per_unit": 2280.0,
+      "total_cost": 2280.0,
+      "components": null
+    },
+    {
+      "serial_number": 10,
+      "description": "H.T.Stay Set",
+      "unit": "Set",
+      "quantity": 4.0,
+      "rate_per_unit": 598.0,
+      "total_cost": 2392.0,
+      "components": null
+    },
+    {
+      "serial_number": 11,
+      "description": "Earthing Sets H.T",
+      "unit": "Set",
+      "quantity": 5.0,
+      "rate_per_unit": 342.0,
+      "total_cost": 1710.0,
+      "components": null
+    },
+    {
+      "serial_number": 12,
+      "description": "22KV H.G.Fuses",
+      "unit": "Set",
+      "quantity": 1.0,
+      "rate_per_unit": 4467.0,
+      "total_cost": 4467.0,
+      "components": null
+    },
+    {
+      "serial_number": 13,
+      "description": "22KV A.B.Switch, 400 A",
+      "unit": "Set",
+      "quantity": 1.0,
+      "rate_per_unit": 14447.0,
+      "total_cost": 14447.0,
+      "components": null
+    },
+    {
+      "serial_number": 14,
+      "description": "Danger Board in yard.",
+      "unit": "No",
+      "quantity": 2.0,
+      "rate_per_unit": 50.0,
+      "total_cost": 100.0,
+      "components": null
+    },
+    {
+      "serial_number": 15,
+      "description": "Painting/Hardware & support with numbering of pole",
+      "unit": "LS",
+      "quantity": 1.0,
+      "rate_per_unit": 225.0,
+      "total_cost": 225.0,
+      "components": null
+    },
+    {
+      "serial_number": 16,
+      "description": "DTC Melring with Box, single core L.T. XLPE cable ( 70 sq.mm., 120 mtr length) and other allied material.",
+      "unit": "No",
+      "quantity": 1.0,
+      "rate_per_unit": 7529.2,
+      "total_cost": 7529.2,
+      "components": null
+    },
+    {
+      "serial_number": 17,
+      "description": "Concreting ration 1:3:6",
+      "unit": "CMT.",
+      "quantity": 2.0,
+      "rate_per_unit": 3027.0,
+      "total_cost": 6054.0,
+      "components": null
+    },
+    {
+      "serial_number": 18,
+      "description": "Sundries",
+      "unit": "LS",
+      "quantity": 1.0,
+      "rate_per_unit": 810.0,
+      "total_cost": 810.0,
+      "components": null
+    }
+  ],
+  "summary": {
+    "cost_of_material": 283507.0,
+    "service_cost": 86470.0,
+    "sub_total": 369977.0,
+    "turnkey_charges": 18499.0,
+    "total_cost_of_estimate": 388475.0,
+    "civil_works_cost": null
+  }
+}

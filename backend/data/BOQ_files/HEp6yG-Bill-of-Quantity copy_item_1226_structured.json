@@ -1,0 +1,95 @@
+{
+  "title": "Cost Data for 11/0.44 DTC Additional 2 X 315 KVA, Indoor type DTC with RMU without room",
+  "item_code": "1226",
+  "items": [
+    {
+      "serial_number": 1,
+      "description": "Dist. Transformer 315 KVA, 11/0.43 kv",
+      "unit": "No.",
+      "quantity": 2.0,
+      "rate_per_unit": 433900.0,
+      "total_cost": 867800.0,
+      "components": null
+    },
+    {
+      "serial_number": 2,
+      "description": "11 kV SF6, Motorized, SCADA Compatible RMU 2 Iso + 2 Br",
+      "unit": "No.",
+      "quantity": 1.0,
+      "rate_per_unit": 492900.0,
+      "total_cost": 492900.0,
+      "components": null
+    },
+    {
+      "serial_number": 3,
+      "description": "XLPE Cable 11 KV, 3 C / 95 mm sq.",
+      "unit": "Rmt",
+      "quantity": 30.0,
+      "rate_per_unit": 592.0,
+      "total_cost": 17760.0,
+      "components": null
+    },
+    {
+      "serial_number": 4,
+      "description": "11 kV heat shrinkable Indoor termination joint kit for 3 C X 95 sgmm",
+      "unit": "No.",
+      "quantity": 4.0,
+      "rate_per_unit": 1169.0,
+      "total_cost": 4676.0,
+      "components": null
+    },
+    {
+      "serial_number": 5,
+      "description": "6 way feeder pillar with ACB",
+      "unit": "No.",
+      "quantity": 2.0,
+      "rate_per_unit": 61963.0,
+      "total_cost": 123926.0,
+      "components": null
+    },
+    {
+      "serial_number": 6,
+      "description": "Earthing with GI pipe",
+      "unit": "L.S.",
+      "quantity": 8.0,
+      "rate_per_unit": 291.0,
+      "total_cost": 2328.0,
+      "components": null
+    },
+    {
+      "serial_number": 7,
+      "description": "Earthing with GI plate",
+      "unit": "L.S.",
+      "quantity": 8.0,
+      "rate_per_unit": 1698.0,
+      "total_cost": 13584.0,
+      "components": null
+    },
+    {
+      "serial_number": 8,
+      "description": "DTC Melting with Box, single core L.T. XLPE cable (300 sq.mm., 280 mtr length) and other allied material.",
+      "unit": "No.",
+      "quantity": 2.0,
+      "rate_per_unit": 7676.0,
+      "total_cost": 15352.0,
+      "components": null
+    },
+    {
+      "serial_number": 9,
+      "description": "Sundries",
+      "unit": "L.S.",
+      "quantity": 2.0,
+      "rate_per_unit": 810.0,
+      "total_cost": 1620.0,
+      "components": null
+    }
+  ],
+  "summary": {
+    "cost_of_material": 1539946.0,
+    "service_cost": 469684.0,
+    "sub_total": 2009630.0,
+    "turnkey_charges": 100481.0,
+    "total_cost_of_estimate": 2157925.0,
+    "civil_works_cost": 47814.0
+  }
+}

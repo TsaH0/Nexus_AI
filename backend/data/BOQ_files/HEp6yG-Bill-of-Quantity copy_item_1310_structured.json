@@ -1,0 +1,113 @@
+{
+  "title": "Cost Data for Augmentation of Indoor Distribution Transformer Sub-station 11/0.4 kv, 630 KVA to 11/0.4 kv, 995 KVA",
+  "item_code": "1310",
+  "items": [
+    {
+      "serial_number": 1,
+      "description": "Dist. Transformer 995 KVA, 11/0.4 kv",
+      "unit": "No.",
+      "quantity": 1.0,
+      "rate_per_unit": 869654.0,
+      "total_cost": 869654.0,
+      "components": null
+    },
+    {
+      "serial_number": 2,
+      "description": "8 way feeder pillar with ACB",
+      "unit": "No.",
+      "quantity": 1.0,
+      "rate_per_unit": 64190.0,
+      "total_cost": 64190.0,
+      "components": null
+    },
+    {
+      "serial_number": 3,
+      "description": "STC Melting with Box, single core L.T. XLPE cable (300 sq.mm., 320 mtr length) and other allied material for 995 KVA",
+      "unit": "L.S.",
+      "quantity": 1.0,
+      "rate_per_unit": 8476.0,
+      "total_cost": 8476.0,
+      "components": null
+    },
+    {
+      "serial_number": 4,
+      "description": "Sundries",
+      "unit": "L.S.",
+      "quantity": 1.0,
+      "rate_per_unit": 810.0,
+      "total_cost": 810.0,
+      "components": null
+    },
+    {
+      "serial_number": 5,
+      "description": "Transportation on material",
+      "unit": "4.00%",
+      "quantity": 1.0,
+      "rate_per_unit": null,
+      "total_cost": 37725.0,
+      "components": null
+    },
+    {
+      "serial_number": 6,
+      "description": "T&P on material cost",
+      "unit": "1.00%",
+      "quantity": 1.0,
+      "rate_per_unit": null,
+      "total_cost": 9431.0,
+      "components": null
+    },
+    {
+      "serial_number": 7,
+      "description": "Contigencies on material",
+      "unit": "2.50%",
+      "quantity": 1.0,
+      "rate_per_unit": null,
+      "total_cost": 23578.0,
+      "components": null
+    },
+    {
+      "serial_number": 8,
+      "description": "Erection cost on material",
+      "unit": "15.00%",
+      "quantity": 1.0,
+      "rate_per_unit": null,
+      "total_cost": 141470.0,
+      "components": null
+    },
+    {
+      "serial_number": 9,
+      "description": "Contractor supervision charges on material",
+      "unit": "5.00%",
+      "quantity": 1.0,
+      "rate_per_unit": null,
+      "total_cost": 47157.0,
+      "components": null
+    },
+    {
+      "serial_number": 10,
+      "description": "Insurance, Labour & Finance Cost",
+      "unit": "3.00%",
+      "quantity": 1.0,
+      "rate_per_unit": null,
+      "total_cost": 28294.0,
+      "components": null
+    },
+    {
+      "serial_number": 11,
+      "description": "Turnkey Charges",
+      "unit": "5.00%",
+      "quantity": 1.0,
+      "rate_per_unit": null,
+      "total_cost": 61539.0,
+      "components": null
+    }
+  ],
+  "summary": {
+    "cost_of_material": 943130.0,
+    "service_cost": 287655.0,
+    "sub_total": 1230785.0,
+    "turnkey_charges": 61539.0,
+    "total_cost_of_estimate": 1292324.0,
+    "civil_works_cost": null
+  }
+}

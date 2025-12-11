@@ -1,0 +1,77 @@
+{
+  "title": "Conversion of 11 kV line by 3 core 185 sqmm Cable",
+  "item_code": "0917",
+  "items": [
+    {
+      "serial_number": 1,
+      "description": "XLPE Cable 11 KV, 3 C / 185 mm sq.",
+      "unit": "Rmt",
+      "quantity": 1000.0,
+      "rate_per_unit": 858.0,
+      "total_cost": 858000.0,
+      "components": null
+    },
+    {
+      "serial_number": 2,
+      "description": "R.C.C. Pipe 150 mm 2 M",
+      "unit": "No",
+      "quantity": 30.0,
+      "rate_per_unit": 572.0,
+      "total_cost": 17160.0,
+      "components": null
+    },
+    {
+      "serial_number": 3,
+      "description": "Half round cement pipe ( 150mm X 1mtr)",
+      "unit": "No.",
+      "quantity": 940.0,
+      "rate_per_unit": 110.0,
+      "total_cost": 103400.0,
+      "components": null
+    },
+    {
+      "serial_number": 4,
+      "description": "11 kV heat shrinkable Straight through joint kit for 3 C X 185 sqmm",
+      "unit": "No",
+      "quantity": 2.0,
+      "rate_per_unit": 5043.0,
+      "total_cost": 10086.0,
+      "components": null
+    },
+    {
+      "serial_number": 5,
+      "description": "11 kV heat shrinkable Outdoor termination joint kit for 3 C X 185 sqmm",
+      "unit": "No.",
+      "quantity": 2.0,
+      "rate_per_unit": 1907.0,
+      "total_cost": 3814.0,
+      "components": null
+    },
+    {
+      "serial_number": 6,
+      "description": "Sand",
+      "unit": "Cmt",
+      "quantity": 250.0,
+      "rate_per_unit": 222.0,
+      "total_cost": 55500.0,
+      "components": null
+    },
+    {
+      "serial_number": 7,
+      "description": "Misc. for XLPE U/G Cable",
+      "unit": "LS",
+      "quantity": 1.0,
+      "rate_per_unit": 1050.0,
+      "total_cost": 1050.0,
+      "components": null
+    }
+  ],
+  "summary": {
+    "cost_of_material": 1049010.0,
+    "service_cost": 319948.0,
+    "sub_total": 1368958.0,
+    "turnkey_charges": 68448.0,
+    "total_cost_of_estimate": 1437406.0,
+    "civil_works_cost": null
+  }
+}

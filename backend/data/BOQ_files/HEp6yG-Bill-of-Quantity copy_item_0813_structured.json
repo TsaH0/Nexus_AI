@@ -1,0 +1,77 @@
+{
+  "title": "Cost Data for laying of 1 Km. 22 KV 3 C 300 Sqmm XLPE under ground Cable",
+  "item_code": "0813",
+  "items": [
+    {
+      "serial_number": 1,
+      "description": "XLPE Cable 22 KV, 3 C / 300 mm sq.",
+      "unit": "Rmt",
+      "quantity": 1000.0,
+      "rate_per_unit": 1464.0,
+      "total_cost": 1464000.0,
+      "components": null
+    },
+    {
+      "serial_number": 2,
+      "description": "R.C.C. Pipe 150 mm 2 M",
+      "unit": "No",
+      "quantity": 30.0,
+      "rate_per_unit": 572.0,
+      "total_cost": 17160.0,
+      "components": null
+    },
+    {
+      "serial_number": 3,
+      "description": "Half round cement pipe ( 150mm X 1mtr)",
+      "unit": "No.",
+      "quantity": 940.0,
+      "rate_per_unit": 110.0,
+      "total_cost": 103400.0,
+      "components": null
+    },
+    {
+      "serial_number": 4,
+      "description": "22 kV Heat shrik Straight through joint (AI) kit for XLPE 3 C X 300 sqmm",
+      "unit": "No.",
+      "quantity": 2.0,
+      "rate_per_unit": 24600.0,
+      "total_cost": 49200.0,
+      "components": null
+    },
+    {
+      "serial_number": 5,
+      "description": "22 kV Heat shrik Outdoor termination joint (AI) kit for XLPE 3 C X 300 sqmm",
+      "unit": "No.",
+      "quantity": 2.0,
+      "rate_per_unit": 13715.0,
+      "total_cost": 27430.0,
+      "components": null
+    },
+    {
+      "serial_number": 6,
+      "description": "Sand",
+      "unit": "Cmt",
+      "quantity": 250.0,
+      "rate_per_unit": 222.0,
+      "total_cost": 55500.0,
+      "components": null
+    },
+    {
+      "serial_number": 7,
+      "description": "Misc. for XLPE U/G Cable",
+      "unit": "LS",
+      "quantity": 1.0,
+      "rate_per_unit": 1050.0,
+      "total_cost": 1050.0,
+      "components": null
+    }
+  ],
+  "summary": {
+    "cost_of_material": 1717740.0,
+    "service_cost": 523911.0,
+    "sub_total": 2241651.0,
+    "turnkey_charges": 112083.0,
+    "total_cost_of_estimate": 2353733.0,
+    "civil_works_cost": null
+  }
+}

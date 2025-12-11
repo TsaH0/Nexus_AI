@@ -1,0 +1,50 @@
+{
+  "title": "Cost data for laying of 1 Km. L.T.XLPE Cable for Size 120 mm2",
+  "item_code": "1405",
+  "items": [
+    {
+      "serial_number": 1,
+      "description": "L.T.XLPE Armoured 3.5 Core cable120 sq.mm.",
+      "unit": "Rmt",
+      "quantity": 1000.0,
+      "rate_per_unit": 329.0,
+      "total_cost": 329000.0,
+      "components": null
+    },
+    {
+      "serial_number": 2,
+      "description": "R.C.C. Pipe 150 mm 2 M",
+      "unit": "No.",
+      "quantity": 30.0,
+      "rate_per_unit": 572.0,
+      "total_cost": 17160.0,
+      "components": null
+    },
+    {
+      "serial_number": 3,
+      "description": "L.T. jointing kits for 120 Sqmm",
+      "unit": "No",
+      "quantity": 10.0,
+      "rate_per_unit": 560.0,
+      "total_cost": 5600.0,
+      "components": null
+    },
+    {
+      "serial_number": 4,
+      "description": "Misc. ( Bricks,sand,tremination kit and etc.)",
+      "unit": "LS",
+      "quantity": 1.0,
+      "rate_per_unit": 25350.0,
+      "total_cost": 25350.0,
+      "components": null
+    }
+  ],
+  "summary": {
+    "cost_of_material": 377110.0,
+    "service_cost": 115019.0,
+    "sub_total": 492129.0,
+    "turnkey_charges": 24606.0,
+    "total_cost_of_estimate": 516735.0,
+    "civil_works_cost": null
+  }
+}

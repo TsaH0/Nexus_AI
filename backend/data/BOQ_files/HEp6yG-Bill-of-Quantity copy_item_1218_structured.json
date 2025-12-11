@@ -1,0 +1,167 @@
+{
+  "title": "11/0.4 KV .63 KVA Dist. Transformer centers on RSJ, 100 X 116 mm, 11 mtr with Kitkat Dist box.",
+  "item_code": "1218",
+  "items": [
+    {
+      "serial_number": 1,
+      "description": "Dist. transformer 63kva,11/.4kv",
+      "unit": "No",
+      "quantity": 1.0,
+      "rate_per_unit": 86216.0,
+      "total_cost": 86216.0,
+      "components": null
+    },
+    {
+      "serial_number": 2,
+      "description": "RSJ 116x100, 11 m long",
+      "unit": "No",
+      "quantity": 2.0,
+      "rate_per_unit": 11311.0,
+      "total_cost": 22622.0,
+      "components": null
+    },
+    {
+      "serial_number": 3,
+      "description": "MS Channel 100x50x6 mm",
+      "unit": "Kg",
+      "quantity": 100.0,
+      "rate_per_unit": 51.8,
+      "total_cost": 5180.0,
+      "components": null
+    },
+    {
+      "serial_number": 4,
+      "description": "M.S.Channel 75x40x6 mm",
+      "unit": "Kg",
+      "quantity": 44.0,
+      "rate_per_unit": 51.8,
+      "total_cost": 2279.2,
+      "components": null
+    },
+    {
+      "serial_number": 5,
+      "description": "MS angle 50x50x6 mm",
+      "unit": "Kg",
+      "quantity": 22.0,
+      "rate_per_unit": 51.8,
+      "total_cost": 1139.6,
+      "components": null
+    },
+    {
+      "serial_number": 6,
+      "description": "M.S.Flat 50 x 6 mm",
+      "unit": "Kg",
+      "quantity": 24.0,
+      "rate_per_unit": 48.5,
+      "total_cost": 1164.0,
+      "components": null
+    },
+    {
+      "serial_number": 7,
+      "description": "11 kV Pin Insulators with G.I. Pins",
+      "unit": "No",
+      "quantity": 3.0,
+      "rate_per_unit": 135.0,
+      "total_cost": 405.0,
+      "components": null
+    },
+    {
+      "serial_number": 8,
+      "description": "L.T.Dist.Boxes 100 KVA with KITKAT",
+      "unit": "No",
+      "quantity": 1.0,
+      "rate_per_unit": 11834.0,
+      "total_cost": 11834.0,
+      "components": null
+    },
+    {
+      "serial_number": 9,
+      "description": "L.As. 11 KV (Gapless type) with disconector",
+      "unit": "Set",
+      "quantity": 1.0,
+      "rate_per_unit": 1268.0,
+      "total_cost": 1268.0,
+      "components": null
+    },
+    {
+      "serial_number": 10,
+      "description": "H.T.Stay Set",
+      "unit": "Set",
+      "quantity": 4.0,
+      "rate_per_unit": 598.0,
+      "total_cost": 2392.0,
+      "components": null
+    },
+    {
+      "serial_number": 11,
+      "description": "Earthing Sets H.T",
+      "unit": "Set",
+      "quantity": 5.0,
+      "rate_per_unit": 342.0,
+      "total_cost": 1710.0,
+      "components": null
+    },
+    {
+      "serial_number": 12,
+      "description": "11KV H.G.Fuses",
+      "unit": "Set",
+      "quantity": 1.0,
+      "rate_per_unit": 1964.0,
+      "total_cost": 1964.0,
+      "components": null
+    },
+    {
+      "serial_number": 13,
+      "description": "11KV A.B. Switch, 400 A",
+      "unit": "Set",
+      "quantity": 1.0,
+      "rate_per_unit": 9240.0,
+      "total_cost": 9240.0,
+      "components": null
+    },
+    {
+      "serial_number": 14,
+      "description": "Danger Board in yard.",
+      "unit": "No",
+      "quantity": 2.0,
+      "rate_per_unit": 50.0,
+      "total_cost": 100.0,
+      "components": null
+    },
+    {
+      "serial_number": 15,
+      "description": "Painting/Hardware & support with numbering of pole",
+      "unit": "LS",
+      "quantity": 1.0,
+      "rate_per_unit": 225.0,
+      "total_cost": 225.0,
+      "components": null
+    },
+    {
+      "serial_number": 16,
+      "description": "DTC Metring with Box, single core L.T. XLPE cable (35 sq.mm., 120 mtr length) and other allied material.",
+      "unit": "No",
+      "quantity": 1.0,
+      "rate_per_unit": 7514.0,
+      "total_cost": 7514.0,
+      "components": null
+    },
+    {
+      "serial_number": 17,
+      "description": "Sundries",
+      "unit": "LS",
+      "quantity": 1.0,
+      "rate_per_unit": 810.0,
+      "total_cost": 810.0,
+      "components": null
+    }
+  ],
+  "summary": {
+    "cost_of_material": 156062.8,
+    "service_cost": 47599.0,
+    "sub_total": 203662.0,
+    "turnkey_charges": 10183.0,
+    "total_cost_of_estimate": 213845.0,
+    "civil_works_cost": null
+  }
+}

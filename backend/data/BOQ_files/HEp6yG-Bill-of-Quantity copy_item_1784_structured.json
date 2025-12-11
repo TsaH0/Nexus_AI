@@ -1,0 +1,151 @@
+{
+  "title": "Cost Data for 11 KV Station Type 2.4 MVAR Capacitor Bank with 0.2 % Reactor for any area",
+  "item_code": "1784",
+  "items": [
+    {
+      "serial_number": 1,
+      "description": "11 KV Lightning Arrestors (Station type)",
+      "unit": "Set",
+      "quantity": 1.0,
+      "rate_per_unit": 10260.0,
+      "total_cost": 10260.0,
+      "components": null
+    },
+    {
+      "serial_number": 2,
+      "description": "11 kV, Single phase, outdoor NCT",
+      "unit": "Nos.",
+      "quantity": 1.0,
+      "rate_per_unit": 13000.0,
+      "total_cost": 13000.0,
+      "components": null
+    },
+    {
+      "serial_number": "2.1",
+      "description": "11 KV CT 400 - 200 / 5 - 5 Outdoor",
+      "unit": "Nos.",
+      "quantity": 3.0,
+      "rate_per_unit": 10611.0,
+      "total_cost": 31833.0,
+      "components": null
+    },
+    {
+      "serial_number": 3,
+      "description": "2.4 MVAr, 11 kV Capacitor Bank",
+      "unit": "Set",
+      "quantity": 1.0,
+      "rate_per_unit": 240731.0,
+      "total_cost": 240731.0,
+      "components": null
+    },
+    {
+      "serial_number": 4,
+      "description": "11KV A.B. Switch, 400 A",
+      "unit": "Nos.",
+      "quantity": 1.0,
+      "rate_per_unit": 9240.0,
+      "total_cost": 9240.0,
+      "components": null
+    },
+    {
+      "serial_number": 2,
+      "description": "11 KV Isolators with EB (800 A)",
+      "unit": "Set",
+      "quantity": 1.0,
+      "rate_per_unit": 30025.0,
+      "total_cost": 30025.0,
+      "components": null
+    },
+    {
+      "serial_number": 5,
+      "description": "11 KV Isolators without EB (800 Amp.)",
+      "unit": "Set",
+      "quantity": 1.0,
+      "rate_per_unit": 26630.0,
+      "total_cost": 26630.0,
+      "components": null
+    },
+    {
+      "serial_number": 6,
+      "description": "11 KV VCB 800 A Outdoor",
+      "unit": "Set",
+      "quantity": 1.0,
+      "rate_per_unit": 117466.0,
+      "total_cost": 117466.0,
+      "components": null
+    },
+    {
+      "serial_number": 7,
+      "description": "Structure, clamps, painting etc. as per sht. No. 1",
+      "unit": "L.S.",
+      "quantity": 1.0,
+      "rate_per_unit": 31754.0,
+      "total_cost": 31754.0,
+      "components": [
+        {
+          "description": "Structure for 11 KV CT",
+          "unit": "Kg.",
+          "quantity": 50.0,
+          "rate_per_unit": 51.8,
+          "total_cost": 2590.0
+        },
+        {
+          "description": "Structure for 11 KV L.A.",
+          "unit": "Kg.",
+          "quantity": 155.0,
+          "rate_per_unit": 51.8,
+          "total_cost": 8029.0
+        },
+        {
+          "description": "Structure for Breaker and Capacitors",
+          "unit": "Kg.",
+          "quantity": 360.0,
+          "rate_per_unit": 51.8,
+          "total_cost": 18648.0
+        },
+        {
+          "description": "Q.I.Nut Bolts",
+          "unit": "Kg.",
+          "quantity": 30.0,
+          "rate_per_unit": 82.9,
+          "total_cost": 2487.0
+        }
+      ]
+    },
+    {
+      "serial_number": 8,
+      "description": "C&R Panel for 11 kV Outgoing Feeder OD",
+      "unit": "Nos.",
+      "quantity": 1.0,
+      "rate_per_unit": 49844.0,
+      "total_cost": 49844.0,
+      "components": null
+    },
+    {
+      "serial_number": 9,
+      "description": "1.93 KVAr, 11 kv, 1 Ph, Al winded series reactor",
+      "unit": "Set",
+      "quantity": 1.0,
+      "rate_per_unit": 54887.0,
+      "total_cost": 54887.0,
+      "components": null
+    },
+    {
+      "serial_number": 10,
+      "description": "Earthing Sets H.T",
+      "unit": "L.S.",
+      "quantity": 17.0,
+      "rate_per_unit": 342.0,
+      "total_cost": 5814.0,
+      "components": null
+    }
+  ],
+  "summary": {
+    "cost_of_material": 621484.0,
+    "service_cost": 127404.0,
+    "sub_total": 748888.0,
+    "turnkey_charges": 37444.0,
+    "total_cost_of_estimate": 786333.0,
+    "civil_works_cost": null
+  }
+}

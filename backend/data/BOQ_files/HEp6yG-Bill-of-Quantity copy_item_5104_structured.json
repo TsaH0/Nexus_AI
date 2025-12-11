@@ -1,0 +1,32 @@
+{
+  "title": "Replacement of old HT O/D termination joints for 33 kV, 3 C, 300 sq. mm. XLPE cable",
+  "item_code": "5104",
+  "items": [
+    {
+      "serial_number": 1,
+      "description": "33 kV Heat shrik Outdoor termination joint (AI) kit for XLPE 3 C X 300 sgrm",
+      "unit": "No",
+      "quantity": 1.0,
+      "rate_per_unit": 19028.0,
+      "total_cost": 19028.0,
+      "components": null
+    },
+    {
+      "serial_number": 2,
+      "description": "Sundries",
+      "unit": "LS",
+      "quantity": 1.0,
+      "rate_per_unit": 810.0,
+      "total_cost": 810.0,
+      "components": null
+    }
+  ],
+  "summary": {
+    "cost_of_material": 19838.0,
+    "service_cost": 6051.0,
+    "sub_total": 25889.0,
+    "turnkey_charges": 1294.0,
+    "total_cost_of_estimate": 27183.0,
+    "civil_works_cost": null
+  }
+}

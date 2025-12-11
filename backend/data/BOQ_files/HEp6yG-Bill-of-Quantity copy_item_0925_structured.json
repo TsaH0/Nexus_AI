@@ -1,0 +1,136 @@
+{
+  "title": "SINGLE POLE CUT POINT STRUCTURE FOR 11KV LINE ON PSC 9 M POLE",
+  "item_code": "0925",
+  "items": [
+    {
+      "serial_number": 1,
+      "description": "SINGLE POLE CUT POINT STRUCTURE FOR 11KV LINE ON PSC 9 M POLE",
+      "unit": "No.",
+      "quantity": 1.0,
+      "rate_per_unit": 24438.0,
+      "total_cost": 24438.0,
+      "components": [
+        {
+          "description": "PSC Pole 9 Mtr (200 KG)",
+          "unit": "No.",
+          "quantity": 1.0,
+          "rate_per_unit": 2260.0,
+          "total_cost": 2260.0
+        },
+        {
+          "description": "M.S.Channel 75x40x6 mm",
+          "unit": "Kg.",
+          "quantity": 40.0,
+          "rate_per_unit": 51.8,
+          "total_cost": 2072.0
+        },
+        {
+          "description": "MS angle 50x50x6 mm",
+          "unit": "Kg.",
+          "quantity": 25.0,
+          "rate_per_unit": 51.8,
+          "total_cost": 1295.0
+        },
+        {
+          "description": "Strain Hardware for Dng0.1 or Equ AAAC.",
+          "unit": "No.",
+          "quantity": 6.0,
+          "rate_per_unit": 322.0,
+          "total_cost": 1932.0
+        },
+        {
+          "description": "Disc Insulator 11 KV 70 KN",
+          "unit": "No.",
+          "quantity": 6.0,
+          "rate_per_unit": 344.0,
+          "total_cost": 2064.0
+        },
+        {
+          "description": "H.T.Stay Set",
+          "unit": "No.",
+          "quantity": 2.0,
+          "rate_per_unit": 598.0,
+          "total_cost": 1196.0
+        },
+        {
+          "description": "G.I.Stay Wire 7/4mm(8 SWG)",
+          "unit": "Kg.",
+          "quantity": 13.0,
+          "rate_per_unit": 57.45,
+          "total_cost": 746.85
+        },
+        {
+          "description": "Earthing Sets H.T",
+          "unit": "No.",
+          "quantity": 1.0,
+          "rate_per_unit": 342.0,
+          "total_cost": 342.0
+        },
+        {
+          "description": "G.I.Wire 8 SWG/ 6 SWG",
+          "unit": "Kg.",
+          "quantity": 2.0,
+          "rate_per_unit": 57.4,
+          "total_cost": 114.8
+        },
+        {
+          "description": "G.I.Barbed Wire 'A' type.",
+          "unit": "Kg.",
+          "quantity": 2.0,
+          "rate_per_unit": 64.27,
+          "total_cost": 128.54
+        },
+        {
+          "description": "Danger Board in yard.",
+          "unit": "No.",
+          "quantity": 1.0,
+          "rate_per_unit": 50.0,
+          "total_cost": 50.0
+        },
+        {
+          "description": "Black Bituminus Paint",
+          "unit": "Ltr.",
+          "quantity": 0.5,
+          "rate_per_unit": 85.0,
+          "total_cost": 42.5
+        },
+        {
+          "description": "Red Oxide Paint for 2 coats",
+          "unit": "Ltr.",
+          "quantity": 1.5,
+          "rate_per_unit": 85.0,
+          "total_cost": 127.5
+        },
+        {
+          "description": "Aluminium Paint for 1 coat",
+          "unit": "Ltr.",
+          "quantity": 1.0,
+          "rate_per_unit": 113.0,
+          "total_cost": 113.0
+        },
+        {
+          "description": "Concreting ration 1:3:6",
+          "unit": "Cmt.",
+          "quantity": 1.5,
+          "rate_per_unit": 3027.0,
+          "total_cost": 4540.5
+        },
+        {
+          "description": "Sundries",
+          "unit": "LS",
+          "quantity": 1.0,
+          "rate_per_unit": 810.0,
+          "total_cost": 810.0
+        }
+      ]
+    }
+  ],
+  "summary": {
+    "cost_of_material": 17834.69,
+    "service_cost": 5440.0,
+    "sub_total": 23274.0,
+    "turnkey_charges": 1164.0,
+    "total_cost_of_estimate": 24438.0,
+    "civil_works_cost": null
+  }
+}

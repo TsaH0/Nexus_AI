@@ -1,0 +1,59 @@
+{
+  "title": "Supply, Erection, Testing & Commissioning of LT 8-WAY Feeder Pillars",
+  "item_code": "2001A",
+  "items": [
+    {
+      "serial_number": 1,
+      "description": "L.T Feeder Pillar 8 Way",
+      "unit": "No",
+      "quantity": 1.0,
+      "rate_per_unit": 38230.0,
+      "total_cost": 38230.0,
+      "components": null
+    },
+    {
+      "serial_number": 2,
+      "description": "Earthing with GI pipe",
+      "unit": "No",
+      "quantity": 2.0,
+      "rate_per_unit": 291.0,
+      "total_cost": 582.0,
+      "components": null
+    },
+    {
+      "serial_number": 3,
+      "description": "G.I.Strip ( 25 x 3 mm )",
+      "unit": "KG",
+      "quantity": 2.0,
+      "rate_per_unit": 66.78,
+      "total_cost": 133.56,
+      "components": null
+    },
+    {
+      "serial_number": 4,
+      "description": "Sundries",
+      "unit": "L. S.",
+      "quantity": 1.0,
+      "rate_per_unit": 810.0,
+      "total_cost": 810.0,
+      "components": null
+    },
+    {
+      "serial_number": 5,
+      "description": "Concreting ration 1:3:6",
+      "unit": "L. S.",
+      "quantity": 1.0,
+      "rate_per_unit": 3027.0,
+      "total_cost": 3027.0,
+      "components": null
+    }
+  ],
+  "summary": {
+    "cost_of_material": 42782.56,
+    "service_cost": 13049.0,
+    "sub_total": 55831.0,
+    "turnkey_charges": 2792.0,
+    "total_cost_of_estimate": 58623.0,
+    "civil_works_cost": null
+  }
+}

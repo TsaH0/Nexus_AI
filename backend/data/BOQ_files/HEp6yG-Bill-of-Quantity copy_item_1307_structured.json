@@ -1,0 +1,113 @@
+{
+  "title": "Cost Data for Augumentation of existing DTC to 11/0.433 KV 100 KVA with rural KITKAT DB",
+  "item_code": "1307",
+  "items": [
+    {
+      "serial_number": 1,
+      "description": "Dist. Transformer 100 KVA, 11/0.43 kv",
+      "unit": "No",
+      "quantity": 1.0,
+      "rate_per_unit": 112770.0,
+      "total_cost": 112770.0,
+      "components": null
+    },
+    {
+      "serial_number": 2,
+      "description": "L.T.Dist. Boxes 100 KVA with KITKAT",
+      "unit": "No",
+      "quantity": 1.0,
+      "rate_per_unit": 11834.0,
+      "total_cost": 11834.0,
+      "components": null
+    },
+    {
+      "serial_number": 3,
+      "description": "L.As. 11 KV (Gapless type) with disconector",
+      "unit": "Set",
+      "quantity": 1.0,
+      "rate_per_unit": 1268.0,
+      "total_cost": 1268.0,
+      "components": null
+    },
+    {
+      "serial_number": 4,
+      "description": "11KV A.B. Switch, 400 A",
+      "unit": "Set",
+      "quantity": 1.0,
+      "rate_per_unit": 9240.0,
+      "total_cost": 9240.0,
+      "components": null
+    },
+    {
+      "serial_number": 5,
+      "description": "Danger Board in yard.",
+      "unit": "No",
+      "quantity": 2.0,
+      "rate_per_unit": 50.0,
+      "total_cost": 100.0,
+      "components": null
+    },
+    {
+      "serial_number": 6,
+      "description": "G.I.Wire 8 SWG/ 6 SWG",
+      "unit": "Kg.",
+      "quantity": 25.0,
+      "rate_per_unit": 57.4,
+      "total_cost": 1435.0,
+      "components": null
+    },
+    {
+      "serial_number": 7,
+      "description": "G.I.Barbed Wire 'A' type.",
+      "unit": "Kg.",
+      "quantity": 150.0,
+      "rate_per_unit": 64.27,
+      "total_cost": 9640.5,
+      "components": null
+    },
+    {
+      "serial_number": 8,
+      "description": "L.T.XLPE Armoured 3.5 Core cable70 sq.mm.",
+      "unit": "Rmt",
+      "quantity": 25.0,
+      "rate_per_unit": 204.0,
+      "total_cost": 5100.0,
+      "components": null
+    },
+    {
+      "serial_number": 9,
+      "description": "L.T.XLPE Armoured 3.5 Core cable120 sq.mm.",
+      "unit": "Rmt",
+      "quantity": 10.0,
+      "rate_per_unit": 329.0,
+      "total_cost": 3290.0,
+      "components": null
+    },
+    {
+      "serial_number": 10,
+      "description": "Painting Hardware & support with numbering of pole",
+      "unit": "No",
+      "quantity": 1.0,
+      "rate_per_unit": 225.0,
+      "total_cost": 225.0,
+      "components": null
+    },
+    {
+      "serial_number": 11,
+      "description": "Sundries",
+      "unit": "LS",
+      "quantity": 1.0,
+      "rate_per_unit": 810.0,
+      "total_cost": 810.0,
+      "components": null
+    }
+  ],
+  "summary": {
+    "cost_of_material": 155712.5,
+    "service_cost": 47492.0,
+    "sub_total": 203205.0,
+    "turnkey_charges": 10160.0,
+    "total_cost_of_estimate": 213365.0,
+    "civil_works_cost": null
+  }
+}

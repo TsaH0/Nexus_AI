@@ -1,0 +1,185 @@
+{
+  "title": "33 kV Tapping structure using 100 X 116, 11 mtr RSJ pole.",
+  "item_code": "0721",
+  "items": [
+    {
+      "serial_number": 1,
+      "description": "RSJ 116x100, 11 m long",
+      "unit": "No",
+      "quantity": 4.0,
+      "rate_per_unit": 11311.0,
+      "total_cost": 45244.0,
+      "components": null
+    },
+    {
+      "serial_number": 2,
+      "description": "RSJ 116x100, 10 m long",
+      "unit": "No",
+      "quantity": 0.0,
+      "rate_per_unit": 10283.0,
+      "total_cost": 0.0,
+      "components": null
+    },
+    {
+      "serial_number": 3,
+      "description": "MS Channel 100x50x6 mm",
+      "unit": "Kg",
+      "quantity": 204.0,
+      "rate_per_unit": 51.8,
+      "total_cost": 10567.2,
+      "components": null
+    },
+    {
+      "serial_number": 4,
+      "description": "M.S.Channel 75x40x6 mm",
+      "unit": "Kg",
+      "quantity": 300.0,
+      "rate_per_unit": 51.8,
+      "total_cost": 15540.0,
+      "components": null
+    },
+    {
+      "serial_number": 5,
+      "description": "MS angle 50x50x6 mm",
+      "unit": "Kg",
+      "quantity": 45.0,
+      "rate_per_unit": 51.8,
+      "total_cost": 2331.0,
+      "components": null
+    },
+    {
+      "serial_number": 6,
+      "description": "M.S. Flats(50 X 10mm)",
+      "unit": "Kg",
+      "quantity": 35.0,
+      "rate_per_unit": 48.5,
+      "total_cost": 1697.5,
+      "components": null
+    },
+    {
+      "serial_number": 7,
+      "description": "33 kV Pin Insulators with G.I. Pins",
+      "unit": "No",
+      "quantity": 3.0,
+      "rate_per_unit": 541.0,
+      "total_cost": 1623.0,
+      "components": null
+    },
+    {
+      "serial_number": 8,
+      "description": "G.I.Nut Bolts",
+      "unit": "Kg",
+      "quantity": 10.0,
+      "rate_per_unit": 82.9,
+      "total_cost": 829.0,
+      "components": null
+    },
+    {
+      "serial_number": 9,
+      "description": "Disc Insulator 11 KV 70 KN",
+      "unit": "No",
+      "quantity": 18.0,
+      "rate_per_unit": 344.0,
+      "total_cost": 6192.0,
+      "components": null
+    },
+    {
+      "serial_number": 10,
+      "description": "Strain Hardware for Dog0.1 or Equ.AAAC.",
+      "unit": "Set",
+      "quantity": 6.0,
+      "rate_per_unit": 322.0,
+      "total_cost": 1932.0,
+      "components": null
+    },
+    {
+      "serial_number": 11,
+      "description": "H.T.Stay Set",
+      "unit": "Set",
+      "quantity": 4.0,
+      "rate_per_unit": 598.0,
+      "total_cost": 2392.0,
+      "components": null
+    },
+    {
+      "serial_number": 12,
+      "description": "G.I.Stay Wire 7/4mm(8 SWG)",
+      "unit": "Kg.",
+      "quantity": 40.0,
+      "rate_per_unit": 57.45,
+      "total_cost": 2298.0,
+      "components": null
+    },
+    {
+      "serial_number": 13,
+      "description": "G.I.Wire 8 SWG/ 6 SWG",
+      "unit": "Kg.",
+      "quantity": 15.0,
+      "rate_per_unit": 57.4,
+      "total_cost": 861.0,
+      "components": null
+    },
+    {
+      "serial_number": 14,
+      "description": "Aluminium Jointing Sleeve for 100 Sq mm AAAC",
+      "unit": "No",
+      "quantity": 6.0,
+      "rate_per_unit": 118.0,
+      "total_cost": 708.0,
+      "components": null
+    },
+    {
+      "serial_number": 15,
+      "description": "Danger Board in yard.",
+      "unit": "No",
+      "quantity": 4.0,
+      "rate_per_unit": 50.0,
+      "total_cost": 200.0,
+      "components": null
+    },
+    {
+      "serial_number": 16,
+      "description": "Earthing Sets H.T",
+      "unit": "Set",
+      "quantity": 4.0,
+      "rate_per_unit": 342.0,
+      "total_cost": 1368.0,
+      "components": null
+    },
+    {
+      "serial_number": 17,
+      "description": "G.I.Barbed Wire 'A' type.",
+      "unit": "Kg.",
+      "quantity": 10.0,
+      "rate_per_unit": 64.27,
+      "total_cost": 642.7,
+      "components": null
+    },
+    {
+      "serial_number": 18,
+      "description": "33 KV Isolators without EB (800 Amp.)",
+      "unit": "Set",
+      "quantity": 1.0,
+      "rate_per_unit": 50510.0,
+      "total_cost": 50510.0,
+      "components": null
+    },
+    {
+      "serial_number": 19,
+      "description": "Sundries such as N/B, Washers, Welding etc.",
+      "unit": "LS",
+      "quantity": 1.0,
+      "rate_per_unit": 2900.0,
+      "total_cost": 2900.0,
+      "components": null
+    }
+  ],
+  "summary": {
+    "cost_of_material": 147835.4,
+    "service_cost": 45090.0,
+    "sub_total": 192925.0,
+    "turnkey_charges": 9646.0,
+    "total_cost_of_estimate": 202571.0,
+    "civil_works_cost": null
+  }
+}

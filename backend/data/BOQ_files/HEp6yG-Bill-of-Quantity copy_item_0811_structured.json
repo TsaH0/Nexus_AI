@@ -1,0 +1,77 @@
+{
+  "title": "Cost Data for laying of 1 Km. 22 KV 3 C 95 mm 2 XLPE under ground Cable",
+  "item_code": "0811",
+  "items": [
+    {
+      "serial_number": 1,
+      "description": "XLPE Cable 22 KV, 3 C / 95 mm sq.",
+      "unit": "Rmt",
+      "quantity": 1000.0,
+      "rate_per_unit": 846.0,
+      "total_cost": 846000.0,
+      "components": null
+    },
+    {
+      "serial_number": 2,
+      "description": "R.C.C. Pipe 150 mm 2 M",
+      "unit": "No",
+      "quantity": 30.0,
+      "rate_per_unit": 572.0,
+      "total_cost": 17160.0,
+      "components": null
+    },
+    {
+      "serial_number": 3,
+      "description": "RCC Tiles (0.6 x 0.5) Mtrs.",
+      "unit": "No.",
+      "quantity": 940.0,
+      "rate_per_unit": 104.0,
+      "total_cost": 97760.0,
+      "components": null
+    },
+    {
+      "serial_number": 4,
+      "description": "22 KV st. through joints for 3 C / 95 mm sq.",
+      "unit": "No",
+      "quantity": 2.0,
+      "rate_per_unit": 12077.0,
+      "total_cost": 24154.0,
+      "components": null
+    },
+    {
+      "serial_number": 5,
+      "description": "22 KV Termination joint (OD) for 3 C / 95 mm sq.",
+      "unit": "No.",
+      "quantity": 2.0,
+      "rate_per_unit": 7381.0,
+      "total_cost": 14762.0,
+      "components": null
+    },
+    {
+      "serial_number": 6,
+      "description": "Sand",
+      "unit": "Cmt",
+      "quantity": 250.0,
+      "rate_per_unit": 222.0,
+      "total_cost": 55500.0,
+      "components": null
+    },
+    {
+      "serial_number": 7,
+      "description": "Misc. for XLPE U/G Cable",
+      "unit": "LS",
+      "quantity": 1.0,
+      "rate_per_unit": 1050.0,
+      "total_cost": 1050.0,
+      "components": null
+    }
+  ],
+  "summary": {
+    "cost_of_material": 1056386.0,
+    "service_cost": 322198.0,
+    "sub_total": 1378584.0,
+    "turnkey_charges": 68929.0,
+    "total_cost_of_estimate": 1447513.0,
+    "civil_works_cost": null
+  }
+}

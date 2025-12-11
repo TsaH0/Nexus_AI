@@ -1,0 +1,202 @@
+{
+  "title": "33 kV Pin type line with 100 sq. mm AAAC conductor on 152 X 152mm, 13 mtr RSJ pole",
+  "item_code": "0720",
+  "items": [
+    {
+      "serial_number": 1,
+      "description": "RSJ 152x152, 13 m long",
+      "unit": "No",
+      "quantity": 17.0,
+      "rate_per_unit": 21562.0,
+      "total_cost": 366554.0,
+      "components": null
+    },
+    {
+      "serial_number": 2,
+      "description": "RSJ 116x100, 12 m long",
+      "unit": "No",
+      "quantity": 2.0,
+      "rate_per_unit": 12339.0,
+      "total_cost": 24678.0,
+      "components": null
+    },
+    {
+      "serial_number": 3,
+      "description": "33 KV V Cross Arms",
+      "unit": "No",
+      "quantity": 14.0,
+      "rate_per_unit": 906.0,
+      "total_cost": 12684.0,
+      "components": null
+    },
+    {
+      "serial_number": 4,
+      "description": "Clamps for 152 x 152 mm RSJ Pole Stay",
+      "unit": "Pair",
+      "quantity": 34.0,
+      "rate_per_unit": 252.0,
+      "total_cost": 8568.0,
+      "components": null
+    },
+    {
+      "serial_number": 5,
+      "description": "Clamps for 100 x 116 mm RSJ Pole Stay",
+      "unit": "Pair",
+      "quantity": 4.0,
+      "rate_per_unit": 170.0,
+      "total_cost": 680.0,
+      "components": null
+    },
+    {
+      "serial_number": 6,
+      "description": "33 KV Top Fitting",
+      "unit": "No",
+      "quantity": 14.0,
+      "rate_per_unit": 382.0,
+      "total_cost": 5348.0,
+      "components": null
+    },
+    {
+      "serial_number": 7,
+      "description": "33 kV Pin Insulators with G.I. Pins",
+      "unit": "No",
+      "quantity": 42.0,
+      "rate_per_unit": 541.0,
+      "total_cost": 22722.0,
+      "components": null
+    },
+    {
+      "serial_number": 8,
+      "description": "Disc Insulator 11 KV 70 KN",
+      "unit": "No",
+      "quantity": 54.0,
+      "rate_per_unit": 344.0,
+      "total_cost": 18576.0,
+      "components": null
+    },
+    {
+      "serial_number": 9,
+      "description": "Strain Hardware for Dog0.1 or Equ AAAC.",
+      "unit": "Set",
+      "quantity": 18.0,
+      "rate_per_unit": 322.0,
+      "total_cost": 5796.0,
+      "components": null
+    },
+    {
+      "serial_number": 10,
+      "description": "H.T.Stay Set",
+      "unit": "Set",
+      "quantity": 6.0,
+      "rate_per_unit": 598.0,
+      "total_cost": 3588.0,
+      "components": null
+    },
+    {
+      "serial_number": 11,
+      "description": "MS Channel 100x50x6 mm",
+      "unit": "Kg",
+      "quantity": 105.0,
+      "rate_per_unit": 51.8,
+      "total_cost": 5439.0,
+      "components": null
+    },
+    {
+      "serial_number": 12,
+      "description": "33 kv guarding channel MS100x50",
+      "unit": "Kg.",
+      "quantity": 250.0,
+      "rate_per_unit": 51.8,
+      "total_cost": 12950.0,
+      "components": null
+    },
+    {
+      "serial_number": 13,
+      "description": "G.I.Nut Bolts",
+      "unit": "Kg",
+      "quantity": 100.0,
+      "rate_per_unit": 82.9,
+      "total_cost": 8290.0,
+      "components": null
+    },
+    {
+      "serial_number": 14,
+      "description": "Earthing Sets H.T",
+      "unit": "Set",
+      "quantity": 32.0,
+      "rate_per_unit": 342.0,
+      "total_cost": 10944.0,
+      "components": null
+    },
+    {
+      "serial_number": 15,
+      "description": "AAAC 100 mm2",
+      "unit": "Rmt",
+      "quantity": 2000.0,
+      "rate_per_unit": 51.82,
+      "total_cost": 103640.0,
+      "components": null
+    },
+    {
+      "serial_number": 16,
+      "description": "Danger Board in yard.",
+      "unit": "No",
+      "quantity": 32.0,
+      "rate_per_unit": 50.0,
+      "total_cost": 1600.0,
+      "components": null
+    },
+    {
+      "serial_number": 17,
+      "description": "Red Oxide Paint for 2 coats",
+      "unit": "Ltr",
+      "quantity": 30.0,
+      "rate_per_unit": 85.0,
+      "total_cost": 2550.0,
+      "components": null
+    },
+    {
+      "serial_number": 18,
+      "description": "Aluminium Paint for 1 coat",
+      "unit": "Ltr",
+      "quantity": 30.0,
+      "rate_per_unit": 113.0,
+      "total_cost": 3390.0,
+      "components": null
+    },
+    {
+      "serial_number": 19,
+      "description": "Sundries",
+      "unit": "LS",
+      "quantity": 1.0,
+      "rate_per_unit": 810.0,
+      "total_cost": 810.0,
+      "components": null
+    },
+    {
+      "serial_number": 20,
+      "description": "Wedge connectors",
+      "unit": null,
+      "quantity": 18.0,
+      "rate_per_unit": null,
+      "total_cost": 10062.0,
+      "components": [
+        {
+          "description": "DOG TO DOG or equivalent AAAC",
+          "unit": "No",
+          "quantity": 18.0,
+          "rate_per_unit": 559.0,
+          "total_cost": 10062.0
+        }
+      ]
+    }
+  ],
+  "summary": {
+    "cost_of_material": 617997.0,
+    "service_cost": 188489.0,
+    "sub_total": 806486.0,
+    "turnkey_charges": 40324.0,
+    "total_cost_of_estimate": 846810.0,
+    "civil_works_cost": null
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "title": "Cost total for magariemission or from insurance (contributor, transporter, shareholder) 22/0.433.ku..200.KVA. to..22/0.433.ku..630.KVA with MCCB",
+  "item_code": "1105",
+  "items": [
+    {
+      "serial_number": 1,
+      "description": "Dist. Transformer 630 KVA, 22/0.43 kv",
+      "unit": "No.",
+      "quantity": 1.0,
+      "rate_per_unit": 682480.0,
+      "total_cost": 682480.0,
+      "components": null
+    },
+    {
+      "serial_number": 2,
+      "description": "6 way feeder pillar with ACB",
+      "unit": "No.",
+      "quantity": 1.0,
+      "rate_per_unit": 64190.0,
+      "total_cost": 64190.0,
+      "components": null
+    },
+    {
+      "serial_number": 3,
+      "description": "L.T. XLPE cable 3.5 Core 300 mm2",
+      "unit": "Rmt",
+      "quantity": 45.0,
+      "rate_per_unit": 725.0,
+      "total_cost": 32625.0,
+      "components": null
+    },
+    {
+      "serial_number": 4,
+      "description": "Sundries LS",
+      "unit": null,
+      "quantity": 1.0,
+      "rate_per_unit": 810.0,
+      "total_cost": 810.0,
+      "components": null
+    },
+    {
+      "serial_number": 1,
+      "description": "Transportation on material",
+      "unit": "4.00%",
+      "quantity": 1.0,
+      "rate_per_unit": null,
+      "total_cost": 31204.0,
+      "components": null
+    },
+    {
+      "serial_number": 2,
+      "description": "T&P on material cost",
+      "unit": "1.00%",
+      "quantity": 1.0,
+      "rate_per_unit": null,
+      "total_cost": 7801.0,
+      "components": null
+    },
+    {
+      "serial_number": 3,
+      "description": "Contigencies on material",
+      "unit": "5.00%",
+      "quantity": 1.0,
+      "rate_per_unit": null,
+      "total_cost": 19503.0,
+      "components": null
+    },
+    {
+      "serial_number": 5,
+      "description": "Erection cost on material",
+      "unit": null,
+      "quantity": 1.0,
+      "rate_per_unit": null,
+      "total_cost": 117016.0,
+      "components": null
+    },
+    {
+      "serial_number": 6,
+      "description": "Contractor supervision charges on material",
+      "unit": null,
+      "quantity": 1.0,
+      "rate_per_unit": null,
+      "total_cost": 39005.0,
+      "components": null
+    },
+    {
+      "serial_number": 7,
+      "description": "Insurance , Labour & Finance Cost",
+      "unit": null,
+      "quantity": 1.0,
+      "rate_per_unit": null,
+      "total_cost": 23403.0,
+      "components": null
+    }
+  ],
+  "summary": {
+    "cost_of_material": 780105.0,
+    "service_cost": 237932.0,
+    "sub_total": 1018037.0,
+    "turnkey_charges": 50902.0,
+    "total_cost_of_estimate": 1068939.0,
+    "civil_works_cost": null
+  }
+}

@@ -1,0 +1,236 @@
+{
+    "items": [
+        {
+            "serial_number": 1,
+            "description": "33 KV Lightning Arrestors (Station type)",
+            "unit": "Set",
+            "quantity": 2.0,
+            "rate_per_unit": 13571.0,
+            "total_cost": 27142.0
+        },
+        {
+            "serial_number": 2,
+            "description": "33 KV Isolators with EB (800 A)",
+            "unit": "Set",
+            "quantity": 1.0,
+            "rate_per_unit": 55190.0,
+            "total_cost": 55190.0
+        },
+        {
+            "serial_number": 3,
+            "description": "33 KV Isolators without EB (800 Amp.)",
+            "unit": "Set",
+            "quantity": 3.0,
+            "rate_per_unit": 50510.0,
+            "total_cost": 151530.0
+        },
+        {
+            "serial_number": 4,
+            "description": "33 KV Post Insulator",
+            "unit": "Nos",
+            "quantity": 3.0,
+            "rate_per_unit": 918.0,
+            "total_cost": 2754.0
+        },
+        {
+            "serial_number": 5,
+            "description": "Gantry Structure/Steel section for 33 KV Bus as per Sheet No. 1",
+            "unit": "Nos",
+            "quantity": 1.0,
+            "rate_per_unit": 121541.0,
+            "total_cost": 121541.0
+        },
+        {
+            "serial_number": 6,
+            "description": "Disc Insulator 11 KV 70 KN",
+            "unit": "Nos",
+            "quantity": 18.0,
+            "rate_per_unit": 344.0,
+            "total_cost": 6192.0
+        },
+        {
+            "serial_number": 7,
+            "description": "AAAC 232 mm2",
+            "unit": "MTR",
+            "quantity": 200.0,
+            "rate_per_unit": 127.4,
+            "total_cost": 25480.0
+        },
+        {
+            "serial_number": 8,
+            "description": "Strain Hardware for AAAC232 sq.mm.",
+            "unit": "Nos",
+            "quantity": 6.0,
+            "rate_per_unit": 603.0,
+            "total_cost": 3618.0
+        },
+        {
+            "serial_number": 9,
+            "description": "Earthing complete as per Sheet no. 2",
+            "unit": "Set",
+            "quantity": 1.0,
+            "rate_per_unit": 240980.0,
+            "total_cost": 240980.0
+        },
+        {
+            "serial_number": 10,
+            "description": "Power Transformer 33/11 KV, 5 MVA",
+            "unit": "No",
+            "quantity": 1.0,
+            "rate_per_unit": 3003469.0,
+            "total_cost": 3003469.0
+        },
+        {
+            "serial_number": 11,
+            "description": "33 KV P.T.",
+            "unit": "Nos",
+            "quantity": 3.0,
+            "rate_per_unit": 18876.0,
+            "total_cost": 56628.0
+        },
+        {
+            "serial_number": 12,
+            "description": "33 kV C. T. (400-200/1-1-1)",
+            "unit": "Nos",
+            "quantity": 3.0,
+            "rate_per_unit": 25011.0,
+            "total_cost": 75033.0
+        },
+        {
+            "serial_number": 13,
+            "description": "33 KV VCB complete 1600 Amp (O.D.)",
+            "unit": "Set",
+            "quantity": 1.0,
+            "rate_per_unit": 204195.0,
+            "total_cost": 204195.0
+        },
+        {
+            "serial_number": 14,
+            "description": "C&R panel for 33 KV Transformer with 1 Amp. Relay",
+            "unit": "No",
+            "quantity": 1.0,
+            "rate_per_unit": 56858.0,
+            "total_cost": 56858.0
+        },
+        {
+            "serial_number": 15,
+            "description": "33 kV Pin Insulators with G.I. Pins",
+            "unit": "Nos",
+            "quantity": 6.0,
+            "rate_per_unit": 541.0,
+            "total_cost": 3246.0
+        },
+        {
+            "serial_number": 16,
+            "description": "Structure for 33 KV CT & PT as per Sheet no. 3",
+            "unit": "No",
+            "quantity": 1.0,
+            "rate_per_unit": 48071.0,
+            "total_cost": 48071.0
+        },
+        {
+            "serial_number": 17,
+            "description": "G.I.Nut Butts",
+            "unit": "KG",
+            "quantity": 150.0,
+            "rate_per_unit": 82.9,
+            "total_cost": 12435.0
+        },
+        {
+            "serial_number": 18,
+            "description": "11 kv 250 MVA OD Switchgears comprising of 1 Incomer and 3 single feeder with associated OD panels, Islators, C.T. & P.T. etc.",
+            "unit": "Set",
+            "quantity": 1.0,
+            "rate_per_unit": 852243.0,
+            "total_cost": 852243.0
+        },
+        {
+            "serial_number": 19,
+            "description": "L.As. 11 KV (Gapless type) with disconector",
+            "unit": "Set",
+            "quantity": 1.0,
+            "rate_per_unit": 1268.0,
+            "total_cost": 1268.0
+        },
+        {
+            "serial_number": 20,
+            "description": "Take off structure for 3 outgoing feeder as per Sheet no. 4",
+            "unit": "No.",
+            "quantity": 1.0,
+            "rate_per_unit": 256151.2,
+            "total_cost": 256151.2
+        },
+        {
+            "serial_number": 21,
+            "description": "11 kV Pin Insulators with G.I. Pins",
+            "unit": "No.",
+            "quantity": 12.0,
+            "rate_per_unit": 135.0,
+            "total_cost": 1620.0
+        },
+        {
+            "serial_number": 22,
+            "description": "Clamps and Connectors as per Sheet no. 5",
+            "unit": "No.",
+            "quantity": 1.0,
+            "rate_per_unit": 189486.0,
+            "total_cost": 189486.0
+        },
+        {
+            "serial_number": 23,
+            "description": "Structure for 11 KV Main Bus as per Sheet no. 6",
+            "unit": "No.",
+            "quantity": 1.0,
+            "rate_per_unit": 213971.2,
+            "total_cost": 213971.2
+        },
+        {
+            "serial_number": 24,
+            "description": "S/S Yard lighting as per Sheet no. 7",
+            "unit": "No.",
+            "quantity": 1.0,
+            "rate_per_unit": 189411.0,
+            "total_cost": 189411.0
+        },
+        {
+            "serial_number": 25,
+            "description": "Battery set 30 Volt, 100 AH with Battery charger",
+            "unit": "No.",
+            "quantity": 1.0,
+            "rate_per_unit": 72000.0,
+            "total_cost": 72000.0
+        },
+        {
+            "serial_number": 26,
+            "description": "11/0.43 KV x 100 KVA station Transformer as per Sheet no.8.",
+            "unit": "No.",
+            "quantity": 1.0,
+            "rate_per_unit": 195591.4,
+            "total_cost": 195591.4
+        },
+        {
+            "serial_number": 27,
+            "description": "Control cables for S/S as per Sheet no. 9",
+            "unit": "No.",
+            "quantity": 1.0,
+            "rate_per_unit": 85383.45,
+            "total_cost": 85383.45
+        },
+        {
+            "serial_number": 28,
+            "description": "AC Distribution Board 'B' type",
+            "unit": "No.",
+            "quantity": 1.0,
+            "rate_per_unit": 24325.0,
+            "total_cost": 24325.0
+        }
+    ],
+    "summary": {
+        "cost_of_material": 6175812.25,
+        "service_cost": 1266042.0,
+        "sub_total": 7441854.0,
+        "turnkey_charges": 372093.0,
+        "total_cost_of_estimate": 15047211.0,
+        "civil_works_cost": 7233264.0
+    }
+}

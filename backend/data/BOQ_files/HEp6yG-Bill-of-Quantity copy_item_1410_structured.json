@@ -1,0 +1,104 @@
+{
+  "title": "Estimate for LT to underground 2.5 x 25 sqmm cable for 1 Km",
+  "item_code": "1410",
+  "items": [
+    {
+      "serial_number": 1,
+      "description": "L.T. XLPE armoured cable 3 1/2 C 35 sq.mm.",
+      "unit": "Rmt",
+      "quantity": 1000.0,
+      "rate_per_unit": 116.0,
+      "total_cost": 116000.0,
+      "components": null
+    },
+    {
+      "serial_number": 2,
+      "description": "R.C.C. Pipe 150 mm 2 M",
+      "unit": "No",
+      "quantity": 30.0,
+      "rate_per_unit": 572.0,
+      "total_cost": 17160.0,
+      "components": null
+    },
+    {
+      "serial_number": 3,
+      "description": "Misc. ( Bricks,sand,tremination kit and etc.)",
+      "unit": "LS",
+      "quantity": 1.0,
+      "rate_per_unit": 25350.0,
+      "total_cost": 25350.0,
+      "components": null
+    },
+    {
+      "serial_number": 1,
+      "description": "Transportation on material",
+      "unit": "4.00%",
+      "quantity": 1.0,
+      "rate_per_unit": null,
+      "total_cost": 6340.0,
+      "components": null
+    },
+    {
+      "serial_number": 2,
+      "description": "T&P on material cost",
+      "unit": "1.00%",
+      "quantity": 1.0,
+      "rate_per_unit": null,
+      "total_cost": 1585.0,
+      "components": null
+    },
+    {
+      "serial_number": 3,
+      "description": "Contigencies on material",
+      "unit": "2.50%",
+      "quantity": 1.0,
+      "rate_per_unit": null,
+      "total_cost": 3963.0,
+      "components": null
+    },
+    {
+      "serial_number": 5,
+      "description": "Erection cost on material",
+      "unit": "15.00%",
+      "quantity": 1.0,
+      "rate_per_unit": null,
+      "total_cost": 23777.0,
+      "components": null
+    },
+    {
+      "serial_number": 6,
+      "description": "Contractor supervision charges on material",
+      "unit": "5.00%",
+      "quantity": 1.0,
+      "rate_per_unit": null,
+      "total_cost": 7926.0,
+      "components": null
+    },
+    {
+      "serial_number": 7,
+      "description": "Insurance, Labour & Finance Cost",
+      "unit": "3.00%",
+      "quantity": 1.0,
+      "rate_per_unit": null,
+      "total_cost": 4755.0,
+      "components": null
+    },
+    {
+      "serial_number": 8,
+      "description": "Turnkey Charges",
+      "unit": "5.00%",
+      "quantity": 1.0,
+      "rate_per_unit": null,
+      "total_cost": 10343.0,
+      "components": null
+    }
+  ],
+  "summary": {
+    "cost_of_material": 158510.0,
+    "service_cost": 48346.0,
+    "sub_total": 206856.0,
+    "turnkey_charges": 10343.0,
+    "total_cost_of_estimate": 217198.0,
+    "civil_works_cost": null
+  }
+}

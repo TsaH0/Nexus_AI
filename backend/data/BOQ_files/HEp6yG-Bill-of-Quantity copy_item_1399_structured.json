@@ -1,0 +1,50 @@
+{
+  "title": "Cost Data for Augmentation of Indoor Distribution Transformer Sub-station 11/0.4 kv, 315 KVA to 11/0.4 kv, 630 KVA",
+  "item_code": "1399",
+  "items": [
+    {
+      "serial_number": 1,
+      "description": "Dist. Transformer 630 KVA, 11/0.43 kv",
+      "unit": "No.",
+      "quantity": 1.0,
+      "rate_per_unit": 619767.0,
+      "total_cost": 619767.0,
+      "components": null
+    },
+    {
+      "serial_number": 2,
+      "description": "8 way feeder pillar with ACB",
+      "unit": "No.",
+      "quantity": 1.0,
+      "rate_per_unit": 64190.0,
+      "total_cost": 64190.0,
+      "components": null
+    },
+    {
+      "serial_number": 3,
+      "description": "DTC Metring with Box, single core L.T. XLPE cable (300 sq.mm., 320 mtr length) and other allied material for 630 KVA",
+      "unit": "L.S.",
+      "quantity": 1.0,
+      "rate_per_unit": 8076.0,
+      "total_cost": 8076.0,
+      "components": null
+    },
+    {
+      "serial_number": 4,
+      "description": "Sundries",
+      "unit": "L.S.",
+      "quantity": 1.0,
+      "rate_per_unit": 810.0,
+      "total_cost": 810.0,
+      "components": null
+    }
+  ],
+  "summary": {
+    "cost_of_material": 692843.0,
+    "service_cost": 211317.0,
+    "sub_total": 904160.0,
+    "turnkey_charges": 45208.0,
+    "total_cost_of_estimate": 949368.0,
+    "civil_works_cost": null
+  }
+}

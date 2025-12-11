@@ -1,0 +1,242 @@
+{
+  "title": "Cost data for Augmentation of 33/11 KV, 1x3.15 MVA to 1x5 MVA Power T/F ( Outdoor)[if associated switch gear not available]",
+  "item_code": "0204",
+  "items": [
+    {
+      "serial_number": 1,
+      "description": "Power Transformer 33/11 KV, 5 MVA",
+      "unit": "No",
+      "quantity": 1.0,
+      "rate_per_unit": 3003469.0,
+      "total_cost": 3003469.0,
+      "components": null
+    },
+    {
+      "serial_number": 2,
+      "description": "33 KV P.T.",
+      "unit": "Nos",
+      "quantity": 3.0,
+      "rate_per_unit": 18876.0,
+      "total_cost": 56628.0,
+      "components": null
+    },
+    {
+      "serial_number": 3,
+      "description": "33 kV C. T. (400-200/1-1-1)",
+      "unit": "Nos",
+      "quantity": 3.0,
+      "rate_per_unit": 25011.0,
+      "total_cost": 75033.0,
+      "components": null
+    },
+    {
+      "serial_number": 4,
+      "description": "33 KV VCB complete 1600 Amp (O.D.)",
+      "unit": "Set",
+      "quantity": 1.0,
+      "rate_per_unit": 204195.0,
+      "total_cost": 204195.0,
+      "components": null
+    },
+    {
+      "serial_number": 5,
+      "description": "33 KV Isolators with EB (800 A)",
+      "unit": "Set",
+      "quantity": 1.0,
+      "rate_per_unit": 55190.0,
+      "total_cost": 55190.0,
+      "components": null
+    },
+    {
+      "serial_number": 6,
+      "description": "33 KV Isolators without EB (800 Amp.)",
+      "unit": "Set",
+      "quantity": 3.0,
+      "rate_per_unit": 50510.0,
+      "total_cost": 151530.0,
+      "components": null
+    },
+    {
+      "serial_number": 7,
+      "description": "Battery set 30 Volt, 100 AH with Battery charger",
+      "unit": "No.",
+      "quantity": 1.0,
+      "rate_per_unit": 72000.0,
+      "total_cost": 72000.0,
+      "components": null
+    },
+    {
+      "serial_number": 8,
+      "description": "Structure for 33 KV CT & PT as per Sheet no. 1",
+      "unit": "No",
+      "quantity": 1.0,
+      "rate_per_unit": 48071.0,
+      "total_cost": 48071.0,
+      "components": [
+        {
+          "description": "Structure for 33 KV PT",
+          "unit": "Kg.",
+          "quantity": 315.0,
+          "rate_per_unit": 51.8,
+          "total_cost": 16317.0
+        },
+        {
+          "description": "Structure for 33 KV CT",
+          "unit": "Kg.",
+          "quantity": 360.0,
+          "rate_per_unit": 51.8,
+          "total_cost": 18648.0
+        },
+        {
+          "description": "Structure for 33 KV L.A.",
+          "unit": "Kg.",
+          "quantity": 155.0,
+          "rate_per_unit": 51.8,
+          "total_cost": 8029.0
+        },
+        {
+          "description": "Structure for Power T/F Neutral Earthing",
+          "unit": "Kg.",
+          "quantity": 50.0,
+          "rate_per_unit": 51.8,
+          "total_cost": 2590.0
+        },
+        {
+          "description": "G.I.Nut Bolts",
+          "unit": "Kg.",
+          "quantity": 30.0,
+          "rate_per_unit": 82.9,
+          "total_cost": 2487.0
+        }
+      ]
+    },
+    {
+      "serial_number": 9,
+      "description": "Control cables for S/S as per Sheet no. 2",
+      "unit": "No.",
+      "quantity": 1.0,
+      "rate_per_unit": 85383.45,
+      "total_cost": 85383.45,
+      "components": [
+        {
+          "description": "Armoured Copper control cable 19C X 2.5 Sq mm",
+          "unit": "Rmt",
+          "quantity": 125.0,
+          "rate_per_unit": 331.39,
+          "total_cost": 41423.75
+        },
+        {
+          "description": "Armoured Copper control cable 12C X 2.5 Sq mm",
+          "unit": "Rmt",
+          "quantity": 130.0,
+          "rate_per_unit": 216.24,
+          "total_cost": 28111.2
+        },
+        {
+          "description": "Armoured Copper control cable 4C X 2.5 Sq mm",
+          "unit": "Rmt",
+          "quantity": 55.0,
+          "rate_per_unit": 87.6,
+          "total_cost": 4818.0
+        },
+        {
+          "description": "Armoured Copper control cable 2Cx2.5 sq mm.",
+          "unit": "Rmt",
+          "quantity": 50.0,
+          "rate_per_unit": 55.11,
+          "total_cost": 2755.5
+        },
+        {
+          "description": "L.T. XLPE Armoured cable 4core 16sq.mm.",
+          "unit": "RMT",
+          "quantity": 100.0,
+          "rate_per_unit": 78.0,
+          "total_cost": 7800.0
+        },
+        {
+          "description": "Miscellaneous material",
+          "unit": "L.S",
+          "quantity": 1.0,
+          "rate_per_unit": 475.0,
+          "total_cost": 475.0
+        }
+      ]
+    },
+    {
+      "serial_number": 10,
+      "description": "Clamps and Connectors as per Sheet no. 3",
+      "unit": "No.",
+      "quantity": 1.0,
+      "rate_per_unit": 189486.0,
+      "total_cost": 189486.0,
+      "components": [
+        {
+          "description": "Wedge Connectors DOG TO DOG or equivalent AAAC",
+          "unit": "Nos.",
+          "quantity": 30.0,
+          "rate_per_unit": 559.0,
+          "total_cost": 16770.0
+        },
+        {
+          "description": "Wedge Connectors T-Connector for 200 sq mm conductor(Compression type)",
+          "unit": "Nos.",
+          "quantity": 30.0,
+          "rate_per_unit": 3352.0,
+          "total_cost": 100560.0
+        },
+        {
+          "description": "Clamps for 33 KV Isolator",
+          "unit": "Nos.",
+          "quantity": 24.0,
+          "rate_per_unit": 992.0,
+          "total_cost": 23808.0
+        },
+        {
+          "description": "Connectors for T/F Bushing",
+          "unit": "Nos.",
+          "quantity": 6.0,
+          "rate_per_unit": 3783.0,
+          "total_cost": 22698.0
+        },
+        {
+          "description": "Clamps for 33 KV C.T.",
+          "unit": "Nos.",
+          "quantity": 6.0,
+          "rate_per_unit": 1450.0,
+          "total_cost": 8700.0
+        },
+        {
+          "description": "Clamps for 33 KV P.T.",
+          "unit": "Nos.",
+          "quantity": 3.0,
+          "rate_per_unit": 1450.0,
+          "total_cost": 4350.0
+        },
+        {
+          "description": "Clamps for 33 KV V.C.B.",
+          "unit": "Nos.",
+          "quantity": 6.0,
+          "rate_per_unit": 2100.0,
+          "total_cost": 12600.0
+        }
+      ]
+    },
+    {
+      "serial_number": 11,
+      "description": "C&R panel for 33 KV Transformer with 1 Amp. Relay",
+      "unit": "No",
+      "quantity": 1.0,
+      "rate_per_unit": 56858.0,
+      "total_cost": 56858.0,
+      "components": null
+    }
+  ],
+  "summary": {
+    "cost_of_material": 3997843.45,
+    "service_cost": 819558.0,
+    "sub_total": 4817401.0,
+    "turnkey_charges": 240870.0,
+    "total_cost_of_estimate": 5058271.0,
+    "civil_works_cost": null
+  }
+}

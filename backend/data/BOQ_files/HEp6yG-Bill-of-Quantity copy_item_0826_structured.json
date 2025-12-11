@@ -1,0 +1,32 @@
+{
+  "title": "Cost Data for Supply. Erection,Testing & Commissioning of HT Pillar",
+  "item_code": "0826",
+  "items": [
+    {
+      "serial_number": 1,
+      "description": "HT Pillar 22 KV",
+      "unit": "No.",
+      "quantity": 1.0,
+      "rate_per_unit": 69145.0,
+      "total_cost": 69145.0,
+      "components": null
+    },
+    {
+      "serial_number": 9,
+      "description": "HT Pillar Foundation",
+      "unit": null,
+      "quantity": 1.0,
+      "rate_per_unit": 12554.93,
+      "total_cost": 12555.0,
+      "components": null
+    }
+  ],
+  "summary": {
+    "cost_of_material": 69145.0,
+    "service_cost": 21089.0,
+    "sub_total": 90234.0,
+    "turnkey_charges": 4512.0,
+    "total_cost_of_estimate": 107301.0,
+    "civil_works_cost": 12555.0
+  }
+}

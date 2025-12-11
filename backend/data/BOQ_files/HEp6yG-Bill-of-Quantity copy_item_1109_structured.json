@@ -1,0 +1,59 @@
+{
+  "title": "Cost Data for Augumentation of Pole mounted Distribution Transformer Sub-station 22/0.433 kv, 100/200/315 KVA to 22/0.433 kv, 630 KVA on plinth",
+  "item_code": "1109",
+  "items": [
+    {
+      "serial_number": 1,
+      "description": "Dist.transformer 200kva,22/0.4kv",
+      "unit": "No.",
+      "quantity": 1.0,
+      "rate_per_unit": 306520.0,
+      "total_cost": 306520.0,
+      "components": null
+    },
+    {
+      "serial_number": 2,
+      "description": "L.T.Dist.Boxes 200 KVA with KitKat",
+      "unit": "No.",
+      "quantity": 1.0,
+      "rate_per_unit": 23400.0,
+      "total_cost": 23400.0,
+      "components": null
+    },
+    {
+      "serial_number": 3,
+      "description": "L.T.XLPE Armoured 3.5 Core cable120 sq.mm.",
+      "unit": "Rmt",
+      "quantity": 25.0,
+      "rate_per_unit": 329.0,
+      "total_cost": 8225.0,
+      "components": null
+    },
+    {
+      "serial_number": 4,
+      "description": "L.T. XLPE cable 3.5 Core 240 mm2",
+      "unit": "Rmt",
+      "quantity": 10.0,
+      "rate_per_unit": 628.0,
+      "total_cost": 6280.0,
+      "components": null
+    },
+    {
+      "serial_number": 5,
+      "description": "Sundries",
+      "unit": "LS",
+      "quantity": 1.0,
+      "rate_per_unit": 810.0,
+      "total_cost": 810.0,
+      "components": null
+    }
+  ],
+  "summary": {
+    "cost_of_material": 345235.0,
+    "service_cost": 105297.0,
+    "sub_total": 450532.0,
+    "turnkey_charges": 22527.0,
+    "total_cost_of_estimate": 473058.0,
+    "civil_works_cost": null
+  }
+}

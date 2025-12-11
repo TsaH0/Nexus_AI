@@ -1,0 +1,239 @@
+{
+  "title": "Cost data for 22 KV Single circuit suspension type with 232sq.mm AAAC lines on 152x152 mm 13 mtr RSJ poles",
+  "item_code": "0822",
+  "items": [
+    {
+      "serial_number": 1,
+      "description": "RSJ 152x152, 13 m long",
+      "unit": "No.",
+      "quantity": 17.0,
+      "rate_per_unit": 21562.0,
+      "total_cost": 366554.0,
+      "components": null
+    },
+    {
+      "serial_number": 2,
+      "description": "RSJ 116x100, 11 m long",
+      "unit": "No.",
+      "quantity": 2.0,
+      "rate_per_unit": 11311.0,
+      "total_cost": 22622.0,
+      "components": null
+    },
+    {
+      "serial_number": 3,
+      "description": "G.I.Channel 100x50x6mm",
+      "unit": "Kg.",
+      "quantity": 607.0,
+      "rate_per_unit": 70.08,
+      "total_cost": 42538.56,
+      "components": null
+    },
+    {
+      "serial_number": 4,
+      "description": "G.I.Channel 75x40x6mm",
+      "unit": "Kg.",
+      "quantity": 122.0,
+      "rate_per_unit": 70.08,
+      "total_cost": 8549.76,
+      "components": null
+    },
+    {
+      "serial_number": 5,
+      "description": "G.I.Angle 50x50x6mm",
+      "unit": "Kg.",
+      "quantity": 248.0,
+      "rate_per_unit": 70.08,
+      "total_cost": 17379.84,
+      "components": null
+    },
+    {
+      "serial_number": 6,
+      "description": "G.I Flat 50x10 mm",
+      "unit": "Kg.",
+      "quantity": 107.0,
+      "rate_per_unit": 66.78,
+      "total_cost": 7145.46,
+      "components": null
+    },
+    {
+      "serial_number": 7,
+      "description": "G.I.Nut Bolts",
+      "unit": "Kg.",
+      "quantity": 90.0,
+      "rate_per_unit": 82.9,
+      "total_cost": 7461.0,
+      "components": null
+    },
+    {
+      "serial_number": 8,
+      "description": "22 kV Pin Insulators with G.I. Pins",
+      "unit": "No.",
+      "quantity": 3.0,
+      "rate_per_unit": 336.0,
+      "total_cost": 1008.0,
+      "components": null
+    },
+    {
+      "serial_number": 9,
+      "description": "Disc Insulator 11 KV 45 KN",
+      "unit": "No.",
+      "quantity": 126.0,
+      "rate_per_unit": 244.0,
+      "total_cost": 30744.0,
+      "components": null
+    },
+    {
+      "serial_number": 10,
+      "description": "Suspension Hardware for 0.2 AC5R or equivalent AAAC",
+      "unit": "No.",
+      "quantity": 39.0,
+      "rate_per_unit": 339.0,
+      "total_cost": 13221.0,
+      "components": null
+    },
+    {
+      "serial_number": 11,
+      "description": "Strain Hardware for AAAC232 sq.mm.",
+      "unit": "No.",
+      "quantity": 24.0,
+      "rate_per_unit": 603.0,
+      "total_cost": 14472.0,
+      "components": null
+    },
+    {
+      "serial_number": 12,
+      "description": "AAAC 232 mm2",
+      "unit": "Rmt",
+      "quantity": 3100.0,
+      "rate_per_unit": 127.4,
+      "total_cost": 394940.0,
+      "components": null
+    },
+    {
+      "serial_number": 13,
+      "description": "Jointing Sleeves for Conductor.",
+      "unit": "No.",
+      "quantity": 3.0,
+      "rate_per_unit": 37.0,
+      "total_cost": 111.0,
+      "components": null
+    },
+    {
+      "serial_number": 14,
+      "description": "H.T.Stay Set",
+      "unit": "Set",
+      "quantity": 11.0,
+      "rate_per_unit": 598.0,
+      "total_cost": 6578.0,
+      "components": null
+    },
+    {
+      "serial_number": 15,
+      "description": "G.I.Stay Wire 7/4mm(8 SWG)",
+      "unit": "Kg.",
+      "quantity": 80.0,
+      "rate_per_unit": 57.45,
+      "total_cost": 4596.0,
+      "components": null
+    },
+    {
+      "serial_number": 16,
+      "description": "Earthing Sets H.T",
+      "unit": "Set",
+      "quantity": 18.0,
+      "rate_per_unit": 342.0,
+      "total_cost": 6156.0,
+      "components": null
+    },
+    {
+      "serial_number": 17,
+      "description": "G.I.Barbed Wire 'A' type.",
+      "unit": "Kg.",
+      "quantity": 77.0,
+      "rate_per_unit": 64.27,
+      "total_cost": 4948.79,
+      "components": null
+    },
+    {
+      "serial_number": 18,
+      "description": "Danger Board in yard.",
+      "unit": "No.",
+      "quantity": 18.0,
+      "rate_per_unit": 50.0,
+      "total_cost": 900.0,
+      "components": null
+    },
+    {
+      "serial_number": 19,
+      "description": "Concreting ration 1:3:6",
+      "unit": "Cmt.",
+      "quantity": 20.0,
+      "rate_per_unit": 3027.0,
+      "total_cost": 60540.0,
+      "components": null
+    },
+    {
+      "serial_number": 20,
+      "description": "G.I.Wire 8 SWG/ 6 SWG",
+      "unit": "Kg.",
+      "quantity": 130.0,
+      "rate_per_unit": 57.4,
+      "total_cost": 7462.0,
+      "components": null
+    },
+    {
+      "serial_number": 21,
+      "description": "Black Bituminus Paint",
+      "unit": "Ltr.",
+      "quantity": 7.0,
+      "rate_per_unit": 85.0,
+      "total_cost": 595.0,
+      "components": null
+    },
+    {
+      "serial_number": 22,
+      "description": "Red Oxide Paint for 2 coats",
+      "unit": "Ltr.",
+      "quantity": 23.0,
+      "rate_per_unit": 85.0,
+      "total_cost": 1955.0,
+      "components": null
+    },
+    {
+      "serial_number": 23,
+      "description": "Aluminium Paint for 1 coat",
+      "unit": "Ltr.",
+      "quantity": 12.0,
+      "rate_per_unit": 113.0,
+      "total_cost": 1356.0,
+      "components": null
+    },
+    {
+      "serial_number": 24,
+      "description": "Sundries",
+      "unit": "LS",
+      "quantity": 1.0,
+      "rate_per_unit": 810.0,
+      "total_cost": 810.0,
+      "components": null
+    },
+    {
+      "serial_number": 25,
+      "description": "Wedge connectors PANTHER TO PANTHER or equivalent AAAC",
+      "unit": "No",
+      "quantity": 24.0,
+      "rate_per_unit": 718.0,
+      "total_cost": 17232.0,
+      "components": null
+    }
+  ],
+  "summary": {
+    "cost_of_material": 1022643.41,
+    "service_cost": 311906.0,
+    "sub_total": 1334550.0,
+    "turnkey_charges": 66727.0,
+    "total_cost_of_estimate": 1401277.0,
+    "civil_works_cost": null
+  }
+}

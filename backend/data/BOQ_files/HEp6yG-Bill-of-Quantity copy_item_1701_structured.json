@@ -1,0 +1,86 @@
+{
+  "title": "Cost data for 11 KV Capacitor Bank at Dist. substation (on Existing pole ).",
+  "item_code": "1701",
+  "items": [
+    {
+      "serial_number": 1,
+      "description": "Capacitor banks without Switchgear 11 KV 0.6 MVAR",
+      "unit": "No.",
+      "quantity": 1.0,
+      "rate_per_unit": 43795.0,
+      "total_cost": 43795.0,
+      "components": null
+    },
+    {
+      "serial_number": 2,
+      "description": "Automatic capacitor switch 11 KV",
+      "unit": "No.",
+      "quantity": 1.0,
+      "rate_per_unit": 206553.0,
+      "total_cost": 206553.0,
+      "components": null
+    },
+    {
+      "serial_number": 3,
+      "description": "M.S.Channel 75x40x6 mm",
+      "unit": "Kg.",
+      "quantity": 50.0,
+      "rate_per_unit": 51.8,
+      "total_cost": 2590.0,
+      "components": null
+    },
+    {
+      "serial_number": 4,
+      "description": "MS angle 50x50x6 mm",
+      "unit": "Kg.",
+      "quantity": 10.0,
+      "rate_per_unit": 51.8,
+      "total_cost": 518.0,
+      "components": null
+    },
+    {
+      "serial_number": 5,
+      "description": "M.S. Flats(50 X 10mm)",
+      "unit": "Kg.",
+      "quantity": 10.0,
+      "rate_per_unit": 48.5,
+      "total_cost": 485.0,
+      "components": null
+    },
+    {
+      "serial_number": 6,
+      "description": "Earthing Sets H.T",
+      "unit": "No.",
+      "quantity": 2.0,
+      "rate_per_unit": 342.0,
+      "total_cost": 684.0,
+      "components": null
+    },
+    {
+      "serial_number": 7,
+      "description": "Earthing materials",
+      "unit": "L.S.",
+      "quantity": 1.0,
+      "rate_per_unit": 395.0,
+      "total_cost": 395.0,
+      "components": null
+    },
+    {
+      "serial_number": 8,
+      "description": "Miscellaneous material",
+      "unit": "L.S.",
+      "quantity": 1.0,
+      "rate_per_unit": 475.0,
+      "total_cost": 475.0,
+      "components": null
+    }
+  ],
+  "summary": {
+    "cost_of_material": 255495.0,
+    "service_cost": 52376.0,
+    "sub_total": 307871.0,
+    "turnkey_charges": 15394.0,
+    "total_cost_of_estimate": 323265.0,
+    "civil_works_cost": null
+  }
+}

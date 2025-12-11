@@ -1,0 +1,151 @@
+{
+  "title": "Cost Data for 22 KV Station Type 1.2 MVAR Capacitor Bank with 0.2 % Reactor for rural area",
+  "item_code": "1707",
+  "items": [
+    {
+      "serial_number": 1,
+      "description": "22 KV Lightning Arrestors (Station type)",
+      "unit": "Set",
+      "quantity": 1.0,
+      "rate_per_unit": 11884.0,
+      "total_cost": 11884.0,
+      "components": null
+    },
+    {
+      "serial_number": 2,
+      "description": "22 kV, Single phase, outdoor NCT",
+      "unit": "Nos.",
+      "quantity": 1.0,
+      "rate_per_unit": 18000.0,
+      "total_cost": 18000.0,
+      "components": null
+    },
+    {
+      "serial_number": 3,
+      "description": "22 KV C.T. Three core.",
+      "unit": "Nos.",
+      "quantity": 3.0,
+      "rate_per_unit": 24999.0,
+      "total_cost": 74997.0,
+      "components": null
+    },
+    {
+      "serial_number": 4,
+      "description": "1.2 MVAr, 22 kV Capacitor Bank",
+      "unit": "Set",
+      "quantity": 1.0,
+      "rate_per_unit": 219315.0,
+      "total_cost": 219315.0,
+      "components": null
+    },
+    {
+      "serial_number": 5,
+      "description": "22KV A.B.Switch, 400 A",
+      "unit": "Nos.",
+      "quantity": 1.0,
+      "rate_per_unit": 14447.0,
+      "total_cost": 14447.0,
+      "components": null
+    },
+    {
+      "serial_number": 6,
+      "description": "22 KV Isolators with EB (800 A)",
+      "unit": "Set",
+      "quantity": 1.0,
+      "rate_per_unit": 41547.0,
+      "total_cost": 41547.0,
+      "components": null
+    },
+    {
+      "serial_number": 7,
+      "description": "22 KV Isolators without EB (800 Amp.)",
+      "unit": "Set",
+      "quantity": 1.0,
+      "rate_per_unit": 35680.0,
+      "total_cost": 35680.0,
+      "components": null
+    },
+    {
+      "serial_number": 8,
+      "description": "22 KV VCB complete 800 Amp (O.D.)",
+      "unit": "Set",
+      "quantity": 1.0,
+      "rate_per_unit": 149445.0,
+      "total_cost": 149445.0,
+      "components": null
+    },
+    {
+      "serial_number": 9,
+      "description": "Structure, clamps, painting etc. as per sht. No. 1",
+      "unit": "L.S.",
+      "quantity": 1.0,
+      "rate_per_unit": 31754.0,
+      "total_cost": 31754.0,
+      "components": [
+        {
+          "description": "Structure for 22 KV CT",
+          "unit": "Kg.",
+          "quantity": 50.0,
+          "rate_per_unit": 51.8,
+          "total_cost": 2590.0
+        },
+        {
+          "description": "Structure for 22 KV L.A.",
+          "unit": "Kg.",
+          "quantity": 155.0,
+          "rate_per_unit": 51.8,
+          "total_cost": 8029.0
+        },
+        {
+          "description": "Structure for Breaker and Capacitors",
+          "unit": "Kg.",
+          "quantity": 360.0,
+          "rate_per_unit": 51.8,
+          "total_cost": 18648.0
+        },
+        {
+          "description": "Q.I.Nut Bolts",
+          "unit": "Kg.",
+          "quantity": 30.0,
+          "rate_per_unit": 82.9,
+          "total_cost": 2487.0
+        }
+      ]
+    },
+    {
+      "serial_number": 10,
+      "description": "C&R panel for 22 KV feeder breaker",
+      "unit": "Nos.",
+      "quantity": 1.0,
+      "rate_per_unit": 49844.0,
+      "total_cost": 49844.0,
+      "components": null
+    },
+    {
+      "serial_number": 11,
+      "description": "0.48 KVAr, 22 kv, 1 Ph, Al winded series reactor",
+      "unit": "Set",
+      "quantity": 1.0,
+      "rate_per_unit": 92133.0,
+      "total_cost": 92133.0,
+      "components": null
+    },
+    {
+      "serial_number": 12,
+      "description": "Earthing Sets H.T",
+      "unit": "L.S.",
+      "quantity": 17.0,
+      "rate_per_unit": 342.0,
+      "total_cost": 5814.0,
+      "components": null
+    }
+  ],
+  "summary": {
+    "cost_of_material": 744860.0,
+    "service_cost": 152696.0,
+    "sub_total": 897556.0,
+    "turnkey_charges": 44878.0,
+    "total_cost_of_estimate": 942434.0,
+    "civil_works_cost": null
+  }
+}

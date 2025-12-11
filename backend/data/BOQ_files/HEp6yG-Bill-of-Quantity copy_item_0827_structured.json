@@ -1,0 +1,23 @@
+{
+  "title": "Cost Data for Supply, Erection,Testing & Commissioning of HT Cable Joint Chamber",
+  "item_code": "0827",
+  "items": [
+    {
+      "serial_number": 1,
+      "description": "HT Cable Joint Chamber (Civil)",
+      "unit": "No.",
+      "quantity": 1.0,
+      "rate_per_unit": 1149.0,
+      "total_cost": 1149.0,
+      "components": null
+    }
+  ],
+  "summary": {
+    "cost_of_material": 1149.0,
+    "service_cost": 350.0,
+    "sub_total": 1499.0,
+    "turnkey_charges": 75.0,
+    "total_cost_of_estimate": 1574.0,
+    "civil_works_cost": null
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "title": "Cost total for magariemission or from insurance (contributor, transporter, shareholder) 22/0.433.ku..200.KVA. to..22/0.433.ku..210.KVA with MCCB",
+  "item_code": "1104",
+  "items": [
+    {
+      "serial_number": 1,
+      "description": "Dist. Transformer 315 KVA, 22/0.43 kv",
+      "unit": "No.",
+      "quantity": 1.0,
+      "rate_per_unit": 460697.0,
+      "total_cost": 460697.0,
+      "components": null
+    },
+    {
+      "serial_number": 2,
+      "description": "6 way feeder pillar with ACB",
+      "unit": "No.",
+      "quantity": 1.0,
+      "rate_per_unit": 61963.0,
+      "total_cost": 61963.0,
+      "components": null
+    },
+    {
+      "serial_number": 3,
+      "description": "L.T.XLPE Armoured 3.5 Core cable120 sq.mm.",
+      "unit": "Rmt",
+      "quantity": 25.0,
+      "rate_per_unit": 329.0,
+      "total_cost": 8225.0,
+      "components": null
+    },
+    {
+      "serial_number": 4,
+      "description": "L.T. XLPE cable 3.5 Core 240 mm2",
+      "unit": "Rmt",
+      "quantity": 10.0,
+      "rate_per_unit": 628.0,
+      "total_cost": 6280.0,
+      "components": null
+    },
+    {
+      "serial_number": 5,
+      "description": "Sundries LS",
+      "unit": null,
+      "quantity": 1.0,
+      "rate_per_unit": 810.0,
+      "total_cost": 810.0,
+      "components": null
+    }
+  ],
+  "summary": {
+    "cost_of_material": 537975.0,
+    "service_cost": 164082.0,
+    "sub_total": 702057.0,
+    "turnkey_charges": 35103.0,
+    "total_cost_of_estimate": 737160.0,
+    "civil_works_cost": null
+  }
+}

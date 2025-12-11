@@ -1,0 +1,59 @@
+{
+  "title": "Costs USED TO: MIGRATIONSHIP OF PARK PROGRAMS DISTRIBUTION/ TRANSFORMER SUPPLEMENT 2020-2133 for 2020-2134 for 2021-2213 for 2021-2214 for 2021-2215 for 2021-2216",
+  "item_code": "1107",
+  "items": [
+    {
+      "serial_number": 1,
+      "description": "Dist. Transformer 630 KVA, 22/0.43 kv",
+      "unit": "No.",
+      "quantity": 1.0,
+      "rate_per_unit": 682480.0,
+      "total_cost": 682480.0,
+      "components": null
+    },
+    {
+      "serial_number": 2,
+      "description": "8 way feeder pillar with ACB",
+      "unit": "No.",
+      "quantity": 1.0,
+      "rate_per_unit": 64190.0,
+      "total_cost": 64190.0,
+      "components": null
+    },
+    {
+      "serial_number": 3,
+      "description": "8 way feeder pillar with ACB",
+      "unit": "No.",
+      "quantity": 1.0,
+      "rate_per_unit": 64190.0,
+      "total_cost": 64190.0,
+      "components": null
+    },
+    {
+      "serial_number": 4,
+      "description": "L.T. XLPE cable 3.5 Core 300 mm2",
+      "unit": "Rint",
+      "quantity": 45.0,
+      "rate_per_unit": 725.0,
+      "total_cost": 32625.0,
+      "components": null
+    },
+    {
+      "serial_number": 5,
+      "description": "Sundries",
+      "unit": "LS",
+      "quantity": 1.0,
+      "rate_per_unit": 810.0,
+      "total_cost": 810.0,
+      "components": null
+    }
+  ],
+  "summary": {
+    "cost_of_material": 844295.0,
+    "service_cost": 257510.0,
+    "sub_total": 1101805.0,
+    "turnkey_charges": 55090.0,
+    "total_cost_of_estimate": 1156895.0,
+    "civil_works_cost": null
+  }
+}

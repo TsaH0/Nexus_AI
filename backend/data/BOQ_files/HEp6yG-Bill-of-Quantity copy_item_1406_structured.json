@@ -1,0 +1,50 @@
+{
+  "title": "Cost data for laying of 1 Km. L.T.XLPE Armoured Cable for Size 185 mm2",
+  "item_code": "1406",
+  "items": [
+    {
+      "serial_number": 1,
+      "description": "L.T. XLPE Armoured 3.5 Core cable185 sq.mm.",
+      "unit": "Rmt",
+      "quantity": 1000.0,
+      "rate_per_unit": 490.0,
+      "total_cost": 490000.0,
+      "components": null
+    },
+    {
+      "serial_number": 2,
+      "description": "R.C.C. Pipe 150 mm 2 M",
+      "unit": "No.",
+      "quantity": 30.0,
+      "rate_per_unit": 572.0,
+      "total_cost": 17160.0,
+      "components": null
+    },
+    {
+      "serial_number": 3,
+      "description": "LT St.through joints for 185 sqmm",
+      "unit": "No",
+      "quantity": 10.0,
+      "rate_per_unit": 864.0,
+      "total_cost": 8640.0,
+      "components": null
+    },
+    {
+      "serial_number": 4,
+      "description": "Misc. ( Bricks,sand,tremination kit and etc.)",
+      "unit": "LS",
+      "quantity": 1.0,
+      "rate_per_unit": 25350.0,
+      "total_cost": 25350.0,
+      "components": null
+    }
+  ],
+  "summary": {
+    "cost_of_material": 541150.0,
+    "service_cost": 165051.0,
+    "sub_total": 706201.0,
+    "turnkey_charges": 35310.0,
+    "total_cost_of_estimate": 741511.0,
+    "civil_works_cost": null
+  }
+}

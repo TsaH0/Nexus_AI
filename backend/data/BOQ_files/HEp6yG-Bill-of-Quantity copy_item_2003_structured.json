@@ -1,0 +1,59 @@
+{
+  "title": "Supply, Erection, Testing & Commissioning of LT mini Feeder Pillars",
+  "item_code": "2003",
+  "items": [
+    {
+      "serial_number": 1,
+      "description": "L.T. Mini Feeder Pillar",
+      "unit": "No",
+      "quantity": 1.0,
+      "rate_per_unit": null,
+      "total_cost": 0.0,
+      "components": null
+    },
+    {
+      "serial_number": 2,
+      "description": "Earthing with GI pipe",
+      "unit": "No",
+      "quantity": 1.0,
+      "rate_per_unit": null,
+      "total_cost": 0.0,
+      "components": null
+    },
+    {
+      "serial_number": 3,
+      "description": "G.I.Strip (25 X 3 mm)",
+      "unit": "kG",
+      "quantity": 1.0,
+      "rate_per_unit": null,
+      "total_cost": 0.0,
+      "components": null
+    },
+    {
+      "serial_number": 4,
+      "description": "Sundries",
+      "unit": null,
+      "quantity": 1.0,
+      "rate_per_unit": null,
+      "total_cost": 0.0,
+      "components": null
+    },
+    {
+      "serial_number": 5,
+      "description": "Concreting ration 1:3:6",
+      "unit": "L. S.",
+      "quantity": 1.0,
+      "rate_per_unit": null,
+      "total_cost": 0.0,
+      "components": null
+    }
+  ],
+  "summary": {
+    "cost_of_material": null,
+    "service_cost": null,
+    "sub_total": null,
+    "turnkey_charges": null,
+    "total_cost_of_estimate": 23288.0,
+    "civil_works_cost": null
+  }
+}

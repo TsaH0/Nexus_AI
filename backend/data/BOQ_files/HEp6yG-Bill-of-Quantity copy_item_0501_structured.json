@@ -1,0 +1,470 @@
+{
+  "title": "Cost data for 22 Kv Switching Station (Outdoor)",
+  "item_code": "0501",
+  "items": [
+    {
+      "serial_number": 1,
+      "description": "22 KV feeder bay as per sheet \"A\"",
+      "unit": "Nos.",
+      "quantity": 12.0,
+      "rate_per_unit": 756615.6,
+      "total_cost": 9079387.2,
+      "components": [
+        {
+          "description": "22 KV Lightning Arrestors (Screw type)",
+          "unit": "Set",
+          "quantity": 1.0,
+          "rate_per_unit": 8568.0,
+          "total_cost": 8568.0
+        },
+        {
+          "description": "22 KV Isolators with EB (800 A)",
+          "unit": "Set",
+          "quantity": 1.0,
+          "rate_per_unit": 41547.0,
+          "total_cost": 41547.0
+        },
+        {
+          "description": "22 KV Isolators without EB (800 Amp.)",
+          "unit": "Set",
+          "quantity": 1.0,
+          "rate_per_unit": 35680.0,
+          "total_cost": 35680.0
+        },
+        {
+          "description": "22 KV VCB complete 1600 Amp (O.D.)",
+          "unit": "Set",
+          "quantity": 1.0,
+          "rate_per_unit": 179600.0,
+          "total_cost": 179600.0
+        },
+        {
+          "description": "CT 200-100/1-1 A, 22 KV",
+          "unit": "Nos.",
+          "quantity": 3.0,
+          "rate_per_unit": 23767.0,
+          "total_cost": 71301.0
+        },
+        {
+          "description": "Control C&R Panel 22 KV for feeder with accessories.",
+          "unit": "Nos.",
+          "quantity": 1.0,
+          "rate_per_unit": 75834.0,
+          "total_cost": 75834.0
+        },
+        {
+          "description": "Structure and foundation cables, clamps, painting etc.as per sheet (A+B+C+D+F)",
+          "unit": "L.S.",
+          "quantity": 1.0,
+          "rate_per_unit": 330027.6,
+          "total_cost": 330027.6
+        },
+        {
+          "description": "Earthing as per Sheet (E)",
+          "unit": "L.S.",
+          "quantity": 1.0,
+          "rate_per_unit": 14058.0,
+          "total_cost": 14058.0
+        }
+      ]
+    },
+    {
+      "serial_number": 2,
+      "description": "22 KV Isolators without EB (800 Amp.)",
+      "unit": "Set",
+      "quantity": 3.0,
+      "rate_per_unit": 35680.0,
+      "total_cost": 107040.0,
+      "components": null
+    },
+    {
+      "serial_number": 3,
+      "description": "22 KV P.T.",
+      "unit": "No.",
+      "quantity": 3.0,
+      "rate_per_unit": 17855.0,
+      "total_cost": 53565.0,
+      "components": null
+    },
+    {
+      "serial_number": 4,
+      "description": "100 KVA, 22/0.4 KV with Dist. Box as per Sht.No.6.",
+      "unit": "Set",
+      "quantity": 1.0,
+      "rate_per_unit": 276835.4,
+      "total_cost": 276835.4,
+      "components": [
+        {
+          "description": "Dist.transformer 100kva,22/0.4kv",
+          "unit": "No.",
+          "quantity": 1.0,
+          "rate_per_unit": 202380.0,
+          "total_cost": 202380.0
+        },
+        {
+          "description": "L.T.Dist.Boxes 100 KVA with MCCB",
+          "unit": "No",
+          "quantity": 1.0,
+          "rate_per_unit": 12822.0,
+          "total_cost": 12822.0
+        },
+        {
+          "description": "22KV A.B.Switch, 400 A",
+          "unit": "Nos.",
+          "quantity": 1.0,
+          "rate_per_unit": 14447.0,
+          "total_cost": 14447.0
+        },
+        {
+          "description": "L.A.s 22KV (Gapless type) with disconnector",
+          "unit": "Set",
+          "quantity": 1.0,
+          "rate_per_unit": 2280.0,
+          "total_cost": 2280.0
+        },
+        {
+          "description": "22 kV Pin Insulators with G.I. Pins",
+          "unit": "No.s",
+          "quantity": 3.0,
+          "rate_per_unit": 336.0,
+          "total_cost": 1008.0
+        },
+        {
+          "description": "L.T.XLPE Armoured 3.5 Core cable120 sq.mm.",
+          "unit": "Rmt.",
+          "quantity": 10.0,
+          "rate_per_unit": 329.0,
+          "total_cost": 3290.0
+        },
+        {
+          "description": "L.T.XLPE Armoured 3.5 Core cable70 sq.mm.",
+          "unit": "Rmt.",
+          "quantity": 50.0,
+          "rate_per_unit": 204.0,
+          "total_cost": 10200.0
+        },
+        {
+          "description": "Earthing Sets H.T",
+          "unit": "Nos.",
+          "quantity": 3.0,
+          "rate_per_unit": 342.0,
+          "total_cost": 1026.0
+        },
+        {
+          "description": "G.I.Strp (25 X 3 mm)",
+          "unit": "Kg.",
+          "quantity": 40.0,
+          "rate_per_unit": 66.78,
+          "total_cost": 2671.2
+        },
+        {
+          "description": "Coal",
+          "unit": "Kg.",
+          "quantity": 200.0,
+          "rate_per_unit": 15.0,
+          "total_cost": 3000.0
+        },
+        {
+          "description": "Salt",
+          "unit": "Kg.",
+          "quantity": 200.0,
+          "rate_per_unit": 7.0,
+          "total_cost": 1400.0
+        },
+        {
+          "description": "Plinth for station Transformer",
+          "unit": "Cmt.",
+          "quantity": 5.6,
+          "rate_per_unit": 3027.0,
+          "total_cost": 16951.2
+        },
+        {
+          "description": "Half round cement pipe ( 150mm X 1mtr)",
+          "unit": "Nos.",
+          "quantity": 30.0,
+          "rate_per_unit": 110.0,
+          "total_cost": 3300.0
+        },
+        {
+          "description": "G.I.Nut Boltss Washer & Misc Material",
+          "unit": "L.S",
+          "quantity": 1.0,
+          "rate_per_unit": 2060.0,
+          "total_cost": 2060.0
+        }
+      ]
+    },
+    {
+      "serial_number": 5,
+      "description": "Battery set 30 Volt, 100 AH with Battery charger",
+      "unit": "Set",
+      "quantity": 1.0,
+      "rate_per_unit": 72000.0,
+      "total_cost": 72000.0,
+      "components": null
+    },
+    {
+      "serial_number": 6,
+      "description": "Bus Gantry and Fabrication material, Clamps,Connectors, Control Cables, and Earthing (As per Sht. No.1,2,3,5,7 &8.",
+      "unit": "L.S.",
+      "quantity": 1.0,
+      "rate_per_unit": 407270.3,
+      "total_cost": 407270.3,
+      "components": [
+        {
+          "description": "Column type HG(4 Nos.)-496.0 kg.",
+          "unit": "MT",
+          "quantity": 2.976,
+          "rate_per_unit": 48500.0,
+          "total_cost": 144336.0
+        },
+        {
+          "description": "Beam type HA(2 Nos.)-261.0 Kg.",
+          "unit": "MT",
+          "quantity": 0.783,
+          "rate_per_unit": 48500.0,
+          "total_cost": 37975.5
+        },
+        {
+          "description": "M.S.Flat 50 x 6 mm",
+          "unit": "Kg.",
+          "quantity": 140.0,
+          "rate_per_unit": 48.5,
+          "total_cost": 6790.0
+        },
+        {
+          "description": "Earthing Sets H.T of C.I.pipe 150 mm 3 mtr.",
+          "unit": "No.",
+          "quantity": 2.0,
+          "rate_per_unit": 6300.0,
+          "total_cost": 12600.0
+        },
+        {
+          "description": "Coat",
+          "unit": "Kg.",
+          "quantity": 200.0,
+          "rate_per_unit": 15.0,
+          "total_cost": 3000.0
+        },
+        {
+          "description": "Salt",
+          "unit": "Kg.",
+          "quantity": 200.0,
+          "rate_per_unit": 7.0,
+          "total_cost": 1400.0
+        },
+        {
+          "description": "RCC Ring work for earthing pits",
+          "unit": "No.",
+          "quantity": 2.0,
+          "rate_per_unit": 266.0,
+          "total_cost": 532.0
+        },
+        {
+          "description": "Sundries",
+          "unit": "L.S.",
+          "quantity": 1.0,
+          "rate_per_unit": 810.0,
+          "total_cost": 810.0
+        },
+        {
+          "description": "Structure for 22 KV PT",
+          "unit": "Kg.",
+          "quantity": 315.0,
+          "rate_per_unit": 51.8,
+          "total_cost": 16317.0
+        },
+        {
+          "description": "Structure for 22 KV H/G.",
+          "unit": "Kg.",
+          "quantity": 155.0,
+          "rate_per_unit": 51.8,
+          "total_cost": 8029.0
+        },
+        {
+          "description": "G.I.Nut Bolts",
+          "unit": "Kg.",
+          "quantity": 30.0,
+          "rate_per_unit": 82.9,
+          "total_cost": 2487.0
+        },
+        {
+          "description": "T-Connector for 200 sq mm conductor(Compression type)",
+          "unit": "Nos.",
+          "quantity": 30.0,
+          "rate_per_unit": 3352.0,
+          "total_cost": 100560.0
+        },
+        {
+          "description": "DOG TO DOG or equivalent AAAC",
+          "unit": null,
+          "quantity": 0.0,
+          "rate_per_unit": 559.0,
+          "total_cost": 0.0
+        },
+        {
+          "description": "Clamps for 22 KV Isolator",
+          "unit": "Nos.",
+          "quantity": 18.0,
+          "rate_per_unit": 1020.0,
+          "total_cost": 18360.0
+        },
+        {
+          "description": "Clamps for 22 KV P.T.",
+          "unit": "Nos.",
+          "quantity": 3.0,
+          "rate_per_unit": 1425.0,
+          "total_cost": 4275.0
+        },
+        {
+          "description": "Armoured Copper control cable 2Cx2.5 sq.mm.",
+          "unit": "Rmt",
+          "quantity": 100.0,
+          "rate_per_unit": 55.11,
+          "total_cost": 5511.0
+        },
+        {
+          "description": "Cable Trays 2.5 Mtr. X 6\" W",
+          "unit": "Nos.",
+          "quantity": 5.0,
+          "rate_per_unit": 333.0,
+          "total_cost": 1665.0
+        },
+        {
+          "description": "G.I Angles (50X50X6mm) forcable tray",
+          "unit": "Kg.",
+          "quantity": 10.0,
+          "rate_per_unit": 70.08,
+          "total_cost": 700.8
+        },
+        {
+          "description": "Miscelleneous material",
+          "unit": "L.S",
+          "quantity": 1.0,
+          "rate_per_unit": 475.0,
+          "total_cost": 475.0
+        },
+        {
+          "description": "AAAC 232 mm2",
+          "unit": "Rml",
+          "quantity": 200.0,
+          "rate_per_unit": 127.4,
+          "total_cost": 25480.0
+        },
+        {
+          "description": "Disc Insulator 11 KV 70 KN",
+          "unit": "Nos.",
+          "quantity": 24.0,
+          "rate_per_unit": 344.0,
+          "total_cost": 8256.0
+        },
+        {
+          "description": "Strain Hardware for AAAC232 sq.mm.",
+          "unit": "Nos.",
+          "quantity": 12.0,
+          "rate_per_unit": 603.0,
+          "total_cost": 7236.0
+        },
+        {
+          "description": "Miscelleneous material",
+          "unit": "L.S",
+          "quantity": 1.0,
+          "rate_per_unit": 475.0,
+          "total_cost": 475.0
+        }
+      ]
+    },
+    {
+      "serial_number": 7,
+      "description": "AC Distribution Board 'B' type",
+      "unit": "Nos.",
+      "quantity": 1.0,
+      "rate_per_unit": 24325.0,
+      "total_cost": 24325.0,
+      "components": null
+    },
+    {
+      "serial_number": 8,
+      "description": "Fire Extinguisher with stand",
+      "unit": "L5",
+      "quantity": 1.0,
+      "rate_per_unit": 4200.0,
+      "total_cost": 4200.0,
+      "components": null
+    },
+    {
+      "serial_number": 9,
+      "description": "Switchyard lighting(As per Sht.no.4)",
+      "unit": "Nos.",
+      "quantity": 1.0,
+      "rate_per_unit": 153263.5,
+      "total_cost": 153263.5,
+      "components": [
+        {
+          "description": "Flood lights with control gear box & 250w SV Lamp",
+          "unit": "No.",
+          "quantity": 10.0,
+          "rate_per_unit": 6300.0,
+          "total_cost": 63000.0
+        },
+        {
+          "description": "Tubular pole 9 Mtr. Long 88.9C, 137.7 mm",
+          "unit": "No.",
+          "quantity": 10.0,
+          "rate_per_unit": 4815.0,
+          "total_cost": 48150.0
+        },
+        {
+          "description": "L.T. XLPE Armoured cable 4core 16sq.mm.",
+          "unit": "Mtr.",
+          "quantity": 175.0,
+          "rate_per_unit": 78.0,
+          "total_cost": 13650.0
+        },
+        {
+          "description": "L.T. 2 Core Cable 2.5 sqmm Armoured",
+          "unit": "Mtr.",
+          "quantity": 75.0,
+          "rate_per_unit": 77.0,
+          "total_cost": 5775.0
+        },
+        {
+          "description": "Concreting ration 1:3:6",
+          "unit": "Cmt",
+          "quantity": 5.5,
+          "rate_per_unit": 3027.0,
+          "total_cost": 16648.5
+        },
+        {
+          "description": "Red Bricks",
+          "unit": "No.",
+          "quantity": 850.0,
+          "rate_per_unit": 5.5,
+          "total_cost": 4675.0
+        },
+        {
+          "description": "Sand",
+          "unit": "Cum",
+          "quantity": 2.5,
+          "rate_per_unit": 222.0,
+          "total_cost": 555.0
+        },
+        {
+          "description": "Sundries",
+          "unit": "L.S.",
+          "quantity": 0.0,
+          "rate_per_unit": 810.0,
+          "total_cost": 810.0
+        }
+      ]
+    }
+  ],
+  "summary": {
+    "cost_of_material": 10177886.4,
+    "service_cost": 2086467.0,
+    "sub_total": 12264353.0,
+    "turnkey_charges": 613218.0,
+    "total_cost_of_estimate": 19852421.0,
+    "civil_works_cost": 6974850.0
+  }
+}

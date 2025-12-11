@@ -1,0 +1,150 @@
+{
+  "title": "DOUPLE POLE STRUCTURE(cut point) OF- 11 KV LINE USING13 M LONG RSJ POLE",
+  "item_code": "0920",
+  "items": [
+    {
+      "serial_number": 1,
+      "description": "DOUPLE POLE STRUCTURE(cut point) OF- 11 KV LINE USING13 M LONG RSJ POLE",
+      "unit": "No.",
+      "quantity": 1.0,
+      "rate_per_unit": 89547.0,
+      "total_cost": 89547.0,
+      "components": [
+        {
+          "description": "RSJ 152x152, 11 m long",
+          "unit": "No.",
+          "quantity": 2.0,
+          "rate_per_unit": 18245.0,
+          "total_cost": 35490.0
+        },
+        {
+          "description": "M.S. Flats(50 X 10mm)",
+          "unit": "Kg.",
+          "quantity": 10.0,
+          "rate_per_unit": 48.5,
+          "total_cost": 485.0
+        },
+        {
+          "description": "MS Channel 100x50x6 mm",
+          "unit": "Kg.",
+          "quantity": 110.0,
+          "rate_per_unit": 51.8,
+          "total_cost": 5698.0
+        },
+        {
+          "description": "M.S.Channel 75x40x6 mm",
+          "unit": "Kg.",
+          "quantity": 75.0,
+          "rate_per_unit": 51.8,
+          "total_cost": 3885.0
+        },
+        {
+          "description": "MS angle 50x50x6 mm",
+          "unit": "Kg.",
+          "quantity": 50.0,
+          "rate_per_unit": 51.8,
+          "total_cost": 2590.0
+        },
+        {
+          "description": "Strain Hardware for Dog0.1 or Equ.AAAC.",
+          "unit": "No.",
+          "quantity": 6.0,
+          "rate_per_unit": 322.0,
+          "total_cost": 1932.0
+        },
+        {
+          "description": "Disc Insulator 11 KV 70 KN",
+          "unit": "No.",
+          "quantity": 6.0,
+          "rate_per_unit": 344.0,
+          "total_cost": 2064.0
+        },
+        {
+          "description": "H.T.Stay Set",
+          "unit": "No.",
+          "quantity": 2.0,
+          "rate_per_unit": 598.0,
+          "total_cost": 1196.0
+        },
+        {
+          "description": "G.I.Stay Wire 7/4mm(8 SWG)",
+          "unit": "Kg.",
+          "quantity": 25.0,
+          "rate_per_unit": 57.45,
+          "total_cost": 1436.25
+        },
+        {
+          "description": "Earthing Sets H.T",
+          "unit": "No.",
+          "quantity": 2.0,
+          "rate_per_unit": 342.0,
+          "total_cost": 684.0
+        },
+        {
+          "description": "G.I.Wire 8 SWG/ 6 SWG",
+          "unit": "kg.",
+          "quantity": 6.0,
+          "rate_per_unit": 57.4,
+          "total_cost": 344.4
+        },
+        {
+          "description": "G.I.Barbed Wire 'A' type.",
+          "unit": "kg.",
+          "quantity": 7.0,
+          "rate_per_unit": 64.27,
+          "total_cost": 449.89
+        },
+        {
+          "description": "Danger Board in yard.",
+          "unit": "No.",
+          "quantity": 2.0,
+          "rate_per_unit": 50.0,
+          "total_cost": 100.0
+        },
+        {
+          "description": "Black Bituminus Paint",
+          "unit": "Ltr.",
+          "quantity": 2.0,
+          "rate_per_unit": 85.0,
+          "total_cost": 170.0
+        },
+        {
+          "description": "Red Oxide Paint for 2 coats",
+          "unit": "Ltr.",
+          "quantity": 6.0,
+          "rate_per_unit": 85.0,
+          "total_cost": 510.0
+        },
+        {
+          "description": "Aluminium Paint for 1 coat",
+          "unit": "Ltr.",
+          "quantity": 4.0,
+          "rate_per_unit": 113.0,
+          "total_cost": 452.0
+        },
+        {
+          "description": "Concreting ration 1:3:6",
+          "unit": "Cmt.",
+          "quantity": 2.0,
+          "rate_per_unit": 3027.0,
+          "total_cost": 6054.0
+        },
+        {
+          "description": "Sundries",
+          "unit": "L.S.",
+          "quantity": 1.0,
+          "rate_per_unit": 810.0,
+          "total_cost": 810.0
+        }
+      ]
+    }
+  ],
+  "summary": {
+    "cost_of_material": 65350.54,
+    "service_cost": 19932.0,
+    "sub_total": 85282.0,
+    "turnkey_charges": 4264.0,
+    "total_cost_of_estimate": 89547.0,
+    "civil_works_cost": null
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "title": "Estimate for LT to underground 2C, 2.5sqmm cable for 1 Km",
+  "item_code": "1415",
+  "items": [
+    {
+      "serial_number": 1,
+      "description": "Armoured Copper control cable 2Cx2.5 sq.mm.",
+      "unit": "Rmt",
+      "quantity": 1000.0,
+      "rate_per_unit": 55.11,
+      "total_cost": 55110.0,
+      "components": null
+    },
+    {
+      "serial_number": 2,
+      "description": "R.C.C. Pipe 150 mm 2 M",
+      "unit": "No",
+      "quantity": 30.0,
+      "rate_per_unit": 572.0,
+      "total_cost": 17160.0,
+      "components": null
+    },
+    {
+      "serial_number": 3,
+      "description": "Misc. ( Bricks,sand,tremination kit and etc.)",
+      "unit": "LS",
+      "quantity": 1.0,
+      "rate_per_unit": 25350.0,
+      "total_cost": 25350.0,
+      "components": null
+    }
+  ],
+  "summary": {
+    "cost_of_material": 97620.0,
+    "service_cost": 29774.0,
+    "sub_total": 127394.0,
+    "turnkey_charges": 6370.0,
+    "total_cost_of_estimate": 133764.0,
+    "civil_works_cost": null
+  }
+}

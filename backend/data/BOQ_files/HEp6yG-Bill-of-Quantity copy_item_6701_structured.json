@@ -1,0 +1,212 @@
+{
+  "title": "Cost data for 1 Km .33 KV S/C Line with 100 mm2 AAAC (Suspension type) & RSJ 152 X 152 mm 12 mtr. Long.",
+  "item_code": "6701",
+  "items": [
+    {
+      "serial_number": 1,
+      "description": "RSJ 152x152, 12 m long",
+      "unit": "No.",
+      "quantity": 14.0,
+      "rate_per_unit": 19903.0,
+      "total_cost": 278642.0,
+      "components": null
+    },
+    {
+      "serial_number": 2,
+      "description": "RSJ 152x152, 11 m long",
+      "unit": "No.",
+      "quantity": 2.0,
+      "rate_per_unit": 18245.0,
+      "total_cost": 36490.0,
+      "components": null
+    },
+    {
+      "serial_number": 3,
+      "description": "MS Channel 100x50x6 mm",
+      "unit": "Kg.",
+      "quantity": 495.0,
+      "rate_per_unit": 51.8,
+      "total_cost": 25641.0,
+      "components": null
+    },
+    {
+      "serial_number": 4,
+      "description": "M.S.Channel 75x40x6 mm",
+      "unit": "Kg.",
+      "quantity": 91.0,
+      "rate_per_unit": 51.8,
+      "total_cost": 4713.8,
+      "components": null
+    },
+    {
+      "serial_number": 5,
+      "description": "MS angle 50x50x6 mm",
+      "unit": "Kg.",
+      "quantity": 203.0,
+      "rate_per_unit": 51.8,
+      "total_cost": 10515.4,
+      "components": null
+    },
+    {
+      "serial_number": 6,
+      "description": "MS Flat 75x10 mm",
+      "unit": "Kg.",
+      "quantity": 89.0,
+      "rate_per_unit": 48.5,
+      "total_cost": 4316.5,
+      "components": null
+    },
+    {
+      "serial_number": 7,
+      "description": "G.I.Nut Bolts",
+      "unit": "Kg.",
+      "quantity": 80.0,
+      "rate_per_unit": 82.9,
+      "total_cost": 6632.0,
+      "components": null
+    },
+    {
+      "serial_number": 8,
+      "description": "Disc Insulator 11 KV 70 KN",
+      "unit": "No.",
+      "quantity": 153.0,
+      "rate_per_unit": 344.0,
+      "total_cost": 52632.0,
+      "components": null
+    },
+    {
+      "serial_number": 9,
+      "description": "SSN Hardware for 0.1 Dog or AAAC 100 Sq.mm",
+      "unit": "No.",
+      "quantity": 33.0,
+      "rate_per_unit": 225.0,
+      "total_cost": 7425.0,
+      "components": null
+    },
+    {
+      "serial_number": 10,
+      "description": "AAAC 100 mm2",
+      "unit": "Mtrs.",
+      "quantity": 3150.0,
+      "rate_per_unit": 51.82,
+      "total_cost": 163233.0,
+      "components": null
+    },
+    {
+      "serial_number": 11,
+      "description": "H.T.Stay Set",
+      "unit": "No.",
+      "quantity": 6.0,
+      "rate_per_unit": 598.0,
+      "total_cost": 3588.0,
+      "components": null
+    },
+    {
+      "serial_number": 12,
+      "description": "G.I.Stay Wire 7/4mm(8 SWG)",
+      "unit": "Kg.",
+      "quantity": 60.0,
+      "rate_per_unit": 57.45,
+      "total_cost": 3447.0,
+      "components": null
+    },
+    {
+      "serial_number": 13,
+      "description": "G.I.Wire 8 SWG/ 6 SWG",
+      "unit": "Kg.",
+      "quantity": 130.0,
+      "rate_per_unit": 57.4,
+      "total_cost": 7462.0,
+      "components": null
+    },
+    {
+      "serial_number": 14,
+      "description": "Steve Joints",
+      "unit": "No.",
+      "quantity": 3.0,
+      "rate_per_unit": 115.0,
+      "total_cost": 345.0,
+      "components": null
+    },
+    {
+      "serial_number": 15,
+      "description": "Danger Board in yard.",
+      "unit": "No.",
+      "quantity": 14.0,
+      "rate_per_unit": 50.0,
+      "total_cost": 700.0,
+      "components": null
+    },
+    {
+      "serial_number": 16,
+      "description": "Earthing Sets H.T",
+      "unit": "No.",
+      "quantity": 14.0,
+      "rate_per_unit": 342.0,
+      "total_cost": 4788.0,
+      "components": null
+    },
+    {
+      "serial_number": 17,
+      "description": "Concreting ration 1:3:6",
+      "unit": "cmt.",
+      "quantity": 25.0,
+      "rate_per_unit": 3027.0,
+      "total_cost": 75675.0,
+      "components": null
+    },
+    {
+      "serial_number": 18,
+      "description": "G.I.Barbed Wire 'A' type.",
+      "unit": "Kg.",
+      "quantity": 60.0,
+      "rate_per_unit": 64.27,
+      "total_cost": 3856.2,
+      "components": null
+    },
+    {
+      "serial_number": 19,
+      "description": "Black bituminus paint",
+      "unit": "Ltr.",
+      "quantity": 6.0,
+      "rate_per_unit": 85.0,
+      "total_cost": 510.0,
+      "components": null
+    },
+    {
+      "serial_number": 20,
+      "description": "Red Oxide Paint for 2 coats",
+      "unit": "Ltr.",
+      "quantity": 20.0,
+      "rate_per_unit": 85.0,
+      "total_cost": 1700.0,
+      "components": null
+    },
+    {
+      "serial_number": 21,
+      "description": "Aluminium Paint for 1 coat",
+      "unit": "Ltr.",
+      "quantity": 9.0,
+      "rate_per_unit": 113.0,
+      "total_cost": 1017.0,
+      "components": null
+    },
+    {
+      "serial_number": 22,
+      "description": "Sundries",
+      "unit": "LS",
+      "quantity": 1.0,
+      "rate_per_unit": 810.0,
+      "total_cost": 810.0,
+      "components": null
+    }
+  ],
+  "summary": {
+    "cost_of_material": 704200.9,
+    "service_cost": 214781.0,
+    "sub_total": 918982.0,
+    "turnkey_charges": 45949.0,
+    "total_cost_of_estimate": 964931.0,
+    "civil_works_cost": null
+  }
+}

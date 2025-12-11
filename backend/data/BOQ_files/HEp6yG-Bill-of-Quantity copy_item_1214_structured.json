@@ -1,0 +1,221 @@
+{
+  "title": "Cost data for Pole mounted Distribution Transformer Sub-station 315 KVA, 11/0.433 kv.",
+  "item_code": "1214",
+  "items": [
+    {
+      "serial_number": 1,
+      "description": "Dist. Transformer 315 KVA, 11/0.43 kv",
+      "unit": "No.",
+      "quantity": 1.0,
+      "rate_per_unit": 433900.0,
+      "total_cost": 433900.0,
+      "components": null
+    },
+    {
+      "serial_number": 2,
+      "description": "RSJ 116x100, 9 m long",
+      "unit": "No.",
+      "quantity": 2.0,
+      "rate_per_unit": 9254.0,
+      "total_cost": 18508.0,
+      "components": null
+    },
+    {
+      "serial_number": 3,
+      "description": "G.I.Channel 100x50x6mm",
+      "unit": "Kg.",
+      "quantity": 124.0,
+      "rate_per_unit": 70.08,
+      "total_cost": 8689.92,
+      "components": null
+    },
+    {
+      "serial_number": 4,
+      "description": "G.I.Channel 75x40x6mm",
+      "unit": "Kg.",
+      "quantity": 100.0,
+      "rate_per_unit": 70.08,
+      "total_cost": 7008.0,
+      "components": null
+    },
+    {
+      "serial_number": 5,
+      "description": "G.I.Angle 50x50x6mm",
+      "unit": "Kg.",
+      "quantity": 86.0,
+      "rate_per_unit": 70.08,
+      "total_cost": 6026.88,
+      "components": null
+    },
+    {
+      "serial_number": 6,
+      "description": "G.I Flat 50x10 mm",
+      "unit": "Kg.",
+      "quantity": 56.0,
+      "rate_per_unit": 66.76,
+      "total_cost": 3739.68,
+      "components": null
+    },
+    {
+      "serial_number": 7,
+      "description": "11 kV Pin Insulators with G.I. Pins",
+      "unit": "No.",
+      "quantity": 3.0,
+      "rate_per_unit": 135.0,
+      "total_cost": 405.0,
+      "components": null
+    },
+    {
+      "serial_number": 8,
+      "description": "Disc Insulator 11 KV 45 KN",
+      "unit": "No.",
+      "quantity": 3.0,
+      "rate_per_unit": 244.0,
+      "total_cost": 732.0,
+      "components": null
+    },
+    {
+      "serial_number": 9,
+      "description": "Strain Hardware forWeasel/Squirrel",
+      "unit": "No.",
+      "quantity": 3.0,
+      "rate_per_unit": 179.0,
+      "total_cost": 537.0,
+      "components": null
+    },
+    {
+      "serial_number": 10,
+      "description": "6 way feeder pillar with ACB",
+      "unit": "No.",
+      "quantity": 1.0,
+      "rate_per_unit": 61963.0,
+      "total_cost": 61963.0,
+      "components": null
+    },
+    {
+      "serial_number": 11,
+      "description": "L.As. 11 KV (Gapless type) with disconector",
+      "unit": "Set",
+      "quantity": 1.0,
+      "rate_per_unit": 1268.0,
+      "total_cost": 1268.0,
+      "components": null
+    },
+    {
+      "serial_number": 12,
+      "description": "H.T.Stay Set",
+      "unit": "No.",
+      "quantity": 2.0,
+      "rate_per_unit": 598.0,
+      "total_cost": 1196.0,
+      "components": null
+    },
+    {
+      "serial_number": 13,
+      "description": "G.I.Stay Wire 7/4mm(8 SWG)",
+      "unit": "Kg.",
+      "quantity": 16.0,
+      "rate_per_unit": 57.45,
+      "total_cost": 919.2,
+      "components": null
+    },
+    {
+      "serial_number": 14,
+      "description": "Earthing Sets H.T",
+      "unit": "No.",
+      "quantity": 5.0,
+      "rate_per_unit": 342.0,
+      "total_cost": 1710.0,
+      "components": null
+    },
+    {
+      "serial_number": 15,
+      "description": "11KV H.G.Fuses",
+      "unit": "Set",
+      "quantity": 1.0,
+      "rate_per_unit": 1964.0,
+      "total_cost": 1964.0,
+      "components": null
+    },
+    {
+      "serial_number": 16,
+      "description": "11KV A.B. Switch, 400 A",
+      "unit": "No.",
+      "quantity": 1.0,
+      "rate_per_unit": 9240.0,
+      "total_cost": 9240.0,
+      "components": null
+    },
+    {
+      "serial_number": 17,
+      "description": "Danger Board in yard.",
+      "unit": "No.",
+      "quantity": 2.0,
+      "rate_per_unit": 50.0,
+      "total_cost": 100.0,
+      "components": null
+    },
+    {
+      "serial_number": 18,
+      "description": "G.I.Strip (25 X 3 mm)",
+      "unit": "Kg.",
+      "quantity": 40.0,
+      "rate_per_unit": 66.76,
+      "total_cost": 2671.2,
+      "components": null
+    },
+    {
+      "serial_number": 19,
+      "description": "G.I.Barbed Wire 'A' type.",
+      "unit": "Kg.",
+      "quantity": 10.0,
+      "rate_per_unit": 64.27,
+      "total_cost": 642.7,
+      "components": null
+    },
+    {
+      "serial_number": 20,
+      "description": "Concreting ration 1:3:6",
+      "unit": "Cont.",
+      "quantity": 2.3,
+      "rate_per_unit": 3027.0,
+      "total_cost": 6962.1,
+      "components": null
+    },
+    {
+      "serial_number": 21,
+      "description": "Painting of Supports & fabricated materials",
+      "unit": "LS",
+      "quantity": 1.0,
+      "rate_per_unit": 155.0,
+      "total_cost": 155.0,
+      "components": null
+    },
+    {
+      "serial_number": 22,
+      "description": "Sundries",
+      "unit": "LS",
+      "quantity": 1.0,
+      "rate_per_unit": 810.0,
+      "total_cost": 810.0,
+      "components": null
+    },
+    {
+      "serial_number": 23,
+      "description": "DTC Metring with Box, single core L.T. XLPE cable (300 sq.mm., 280 mitr length) and other allied material.",
+      "unit": "No.",
+      "quantity": 1.0,
+      "rate_per_unit": 7676.0,
+      "total_cost": 7676.0,
+      "components": null
+    }
+  ],
+  "summary": {
+    "cost_of_material": 576823.68,
+    "service_cost": 175931.0,
+    "sub_total": 752755.0,
+    "turnkey_charges": 37638.0,
+    "total_cost_of_estimate": 790393.0,
+    "civil_works_cost": null
+  }
+}

@@ -1,0 +1,335 @@
+{
+  "title": "Cost data for 22/11 KV, 1 X 10 MVA Indoor S/s",
+  "item_code": "0402B",
+  "items": [
+    {
+      "serial_number": 1,
+      "description": "Power Transformer 22/11 KV, 10 MVA (DY-11)",
+      "unit": "No.",
+      "quantity": 1.0,
+      "rate_per_unit": 4769649.0,
+      "total_cost": 4769649.0,
+      "components": null
+    },
+    {
+      "serial_number": 2,
+      "description": "C&R panel for 22 KV Transformer with Diff. Protection",
+      "unit": "No.",
+      "quantity": 1.0,
+      "rate_per_unit": 113866.0,
+      "total_cost": 113866.0,
+      "components": null
+    },
+    {
+      "serial_number": 3,
+      "description": "22 kV 1000 MVA 1600 Amp.IN Door Type VCB",
+      "unit": "No.",
+      "quantity": 1.0,
+      "rate_per_unit": 985167.0,
+      "total_cost": 985167.0,
+      "components": null
+    },
+    {
+      "serial_number": 4,
+      "description": "XLPE Cable 22 KV, 3 C / 300 mm sq.",
+      "unit": "Mtr.",
+      "quantity": 100.0,
+      "rate_per_unit": 1464.0,
+      "total_cost": 146400.0,
+      "components": null
+    },
+    {
+      "serial_number": 5,
+      "description": "22 kV Heat shrik Indoor termination joint (AI) kit for XLPE 3 C X 300 sgrnm",
+      "unit": "No.",
+      "quantity": 4.0,
+      "rate_per_unit": 12874.0,
+      "total_cost": 51496.0,
+      "components": null
+    },
+    {
+      "serial_number": 6,
+      "description": "22 kV SF6 Isolator",
+      "unit": "No.",
+      "quantity": 2.0,
+      "rate_per_unit": 409598.0,
+      "total_cost": 819196.0,
+      "components": null
+    },
+    {
+      "serial_number": 7,
+      "description": "Foundation for 22 kV Isolators",
+      "unit": "Cmt.",
+      "quantity": 5.2,
+      "rate_per_unit": 3027.0,
+      "total_cost": 15740.4,
+      "components": null
+    },
+    {
+      "serial_number": 8,
+      "description": "RSJ 152x152, 13 m long",
+      "unit": "No.",
+      "quantity": 2.0,
+      "rate_per_unit": 21562.0,
+      "total_cost": 43124.0,
+      "components": null
+    },
+    {
+      "serial_number": 9,
+      "description": "Concreting ration 1:3:6",
+      "unit": "Cmt.",
+      "quantity": 2.02,
+      "rate_per_unit": 3027.0,
+      "total_cost": 6114.54,
+      "components": null
+    },
+    {
+      "serial_number": 10,
+      "description": "22 KV Lightning Arrestors (Screw type)",
+      "unit": "Set",
+      "quantity": 1.0,
+      "rate_per_unit": 8568.0,
+      "total_cost": 8568.0,
+      "components": null
+    },
+    {
+      "serial_number": 11,
+      "description": "Marshalling Box",
+      "unit": "No.",
+      "quantity": 2.0,
+      "rate_per_unit": 4284.0,
+      "total_cost": 8568.0,
+      "components": null
+    },
+    {
+      "serial_number": 12,
+      "description": "0.2 ACSR or equivalent AAAC Loop Connector",
+      "unit": "No.",
+      "quantity": 12.0,
+      "rate_per_unit": 820.0,
+      "total_cost": 9840.0,
+      "components": null
+    },
+    {
+      "serial_number": 13,
+      "description": "Clamps for 22 KV Isolator",
+      "unit": "No.",
+      "quantity": 12.0,
+      "rate_per_unit": 1020.0,
+      "total_cost": 12240.0,
+      "components": null
+    },
+    {
+      "serial_number": 14,
+      "description": "Transformer Clamps",
+      "unit": "No.",
+      "quantity": 6.0,
+      "rate_per_unit": 721.0,
+      "total_cost": 4326.0,
+      "components": null
+    },
+    {
+      "serial_number": 15,
+      "description": "AAAC 232 mm2",
+      "unit": "Mtr.",
+      "quantity": 50.0,
+      "rate_per_unit": 127.4,
+      "total_cost": 6370.0,
+      "components": null
+    },
+    {
+      "serial_number": 16,
+      "description": "Sundries",
+      "unit": "L.S.",
+      "quantity": 1.0,
+      "rate_per_unit": 810.0,
+      "total_cost": 810.0,
+      "components": null
+    },
+    {
+      "serial_number": 17,
+      "description": "11kV I D switchgear (1 IIc+1 BIIc+4O/G)",
+      "unit": "Set",
+      "quantity": 1.0,
+      "rate_per_unit": 1703020.0,
+      "total_cost": 1703020.0,
+      "components": null
+    },
+    {
+      "serial_number": 18,
+      "description": "XLPE Cable 11 KV, 3 C / 300 mm sq.",
+      "unit": "Mtr.",
+      "quantity": 1000.0,
+      "rate_per_unit": 1194.0,
+      "total_cost": 1194000.0,
+      "components": null
+    },
+    {
+      "serial_number": 19,
+      "description": "11 kV heat shrinkable Indoor termination joint kit for 3 C X 300 sgrnm",
+      "unit": "No.",
+      "quantity": 24.0,
+      "rate_per_unit": 1662.0,
+      "total_cost": 39888.0,
+      "components": null
+    },
+    {
+      "serial_number": 20,
+      "description": "Battery set 30 Volt, 100 AH with Battery charger",
+      "unit": "No.",
+      "quantity": 1.0,
+      "rate_per_unit": 72000.0,
+      "total_cost": 72000.0,
+      "components": null
+    },
+    {
+      "serial_number": 21,
+      "description": "Control cables for S/S as per Sheet no. 1",
+      "unit": "No.",
+      "quantity": 1.0,
+      "rate_per_unit": 237889.0,
+      "total_cost": 237889.0,
+      "components": [
+        {
+          "description": "Armoured Copper control cable 19C X 2.5 Sq mm",
+          "unit": "Mtr.",
+          "quantity": 200.0,
+          "rate_per_unit": 331.39,
+          "total_cost": 66278.0
+        },
+        {
+          "description": "Armoured Copper control cable 12C X 2.5 Sq mm",
+          "unit": "Mtr.",
+          "quantity": 200.0,
+          "rate_per_unit": 216.24,
+          "total_cost": 43248.0
+        },
+        {
+          "description": "Armoured Copper control cable 4C X 2.5 Sq mm",
+          "unit": "Mtr.",
+          "quantity": 200.0,
+          "rate_per_unit": 87.6,
+          "total_cost": 17520.0
+        },
+        {
+          "description": "Armoured Copper control cable 2Cx2.5 sq.mm.",
+          "unit": "Mtr.",
+          "quantity": 100.0,
+          "rate_per_unit": 55.11,
+          "total_cost": 5511.0
+        },
+        {
+          "description": "L.T. XLPE Armoured cable 4core 16sq.mm.",
+          "unit": "Mtr.",
+          "quantity": 100.0,
+          "rate_per_unit": 78.0,
+          "total_cost": 7800.0
+        },
+        {
+          "description": "Cable Trays 2.5 Mtr. X 6\" W",
+          "unit": "No.",
+          "quantity": 100.0,
+          "rate_per_unit": 333.0,
+          "total_cost": 33300.0
+        },
+        {
+          "description": "G.I Angles (50X50X6mm) forcable tray",
+          "unit": "Kg.",
+          "quantity": 400.0,
+          "rate_per_unit": 70.08,
+          "total_cost": 28032.0
+        },
+        {
+          "description": "Sand",
+          "unit": "Cmt.",
+          "quantity": 150.0,
+          "rate_per_unit": 222.0,
+          "total_cost": 33300.0
+        },
+        {
+          "description": "Sundries e.g. Ferulls, Glands, Lugs etc.",
+          "unit": "L.S.",
+          "quantity": 1.0,
+          "rate_per_unit": 2900.0,
+          "total_cost": 2900.0
+        }
+      ]
+    },
+    {
+      "serial_number": 22,
+      "description": "Earthing complete as per Sheet no. 2",
+      "unit": "Set",
+      "quantity": 1.0,
+      "rate_per_unit": 54433.5,
+      "total_cost": 54433.5,
+      "components": [
+        {
+          "description": "Earthing HDG Flat 75 X 10 mm",
+          "unit": "kg.",
+          "quantity": 150.0,
+          "rate_per_unit": 66.78,
+          "total_cost": 10017.0
+        },
+        {
+          "description": "Earthing HDG Flat 50 X 6 mm",
+          "unit": "kg.",
+          "quantity": 75.0,
+          "rate_per_unit": 66.78,
+          "total_cost": 5008.5
+        },
+        {
+          "description": "C.I. Plates 2' X 2'",
+          "unit": "No.",
+          "quantity": 4.0,
+          "rate_per_unit": 247.0,
+          "total_cost": 988.0
+        },
+        {
+          "description": "C.I. Pipes 4\" dia 3 Metre Long",
+          "unit": "No.",
+          "quantity": 4.0,
+          "rate_per_unit": 7230.0,
+          "total_cost": 28920.0
+        },
+        {
+          "description": "Salt",
+          "unit": "kg.",
+          "quantity": 300.0,
+          "rate_per_unit": 7.0,
+          "total_cost": 2100.0
+        },
+        {
+          "description": "Coal",
+          "unit": "kg.",
+          "quantity": 300.0,
+          "rate_per_unit": 15.0,
+          "total_cost": 4500.0
+        },
+        {
+          "description": "Sundries e.g. Ferulls, Glands, Lugs etc.",
+          "unit": "L.S.",
+          "quantity": 1.0,
+          "rate_per_unit": 2900.0,
+          "total_cost": 2900.0
+        }
+      ]
+    },
+    {
+      "serial_number": 23,
+      "description": "Sundries",
+      "unit": "L.S.",
+      "quantity": 1.0,
+      "rate_per_unit": 810.0,
+      "total_cost": 810.0,
+      "components": null
+    }
+  ],
+  "summary": {
+    "cost_of_material": 10303515.44,
+    "service_cost": 2112221.0,
+    "sub_total": 12415736.0,
+    "turnkey_charges": 620787.0,
+    "total_cost_of_estimate": 18239343.0,
+    "civil_works_cost": 5202820.0
+  }
+}

@@ -1,0 +1,200 @@
+{
+  "title": "1 phase 2 Wire LT line with ACSR Weasel for phase and GNAT for neutral on 125 X 70 mm, RSJ 9 Mtr long Pole",
+  "item_code": "1503",
+  "items": [
+    {
+      "serial_number": 1,
+      "description": "RSJ 125x70. 9 m long",
+      "unit": "No",
+      "quantity": 16.0,
+      "rate_per_unit": 5268.0,
+      "total_cost": 84288.0,
+      "components": null
+    },
+    {
+      "serial_number": 2,
+      "description": "MS Flat 50 X 8 mm",
+      "unit": "Kg",
+      "quantity": 24.0,
+      "rate_per_unit": 48.5,
+      "total_cost": 1164.0,
+      "components": null
+    },
+    {
+      "serial_number": 3,
+      "description": "ACSR Weasel",
+      "unit": "Rmt",
+      "quantity": 1100.0,
+      "rate_per_unit": 18.5,
+      "total_cost": 20350.0,
+      "components": null
+    },
+    {
+      "serial_number": 4,
+      "description": "ACSR Weasel",
+      "unit": "Rmt",
+      "quantity": 1100.0,
+      "rate_per_unit": 18.5,
+      "total_cost": 20350.0,
+      "components": null
+    },
+    {
+      "serial_number": 5,
+      "description": "L.T.Shackle Insulator",
+      "unit": "No",
+      "quantity": 20.0,
+      "rate_per_unit": 10.0,
+      "total_cost": 200.0,
+      "components": null
+    },
+    {
+      "serial_number": 6,
+      "description": "Aluminium Bobbins for neutral",
+      "unit": "No.",
+      "quantity": 20.0,
+      "rate_per_unit": 32.0,
+      "total_cost": 640.0,
+      "components": null
+    },
+    {
+      "serial_number": 7,
+      "description": "L.T.Shackle hardware",
+      "unit": "Pair",
+      "quantity": 60.0,
+      "rate_per_unit": 37.0,
+      "total_cost": 2220.0,
+      "components": null
+    },
+    {
+      "serial_number": 8,
+      "description": "Jointing Sleeves for AAC",
+      "unit": "No",
+      "quantity": 2.0,
+      "rate_per_unit": 32.0,
+      "total_cost": 64.0,
+      "components": null
+    },
+    {
+      "serial_number": 9,
+      "description": "PG Clamp",
+      "unit": "No",
+      "quantity": 4.0,
+      "rate_per_unit": 27.0,
+      "total_cost": 108.0,
+      "components": null
+    },
+    {
+      "serial_number": 10,
+      "description": "Earthing Sets L.T.",
+      "unit": "Set",
+      "quantity": 5.0,
+      "rate_per_unit": 166.0,
+      "total_cost": 830.0,
+      "components": null
+    },
+    {
+      "serial_number": 11,
+      "description": "L.T. Stay sets",
+      "unit": "Set",
+      "quantity": 8.0,
+      "rate_per_unit": 472.0,
+      "total_cost": 3776.0,
+      "components": null
+    },
+    {
+      "serial_number": 12,
+      "description": "G.I.Stay Wire 7/3.15mm(10SWG)",
+      "unit": "Kg.",
+      "quantity": 72.0,
+      "rate_per_unit": 57.45,
+      "total_cost": 4136.4,
+      "components": null
+    },
+    {
+      "serial_number": 13,
+      "description": "Stay Insulators",
+      "unit": "No",
+      "quantity": 8.0,
+      "rate_per_unit": 10.0,
+      "total_cost": 80.0,
+      "components": null
+    },
+    {
+      "serial_number": 14,
+      "description": "Binding Wire",
+      "unit": "Kg",
+      "quantity": 2.0,
+      "rate_per_unit": 70.0,
+      "total_cost": 140.0,
+      "components": null
+    },
+    {
+      "serial_number": 15,
+      "description": "Binding Tape",
+      "unit": "Kg",
+      "quantity": 2.0,
+      "rate_per_unit": 43.0,
+      "total_cost": 86.0,
+      "components": null
+    },
+    {
+      "serial_number": 16,
+      "description": "G.I.Wire 8 SWG/ 6 SWG",
+      "unit": "Kg.",
+      "quantity": 75.0,
+      "rate_per_unit": 57.4,
+      "total_cost": 4305.0,
+      "components": null
+    },
+    {
+      "serial_number": 17,
+      "description": "L.T.Spacers",
+      "unit": "No",
+      "quantity": 45.0,
+      "rate_per_unit": 110.0,
+      "total_cost": 4950.0,
+      "components": null
+    },
+    {
+      "serial_number": 18,
+      "description": "Wedge connectors",
+      "unit": null,
+      "quantity": 1.0,
+      "rate_per_unit": 2736.0,
+      "total_cost": 2736.0,
+      "components": [
+        {
+          "description": "Ant To Ant or equivalent AAAC",
+          "unit": "No",
+          "quantity": 12.0,
+          "rate_per_unit": 114.0,
+          "total_cost": 1368.0
+        },
+        {
+          "description": "GNAT To GNAT or equivalent AAAC",
+          "unit": "No",
+          "quantity": 12.0,
+          "rate_per_unit": 114.0,
+          "total_cost": 1368.0
+        }
+      ]
+    },
+    {
+      "serial_number": 19,
+      "description": "Sundries such as N/B, Washers, Welding etc.",
+      "unit": "LS",
+      "quantity": 1.0,
+      "rate_per_unit": 2900.0,
+      "total_cost": 2900.0,
+      "components": null
+    }
+  ],
+  "summary": {
+    "cost_of_material": 153323.4,
+    "service_cost": 46764.0,
+    "sub_total": 200087.0,
+    "turnkey_charges": 10004.0,
+    "total_cost_of_estimate": 210091.0,
+    "civil_works_cost": null
+  }
+}

@@ -1,0 +1,186 @@
+# ========================================
+# NEXUS Project .gitignore
+# ========================================
+
+# ========== Python / Backend ==========
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Virtual environments
+venv/
+env/
+ENV/
+.venv/
+bin/
+lib/
+lib64/
+include/
+pyvenv.cfg
+pip-selfcheck.json
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+*.egg-info/
+*.egg
+MANIFEST
+
+# PyInstaller
+*.manifest
+*.spec
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+.hypothesis/
+.pytest_cache/
+
+# Translations
+*.mo
+*.pot
+
+# Celery stuff
+celerybeat-schedule
+celerybeat.pid
+
+# SageMath parsed files
+*.sage.py
+
+# Environments
+.env
+.env.local
+.env.*.local
+*.env
+
+# Spyder project settings
+.spyderproject
+.spyproject
+
+# Rope project settings
+.ropeproject
+
+# mkdocs documentation
+/site
+
+# mypy
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# Pyre type checker
+.pyre/
+
+# pytype static type analyzer
+.pytype/
+
+# Database
+*.db
+*.sqlite
+*.sqlite3
+
+# ========== Node.js / Frontend ==========
+# Dependencies
+node_modules/
+.pnp
+.pnp.js
+
+# Build outputs
+dist/
+build/
+.next/
+out/
+
+# Testing
+coverage/
+
+# TypeScript
+*.tsbuildinfo
+
+# Debug logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+# Local env files
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Editor directories and files
+.idea/
+.vscode/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+*.swp
+*.swo
+*~
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# ========== Project Specific ==========
+# Generated reports/PDFs
+*.pdf
+reports/
+
+# Log files
+*.log
+logs/
+
+# Temporary files
+tmp/
+temp/
+.tmp/
+
+# Secrets and credentials
+secrets/
+credentials/
+*.pem
+*.key
+
+# IDE
+.idea/
+*.iml
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+
+# Docker
+docker-compose.override.yml
+
+# Misc
+*.bak
+*.backup

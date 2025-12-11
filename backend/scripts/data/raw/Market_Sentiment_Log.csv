@@ -1,0 +1,366 @@
+Date,Region,Topic,Severity,Affected_States,Description,Recommended_Action
+2025-01-01,Southern,Normal,Low,"Karnataka,Tamil Nadu,Kerala,Andhra Pradesh,Telangana",Normal market conditions,Continue standard operations
+2025-01-02,Western,Normal,Low,"Rajasthan,Gujarat",Normal market conditions,Continue standard operations
+2025-01-03,North-Eastern,Normal,Low,"Assam,Meghalaya,Manipur,Nagaland,Tripura",Normal market conditions,Continue standard operations
+2025-01-04,Western,Normal,Low,"Maharashtra,Gujarat,Rajasthan,Goa",Normal market conditions,Continue standard operations
+2025-01-05,Northern,Normal,Low,"Haryana,Jammu & Kashmir",Normal market conditions,Continue standard operations
+2025-01-06,Eastern,Normal,Low,"West Bengal,Odisha,Bihar,Jharkhand",Normal market conditions,Continue standard operations
+2025-01-07,Southern,Normal,Low,"Andhra Pradesh,Kerala",Normal market conditions,Continue standard operations
+2025-01-08,Eastern,Policy_Change,High,"Bihar,West Bengal",New GST rate changes announced,Update tax calculations
+2025-01-09,Northern,Normal,Low,"Delhi,Punjab,Haryana,Himachal Pradesh,Uttarakhand,Jammu & Kashmir",Normal market conditions,Continue standard operations
+2025-01-10,Eastern,Labor_Strike,High,"West Bengal,Odisha,Bihar,Jharkhand",Transport workers strike in region,Buffer lead times by 15 days
+2025-01-11,Eastern,Normal,Low,"West Bengal,Odisha,Bihar,Jharkhand",Normal market conditions,Continue standard operations
+2025-01-12,Southern,Normal,Low,"Karnataka,Tamil Nadu,Kerala,Andhra Pradesh,Telangana",Normal market conditions,Continue standard operations
+2025-01-13,Southern,Normal,Low,"Karnataka,Tamil Nadu,Kerala,Andhra Pradesh,Telangana",Normal market conditions,Continue standard operations
+2025-01-14,Eastern,Normal,Low,"Jharkhand,Odisha",Normal market conditions,Continue standard operations
+2025-01-15,Northern,Normal,Low,"Delhi,Punjab,Haryana,Himachal Pradesh,Uttarakhand,Jammu & Kashmir",Normal market conditions,Continue standard operations
+2025-01-16,Eastern,Normal,Low,"Odisha,West Bengal",Normal market conditions,Continue standard operations
+2025-01-17,North-Eastern,Normal,Low,"Nagaland,Assam",Normal market conditions,Continue standard operations
+2025-01-18,Western,Normal,Low,"Rajasthan,Gujarat",Normal market conditions,Continue standard operations
+2025-01-19,North-Eastern,Normal,Low,"Assam,Meghalaya,Manipur,Nagaland,Tripura",Normal market conditions,Continue standard operations
+2025-01-20,Southern,Normal,Low,"Kerala,Andhra Pradesh",Normal market conditions,Continue standard operations
+2025-01-21,North-Eastern,Normal,Low,"Assam,Meghalaya,Manipur,Nagaland,Tripura",Normal market conditions,Continue standard operations
+2025-01-22,Eastern,Normal,Low,"Odisha,West Bengal",Normal market conditions,Continue standard operations
+2025-01-23,Western,Normal,Low,"Maharashtra,Gujarat,Rajasthan,Goa",Normal market conditions,Continue standard operations
+2025-01-24,North-Eastern,Normal,Low,"Assam,Meghalaya,Manipur,Nagaland,Tripura",Normal market conditions,Continue standard operations
+2025-01-25,Southern,Normal,Low,"Karnataka,Tamil Nadu,Kerala,Andhra Pradesh,Telangana",Normal market conditions,Continue standard operations
+2025-01-26,Southern,Normal,Low,"Karnataka,Tamil Nadu,Kerala,Andhra Pradesh,Telangana",Normal market conditions,Continue standard operations
+2025-01-27,Northern,Normal,Low,"Delhi,Punjab,Haryana,Himachal Pradesh,Uttarakhand,Jammu & Kashmir",Normal market conditions,Continue standard operations
+2025-01-28,Southern,Normal,Low,"Kerala,Telangana",Normal market conditions,Continue standard operations
+2025-01-29,North-Eastern,Normal,Low,"Manipur,Meghalaya",Normal market conditions,Continue standard operations
+2025-01-30,Western,Normal,Low,"Gujarat,Maharashtra",Normal market conditions,Continue standard operations
+2025-01-31,Southern,Labor_Strike,Medium,"Karnataka,Tamil Nadu,Kerala,Andhra Pradesh,Telangana",Transport workers strike in region,Buffer lead times by 15 days
+2025-02-01,Eastern,Normal,Low,"West Bengal,Odisha,Bihar,Jharkhand",Normal market conditions,Continue standard operations
+2025-02-02,Northern,Labor_Strike,Medium,"Delhi,Punjab,Haryana,Himachal Pradesh,Uttarakhand,Jammu & Kashmir",Transport workers strike in region,Buffer lead times by 15 days
+2025-02-03,Southern,Policy_Change,High,"Karnataka,Tamil Nadu",New GST rate changes announced,Update tax calculations
+2025-02-04,Southern,RoW_Issue,High,"Kerala,Tamil Nadu",Land acquisition delays reported,Hold procurement for affected projects
+2025-02-05,North-Eastern,Normal,Low,"Meghalaya,Tripura",Normal market conditions,Continue standard operations
+2025-02-06,Northern,Normal,Low,"Uttarakhand,Punjab",Normal market conditions,Continue standard operations
+2025-02-07,Western,Normal,Low,"Maharashtra,Gujarat,Rajasthan,Goa",Normal market conditions,Continue standard operations
+2025-02-08,Eastern,Normal,Low,"Bihar,West Bengal",Normal market conditions,Continue standard operations
+2025-02-09,North-Eastern,Normal,Low,"Assam,Meghalaya,Manipur,Nagaland,Tripura",Normal market conditions,Continue standard operations
+2025-02-10,North-Eastern,Normal,Low,"Tripura,Meghalaya",Normal market conditions,Continue standard operations
+2025-02-11,North-Eastern,Normal,Low,"Assam,Meghalaya,Manipur,Nagaland,Tripura",Normal market conditions,Continue standard operations
+2025-02-12,North-Eastern,Normal,Low,"Assam,Meghalaya,Manipur,Nagaland,Tripura",Normal market conditions,Continue standard operations
+2025-02-13,Northern,Normal,Low,"Delhi,Jammu & Kashmir",Normal market conditions,Continue standard operations
+2025-02-14,North-Eastern,Normal,Low,"Assam,Meghalaya,Manipur,Nagaland,Tripura",Normal market conditions,Continue standard operations
+2025-02-15,North-Eastern,Normal,Low,"Assam,Meghalaya,Manipur,Nagaland,Tripura",Normal market conditions,Continue standard operations
+2025-02-16,Southern,Normal,Low,"Telangana,Kerala",Normal market conditions,Continue standard operations
+2025-02-17,Eastern,Normal,Low,"West Bengal,Odisha,Bihar,Jharkhand",Normal market conditions,Continue standard operations
+2025-02-18,Southern,Normal,Low,"Karnataka,Tamil Nadu,Kerala,Andhra Pradesh,Telangana",Normal market conditions,Continue standard operations
+2025-02-19,Northern,Normal,Low,"Delhi,Punjab,Haryana,Himachal Pradesh,Uttarakhand,Jammu & Kashmir",Normal market conditions,Continue standard operations
+2025-02-20,Southern,Normal,Low,"Karnataka,Tamil Nadu,Kerala,Andhra Pradesh,Telangana",Normal market conditions,Continue standard operations
+2025-02-21,Eastern,Normal,Low,"Bihar,Jharkhand",Normal market conditions,Continue standard operations
+2025-02-22,Western,Commodity_Price_Spike,High,"Maharashtra,Gujarat",Steel prices increased by 15-20%,Review vendor contracts
+2025-02-23,Northern,Normal,Low,"Delhi,Punjab,Haryana,Himachal Pradesh,Uttarakhand,Jammu & Kashmir",Normal market conditions,Continue standard operations
+2025-02-24,Northern,Normal,Low,"Delhi,Punjab,Haryana,Himachal Pradesh,Uttarakhand,Jammu & Kashmir",Normal market conditions,Continue standard operations
+2025-02-25,North-Eastern,Normal,Low,"Assam,Meghalaya,Manipur,Nagaland,Tripura",Normal market conditions,Continue standard operations
+2025-02-26,North-Eastern,Labor_Strike,High,"Meghalaya,Tripura",Transport workers strike in region,Buffer lead times by 15 days
+2025-02-27,North-Eastern,Normal,Low,"Assam,Meghalaya,Manipur,Nagaland,Tripura",Normal market conditions,Continue standard operations
+2025-02-28,Southern,Normal,Low,"Karnataka,Tamil Nadu,Kerala,Andhra Pradesh,Telangana",Normal market conditions,Continue standard operations
+2025-03-01,North-Eastern,Normal,Low,"Assam,Meghalaya,Manipur,Nagaland,Tripura",Normal market conditions,Continue standard operations
+2025-03-02,North-Eastern,Normal,Low,"Assam,Meghalaya,Manipur,Nagaland,Tripura",Normal market conditions,Continue standard operations
+2025-03-03,Southern,Normal,Low,"Andhra Pradesh,Kerala",Normal market conditions,Continue standard operations
+2025-03-04,Northern,Normal,Low,"Delhi,Punjab,Haryana,Himachal Pradesh,Uttarakhand,Jammu & Kashmir",Normal market conditions,Continue standard operations
+2025-03-05,Eastern,Normal,Low,"Bihar,West Bengal",Normal market conditions,Continue standard operations
+2025-03-06,North-Eastern,Normal,Low,"Manipur,Tripura",Normal market conditions,Continue standard operations
+2025-03-07,North-Eastern,Normal,Low,"Assam,Meghalaya,Manipur,Nagaland,Tripura",Normal market conditions,Continue standard operations
+2025-03-08,North-Eastern,Normal,Low,"Assam,Meghalaya",Normal market conditions,Continue standard operations
+2025-03-09,Eastern,Policy_Change,High,"Bihar,West Bengal",New GST rate changes announced,Update tax calculations
+2025-03-10,North-Eastern,Normal,Low,"Assam,Meghalaya,Manipur,Nagaland,Tripura",Normal market conditions,Continue standard operations
+2025-03-11,Northern,Normal,Low,"Delhi,Punjab,Haryana,Himachal Pradesh,Uttarakhand,Jammu & Kashmir",Normal market conditions,Continue standard operations
+2025-03-12,Southern,Normal,Low,"Tamil Nadu,Telangana",Normal market conditions,Continue standard operations
+2025-03-13,North-Eastern,Normal,Low,"Assam,Meghalaya,Manipur,Nagaland,Tripura",Normal market conditions,Continue standard operations
+2025-03-14,North-Eastern,Normal,Low,"Manipur,Tripura",Normal market conditions,Continue standard operations
+2025-03-15,North-Eastern,Normal,Low,"Tripura,Manipur",Normal market conditions,Continue standard operations
+2025-03-16,Northern,Normal,Low,"Delhi,Punjab,Haryana,Himachal Pradesh,Uttarakhand,Jammu & Kashmir",Normal market conditions,Continue standard operations
+2025-03-17,Southern,Normal,Low,"Karnataka,Andhra Pradesh",Normal market conditions,Continue standard operations
+2025-03-18,North-Eastern,Normal,Low,"Assam,Nagaland",Normal market conditions,Continue standard operations
+2025-03-19,North-Eastern,Normal,Low,"Nagaland,Meghalaya",Normal market conditions,Continue standard operations
+2025-03-20,Western,Normal,Low,"Maharashtra,Gujarat,Rajasthan,Goa",Normal market conditions,Continue standard operations
+2025-03-21,Northern,Normal,Low,"Delhi,Punjab,Haryana,Himachal Pradesh,Uttarakhand,Jammu & Kashmir",Normal market conditions,Continue standard operations
+2025-03-22,Southern,Normal,Low,"Karnataka,Tamil Nadu,Kerala,Andhra Pradesh,Telangana",Normal market conditions,Continue standard operations
+2025-03-23,Southern,Normal,Low,"Telangana,Andhra Pradesh",Normal market conditions,Continue standard operations
+2025-03-24,Northern,Normal,Low,"Uttarakhand,Punjab",Normal market conditions,Continue standard operations
+2025-03-25,Southern,Normal,Low,"Kerala,Tamil Nadu",Normal market conditions,Continue standard operations
+2025-03-26,North-Eastern,Normal,Low,"Assam,Meghalaya,Manipur,Nagaland,Tripura",Normal market conditions,Continue standard operations
+2025-03-27,Eastern,Normal,Low,"Odisha,West Bengal",Normal market conditions,Continue standard operations
+2025-03-28,Eastern,Normal,Low,"West Bengal,Odisha,Bihar,Jharkhand",Normal market conditions,Continue standard operations
+2025-03-29,Western,Commodity_Price_Spike,High,"Goa,Gujarat",Steel prices increased by 15-20%,Review vendor contracts
+2025-03-30,North-Eastern,Normal,Low,"Manipur,Tripura",Normal market conditions,Continue standard operations
+2025-03-31,North-Eastern,Normal,Low,"Assam,Meghalaya,Manipur,Nagaland,Tripura",Normal market conditions,Continue standard operations
+2025-04-01,Eastern,Commodity_Price_Spike,Medium,"West Bengal,Odisha,Bihar,Jharkhand",Steel prices increased by 15-20%,Review vendor contracts
+2025-04-02,Southern,RoW_Issue,High,"Andhra Pradesh,Tamil Nadu",Land acquisition delays reported,Hold procurement for affected projects
+2025-04-03,North-Eastern,Normal,Low,"Assam,Meghalaya,Manipur,Nagaland,Tripura",Normal market conditions,Continue standard operations
+2025-04-04,Eastern,Normal,Low,"West Bengal,Odisha,Bihar,Jharkhand",Normal market conditions,Continue standard operations
+2025-04-05,North-Eastern,Normal,Low,"Assam,Meghalaya,Manipur,Nagaland,Tripura",Normal market conditions,Continue standard operations
+2025-04-06,North-Eastern,Normal,Low,"Assam,Meghalaya,Manipur,Nagaland,Tripura",Normal market conditions,Continue standard operations
+2025-04-07,Northern,Normal,Low,"Delhi,Punjab,Haryana,Himachal Pradesh,Uttarakhand,Jammu & Kashmir",Normal market conditions,Continue standard operations
+2025-04-08,Northern,Normal,Low,"Punjab,Delhi",Normal market conditions,Continue standard operations
+2025-04-09,Southern,Labor_Strike,High,"Karnataka,Tamil Nadu,Kerala,Andhra Pradesh,Telangana",Transport workers strike in region,Buffer lead times by 15 days
+2025-04-10,Eastern,Normal,Low,"West Bengal,Odisha,Bihar,Jharkhand",Normal market conditions,Continue standard operations
+2025-04-11,Northern,Normal,Low,"Punjab,Uttarakhand",Normal market conditions,Continue standard operations
+2025-04-12,Northern,Normal,Low,"Punjab,Himachal Pradesh",Normal market conditions,Continue standard operations
+2025-04-13,Western,Normal,Low,"Maharashtra,Gujarat",Normal market conditions,Continue standard operations
+2025-04-14,Western,Normal,Low,"Rajasthan,Maharashtra",Normal market conditions,Continue standard operations
+2025-04-15,North-Eastern,Normal,Low,"Manipur,Tripura",Normal market conditions,Continue standard operations
+2025-04-16,North-Eastern,Normal,Low,"Meghalaya,Nagaland",Normal market conditions,Continue standard operations
+2025-04-17,Northern,Normal,Low,"Delhi,Punjab,Haryana,Himachal Pradesh,Uttarakhand,Jammu & Kashmir",Normal market conditions,Continue standard operations
+2025-04-18,Eastern,Normal,Low,"West Bengal,Bihar",Normal market conditions,Continue standard operations
+2025-04-19,Eastern,Normal,Low,"Odisha,West Bengal",Normal market conditions,Continue standard operations
+2025-04-20,Southern,Normal,Low,"Telangana,Kerala",Normal market conditions,Continue standard operations
+2025-04-21,Northern,Normal,Low,"Delhi,Punjab,Haryana,Himachal Pradesh,Uttarakhand,Jammu & Kashmir",Normal market conditions,Continue standard operations
+2025-04-22,Eastern,Normal,Low,"West Bengal,Odisha",Normal market conditions,Continue standard operations
+2025-04-23,Southern,Normal,Low,"Kerala,Telangana",Normal market conditions,Continue standard operations
+2025-04-24,North-Eastern,Normal,Low,"Assam,Meghalaya,Manipur,Nagaland,Tripura",Normal market conditions,Continue standard operations
+2025-04-25,Western,Normal,Low,"Maharashtra,Gujarat,Rajasthan,Goa",Normal market conditions,Continue standard operations
+2025-04-26,Eastern,Normal,Low,"West Bengal,Odisha,Bihar,Jharkhand",Normal market conditions,Continue standard operations
+2025-04-27,Eastern,Normal,Low,"Bihar,Odisha",Normal market conditions,Continue standard operations
+2025-04-28,Western,Normal,Low,"Goa,Maharashtra",Normal market conditions,Continue standard operations
+2025-04-29,North-Eastern,Normal,Low,"Assam,Meghalaya,Manipur,Nagaland,Tripura",Normal market conditions,Continue standard operations
+2025-04-30,Southern,Normal,Low,"Tamil Nadu,Telangana",Normal market conditions,Continue standard operations
+2025-05-01,North-Eastern,Normal,Low,"Assam,Nagaland",Normal market conditions,Continue standard operations
+2025-05-02,Eastern,Normal,Low,"West Bengal,Odisha,Bihar,Jharkhand",Normal market conditions,Continue standard operations
+2025-05-03,Northern,Normal,Low,"Uttarakhand,Punjab",Normal market conditions,Continue standard operations
+2025-05-04,Western,Normal,Low,"Maharashtra,Gujarat,Rajasthan,Goa",Normal market conditions,Continue standard operations
+2025-05-05,Southern,Normal,Low,"Karnataka,Tamil Nadu,Kerala,Andhra Pradesh,Telangana",Normal market conditions,Continue standard operations
+2025-05-06,North-Eastern,Normal,Low,"Assam,Meghalaya,Manipur,Nagaland,Tripura",Normal market conditions,Continue standard operations
+2025-05-07,Southern,Normal,Low,"Andhra Pradesh,Tamil Nadu",Normal market conditions,Continue standard operations
+2025-05-08,Southern,Normal,Low,"Telangana,Andhra Pradesh",Normal market conditions,Continue standard operations
+2025-05-09,Eastern,Normal,Low,"Jharkhand,Odisha",Normal market conditions,Continue standard operations
+2025-05-10,Western,Normal,Low,"Maharashtra,Gujarat",Normal market conditions,Continue standard operations
+2025-05-11,Northern,Normal,Low,"Delhi,Jammu & Kashmir",Normal market conditions,Continue standard operations
+2025-05-12,Eastern,Policy_Change,Medium,"West Bengal,Odisha,Bihar,Jharkhand",New GST rate changes announced,Update tax calculations
+2025-05-13,Southern,Normal,Low,"Karnataka,Tamil Nadu,Kerala,Andhra Pradesh,Telangana",Normal market conditions,Continue standard operations
+2025-05-14,Southern,Normal,Low,"Andhra Pradesh,Telangana",Normal market conditions,Continue standard operations
+2025-05-15,North-Eastern,Normal,Low,"Assam,Meghalaya,Manipur,Nagaland,Tripura",Normal market conditions,Continue standard operations
+2025-05-16,Northern,Normal,Low,"Delhi,Punjab,Haryana,Himachal Pradesh,Uttarakhand,Jammu & Kashmir",Normal market conditions,Continue standard operations
+2025-05-17,North-Eastern,Normal,Low,"Assam,Meghalaya,Manipur,Nagaland,Tripura",Normal market conditions,Continue standard operations
+2025-05-18,Eastern,RoW_Issue,Medium,"West Bengal,Odisha,Bihar,Jharkhand",Land acquisition delays reported,Hold procurement for affected projects
+2025-05-19,Southern,Normal,Low,"Tamil Nadu,Telangana",Normal market conditions,Continue standard operations
+2025-05-20,Western,Normal,Low,"Maharashtra,Gujarat,Rajasthan,Goa",Normal market conditions,Continue standard operations
+2025-05-21,Northern,Normal,Low,"Delhi,Punjab,Haryana,Himachal Pradesh,Uttarakhand,Jammu & Kashmir",Normal market conditions,Continue standard operations
+2025-05-22,North-Eastern,Normal,Low,"Assam,Meghalaya",Normal market conditions,Continue standard operations
+2025-05-23,Northern,Normal,Low,"Himachal Pradesh,Uttarakhand",Normal market conditions,Continue standard operations
+2025-05-24,Northern,Normal,Low,"Delhi,Punjab,Haryana,Himachal Pradesh,Uttarakhand,Jammu & Kashmir",Normal market conditions,Continue standard operations
+2025-05-25,Southern,Normal,Low,"Karnataka,Tamil Nadu,Kerala,Andhra Pradesh,Telangana",Normal market conditions,Continue standard operations
+2025-05-26,Northern,Normal,Low,"Delhi,Punjab,Haryana,Himachal Pradesh,Uttarakhand,Jammu & Kashmir",Normal market conditions,Continue standard operations
+2025-05-27,North-Eastern,Labor_Strike,High,"Manipur,Meghalaya",Transport workers strike in region,Buffer lead times by 15 days
+2025-05-28,Western,Normal,Low,"Gujarat,Goa",Normal market conditions,Continue standard operations
+2025-05-29,Northern,Normal,Low,"Uttarakhand,Punjab",Normal market conditions,Continue standard operations
+2025-05-30,Southern,Normal,Low,"Karnataka,Kerala",Normal market conditions,Continue standard operations
+2025-05-31,Southern,Normal,Low,"Kerala,Andhra Pradesh",Normal market conditions,Continue standard operations
+2025-06-01,Eastern,Normal,Low,"West Bengal,Odisha,Bihar,Jharkhand",Normal market conditions,Continue standard operations
+2025-06-02,Southern,Normal,Low,"Karnataka,Tamil Nadu,Kerala,Andhra Pradesh,Telangana",Normal market conditions,Continue standard operations
+2025-06-03,Western,Normal,Low,"Maharashtra,Rajasthan",Normal market conditions,Continue standard operations
+2025-06-04,Southern,Normal,Low,"Tamil Nadu,Andhra Pradesh",Normal market conditions,Continue standard operations
+2025-06-05,Western,Normal,Low,"Maharashtra,Gujarat,Rajasthan,Goa",Normal market conditions,Continue standard operations
+2025-06-06,Southern,Normal,Low,"Karnataka,Tamil Nadu",Normal market conditions,Continue standard operations
+2025-06-07,Southern,Normal,Low,"Telangana,Karnataka",Normal market conditions,Continue standard operations
+2025-06-08,Western,Normal,Low,"Gujarat,Goa",Normal market conditions,Continue standard operations
+2025-06-09,Eastern,Normal,Low,"West Bengal,Odisha,Bihar,Jharkhand",Normal market conditions,Continue standard operations
+2025-06-10,Western,Normal,Low,"Maharashtra,Rajasthan",Normal market conditions,Continue standard operations
+2025-06-11,North-Eastern,Policy_Change,Medium,"Nagaland,Meghalaya",New GST rate changes announced,Update tax calculations
+2025-06-12,Eastern,Normal,Low,"West Bengal,Odisha,Bihar,Jharkhand",Normal market conditions,Continue standard operations
+2025-06-13,Eastern,Normal,Low,"West Bengal,Odisha,Bihar,Jharkhand",Normal market conditions,Continue standard operations
+2025-06-14,Southern,Normal,Low,"Karnataka,Tamil Nadu,Kerala,Andhra Pradesh,Telangana",Normal market conditions,Continue standard operations
+2025-06-15,Southern,Normal,Low,"Kerala,Tamil Nadu",Normal market conditions,Continue standard operations
+2025-06-16,Southern,Normal,Low,"Karnataka,Tamil Nadu,Kerala,Andhra Pradesh,Telangana",Normal market conditions,Continue standard operations
+2025-06-17,Western,Normal,Low,"Maharashtra,Gujarat,Rajasthan,Goa",Normal market conditions,Continue standard operations
+2025-06-18,North-Eastern,Normal,Low,"Nagaland,Manipur",Normal market conditions,Continue standard operations
+2025-06-19,Eastern,Normal,Low,"West Bengal,Odisha,Bihar,Jharkhand",Normal market conditions,Continue standard operations
+2025-06-20,Western,Normal,Low,"Maharashtra,Gujarat,Rajasthan,Goa",Normal market conditions,Continue standard operations
+2025-06-21,Eastern,Normal,Low,"West Bengal,Odisha,Bihar,Jharkhand",Normal market conditions,Continue standard operations
+2025-06-22,Southern,Normal,Low,"Karnataka,Tamil Nadu,Kerala,Andhra Pradesh,Telangana",Normal market conditions,Continue standard operations
+2025-06-23,Eastern,Normal,Low,"West Bengal,Odisha,Bihar,Jharkhand",Normal market conditions,Continue standard operations
+2025-06-24,Southern,Normal,Low,"Karnataka,Tamil Nadu,Kerala,Andhra Pradesh,Telangana",Normal market conditions,Continue standard operations
+2025-06-25,Northern,Normal,Low,"Delhi,Jammu & Kashmir",Normal market conditions,Continue standard operations
+2025-06-26,Southern,Normal,Low,"Karnataka,Tamil Nadu,Kerala,Andhra Pradesh,Telangana",Normal market conditions,Continue standard operations
+2025-06-27,Northern,Normal,Low,"Delhi,Punjab",Normal market conditions,Continue standard operations
+2025-06-28,Eastern,Normal,Low,"West Bengal,Odisha,Bihar,Jharkhand",Normal market conditions,Continue standard operations
+2025-06-29,North-Eastern,Normal,Low,"Nagaland,Assam",Normal market conditions,Continue standard operations
+2025-06-30,North-Eastern,Normal,Low,"Assam,Meghalaya,Manipur,Nagaland,Tripura",Normal market conditions,Continue standard operations
+2025-07-01,Eastern,Normal,Low,"Bihar,West Bengal",Normal market conditions,Continue standard operations
+2025-07-02,Southern,Normal,Low,"Tamil Nadu,Karnataka",Normal market conditions,Continue standard operations
+2025-07-03,North-Eastern,Normal,Low,"Assam,Meghalaya,Manipur,Nagaland,Tripura",Normal market conditions,Continue standard operations
+2025-07-04,North-Eastern,Normal,Low,"Assam,Meghalaya,Manipur,Nagaland,Tripura",Normal market conditions,Continue standard operations
+2025-07-05,Southern,Normal,Low,"Karnataka,Tamil Nadu,Kerala,Andhra Pradesh,Telangana",Normal market conditions,Continue standard operations
+2025-07-06,Western,Policy_Change,Medium,"Maharashtra,Gujarat,Rajasthan,Goa",New GST rate changes announced,Update tax calculations
+2025-07-07,Northern,Normal,Low,"Jammu & Kashmir,Delhi",Normal market conditions,Continue standard operations
+2025-07-08,Southern,Normal,Low,"Karnataka,Tamil Nadu,Kerala,Andhra Pradesh,Telangana",Normal market conditions,Continue standard operations
+2025-07-09,Northern,Normal,Low,"Delhi,Himachal Pradesh",Normal market conditions,Continue standard operations
+2025-07-10,Eastern,Normal,Low,"West Bengal,Bihar",Normal market conditions,Continue standard operations
+2025-07-11,Western,Normal,Low,"Maharashtra,Gujarat,Rajasthan,Goa",Normal market conditions,Continue standard operations
+2025-07-12,North-Eastern,Normal,Low,"Assam,Meghalaya,Manipur,Nagaland,Tripura",Normal market conditions,Continue standard operations
+2025-07-13,Northern,Normal,Low,"Haryana,Uttarakhand",Normal market conditions,Continue standard operations
+2025-07-14,Northern,Normal,Low,"Delhi,Punjab,Haryana,Himachal Pradesh,Uttarakhand,Jammu & Kashmir",Normal market conditions,Continue standard operations
+2025-07-15,Northern,Normal,Low,"Uttarakhand,Punjab",Normal market conditions,Continue standard operations
+2025-07-16,Southern,Normal,Low,"Kerala,Tamil Nadu",Normal market conditions,Continue standard operations
+2025-07-17,North-Eastern,Normal,Low,"Nagaland,Manipur",Normal market conditions,Continue standard operations
+2025-07-18,Western,Normal,Low,"Maharashtra,Rajasthan",Normal market conditions,Continue standard operations
+2025-07-19,Eastern,Normal,Low,"West Bengal,Odisha,Bihar,Jharkhand",Normal market conditions,Continue standard operations
+2025-07-20,Northern,Normal,Low,"Delhi,Punjab,Haryana,Himachal Pradesh,Uttarakhand,Jammu & Kashmir",Normal market conditions,Continue standard operations
+2025-07-21,North-Eastern,Normal,Low,"Assam,Meghalaya,Manipur,Nagaland,Tripura",Normal market conditions,Continue standard operations
+2025-07-22,Northern,Normal,Low,"Himachal Pradesh,Jammu & Kashmir",Normal market conditions,Continue standard operations
+2025-07-23,North-Eastern,Normal,Low,"Nagaland,Meghalaya",Normal market conditions,Continue standard operations
+2025-07-24,Southern,Normal,Low,"Karnataka,Tamil Nadu,Kerala,Andhra Pradesh,Telangana",Normal market conditions,Continue standard operations
+2025-07-25,Western,Normal,Low,"Maharashtra,Gujarat",Normal market conditions,Continue standard operations
+2025-07-26,Western,Normal,Low,"Rajasthan,Gujarat",Normal market conditions,Continue standard operations
+2025-07-27,Northern,Normal,Low,"Himachal Pradesh,Haryana",Normal market conditions,Continue standard operations
+2025-07-28,Northern,Normal,Low,"Delhi,Punjab,Haryana,Himachal Pradesh,Uttarakhand,Jammu & Kashmir",Normal market conditions,Continue standard operations
+2025-07-29,Southern,Normal,Low,"Telangana,Andhra Pradesh",Normal market conditions,Continue standard operations
+2025-07-30,Northern,Normal,Low,"Delhi,Punjab,Haryana,Himachal Pradesh,Uttarakhand,Jammu & Kashmir",Normal market conditions,Continue standard operations
+2025-07-31,North-Eastern,Normal,Low,"Nagaland,Assam",Normal market conditions,Continue standard operations
+2025-08-01,Southern,Normal,Low,"Telangana,Tamil Nadu",Normal market conditions,Continue standard operations
+2025-08-02,Western,Normal,Low,"Gujarat,Maharashtra",Normal market conditions,Continue standard operations
+2025-08-03,Eastern,Normal,Low,"West Bengal,Odisha,Bihar,Jharkhand",Normal market conditions,Continue standard operations
+2025-08-04,Southern,Normal,Low,"Karnataka,Tamil Nadu,Kerala,Andhra Pradesh,Telangana",Normal market conditions,Continue standard operations
+2025-08-05,Northern,Normal,Low,"Delhi,Punjab,Haryana,Himachal Pradesh,Uttarakhand,Jammu & Kashmir",Normal market conditions,Continue standard operations
+2025-08-06,Southern,Normal,Low,"Tamil Nadu,Andhra Pradesh",Normal market conditions,Continue standard operations
+2025-08-07,Eastern,Normal,Low,"West Bengal,Odisha,Bihar,Jharkhand",Normal market conditions,Continue standard operations
+2025-08-08,North-Eastern,Normal,Low,"Assam,Meghalaya,Manipur,Nagaland,Tripura",Normal market conditions,Continue standard operations
+2025-08-09,Southern,Normal,Low,"Karnataka,Tamil Nadu,Kerala,Andhra Pradesh,Telangana",Normal market conditions,Continue standard operations
+2025-08-10,North-Eastern,Normal,Low,"Assam,Meghalaya,Manipur,Nagaland,Tripura",Normal market conditions,Continue standard operations
+2025-08-11,Western,Normal,Low,"Maharashtra,Gujarat,Rajasthan,Goa",Normal market conditions,Continue standard operations
+2025-08-12,Southern,Normal,Low,"Kerala,Andhra Pradesh",Normal market conditions,Continue standard operations
+2025-08-13,Southern,Labor_Strike,High,"Karnataka,Tamil Nadu,Kerala,Andhra Pradesh,Telangana",Transport workers strike in region,Buffer lead times by 15 days
+2025-08-14,Eastern,Normal,Low,"West Bengal,Odisha,Bihar,Jharkhand",Normal market conditions,Continue standard operations
+2025-08-15,North-Eastern,Normal,Low,"Meghalaya,Assam",Normal market conditions,Continue standard operations
+2025-08-16,Southern,Policy_Change,Medium,"Karnataka,Andhra Pradesh",New GST rate changes announced,Update tax calculations
+2025-08-17,Western,Normal,Low,"Gujarat,Goa",Normal market conditions,Continue standard operations
+2025-08-18,Southern,Normal,Low,"Karnataka,Andhra Pradesh",Normal market conditions,Continue standard operations
+2025-08-19,North-Eastern,Policy_Change,High,"Nagaland,Assam",New GST rate changes announced,Update tax calculations
+2025-08-20,Eastern,Normal,Low,"West Bengal,Jharkhand",Normal market conditions,Continue standard operations
+2025-08-21,Eastern,Normal,Low,"West Bengal,Odisha,Bihar,Jharkhand",Normal market conditions,Continue standard operations
+2025-08-22,North-Eastern,Normal,Low,"Nagaland,Manipur",Normal market conditions,Continue standard operations
+2025-08-23,Northern,Policy_Change,Medium,"Delhi,Punjab,Haryana,Himachal Pradesh,Uttarakhand,Jammu & Kashmir",New GST rate changes announced,Update tax calculations
+2025-08-24,North-Eastern,Normal,Low,"Tripura,Meghalaya",Normal market conditions,Continue standard operations
+2025-08-25,Southern,Normal,Low,"Karnataka,Tamil Nadu,Kerala,Andhra Pradesh,Telangana",Normal market conditions,Continue standard operations
+2025-08-26,North-Eastern,Normal,Low,"Assam,Meghalaya,Manipur,Nagaland,Tripura",Normal market conditions,Continue standard operations
+2025-08-27,Eastern,Policy_Change,Medium,"West Bengal,Odisha,Bihar,Jharkhand",New GST rate changes announced,Update tax calculations
+2025-08-28,Eastern,RoW_Issue,Medium,"West Bengal,Odisha,Bihar,Jharkhand",Land acquisition delays reported,Hold procurement for affected projects
+2025-08-29,Western,Normal,Low,"Rajasthan,Gujarat",Normal market conditions,Continue standard operations
+2025-08-30,Southern,Normal,Low,"Karnataka,Tamil Nadu,Kerala,Andhra Pradesh,Telangana",Normal market conditions,Continue standard operations
+2025-08-31,Northern,Normal,Low,"Delhi,Punjab,Haryana,Himachal Pradesh,Uttarakhand,Jammu & Kashmir",Normal market conditions,Continue standard operations
+2025-09-01,Northern,Normal,Low,"Punjab,Jammu & Kashmir",Normal market conditions,Continue standard operations
+2025-09-02,North-Eastern,Normal,Low,"Assam,Meghalaya,Manipur,Nagaland,Tripura",Normal market conditions,Continue standard operations
+2025-09-03,Southern,Normal,Low,"Karnataka,Tamil Nadu,Kerala,Andhra Pradesh,Telangana",Normal market conditions,Continue standard operations
+2025-09-04,Western,Normal,Low,"Maharashtra,Gujarat,Rajasthan,Goa",Normal market conditions,Continue standard operations
+2025-09-05,Southern,Normal,Low,"Karnataka,Tamil Nadu,Kerala,Andhra Pradesh,Telangana",Normal market conditions,Continue standard operations
+2025-09-06,Western,Normal,Low,"Maharashtra,Gujarat,Rajasthan,Goa",Normal market conditions,Continue standard operations
+2025-09-07,Northern,Normal,Low,"Punjab,Haryana",Normal market conditions,Continue standard operations
+2025-09-08,Northern,Normal,Low,"Uttarakhand,Punjab",Normal market conditions,Continue standard operations
+2025-09-09,Western,Normal,Low,"Maharashtra,Gujarat,Rajasthan,Goa",Normal market conditions,Continue standard operations
+2025-09-10,Southern,Normal,Low,"Kerala,Andhra Pradesh",Normal market conditions,Continue standard operations
+2025-09-11,North-Eastern,Normal,Low,"Assam,Meghalaya,Manipur,Nagaland,Tripura",Normal market conditions,Continue standard operations
+2025-09-12,Southern,Normal,Low,"Kerala,Karnataka",Normal market conditions,Continue standard operations
+2025-09-13,Eastern,Normal,Low,"West Bengal,Odisha,Bihar,Jharkhand",Normal market conditions,Continue standard operations
+2025-09-14,Western,Normal,Low,"Maharashtra,Gujarat,Rajasthan,Goa",Normal market conditions,Continue standard operations
+2025-09-15,Southern,Normal,Low,"Karnataka,Tamil Nadu,Kerala,Andhra Pradesh,Telangana",Normal market conditions,Continue standard operations
+2025-09-16,Southern,Normal,Low,"Karnataka,Tamil Nadu,Kerala,Andhra Pradesh,Telangana",Normal market conditions,Continue standard operations
+2025-09-17,North-Eastern,Normal,Low,"Meghalaya,Tripura",Normal market conditions,Continue standard operations
+2025-09-18,Western,Normal,Low,"Maharashtra,Gujarat,Rajasthan,Goa",Normal market conditions,Continue standard operations
+2025-09-19,North-Eastern,Normal,Low,"Assam,Meghalaya,Manipur,Nagaland,Tripura",Normal market conditions,Continue standard operations
+2025-09-20,Northern,Normal,Low,"Delhi,Punjab,Haryana,Himachal Pradesh,Uttarakhand,Jammu & Kashmir",Normal market conditions,Continue standard operations
+2025-09-21,Southern,Normal,Low,"Telangana,Andhra Pradesh",Normal market conditions,Continue standard operations
+2025-09-22,Southern,Normal,Low,"Karnataka,Tamil Nadu,Kerala,Andhra Pradesh,Telangana",Normal market conditions,Continue standard operations
+2025-09-23,Southern,Normal,Low,"Karnataka,Tamil Nadu,Kerala,Andhra Pradesh,Telangana",Normal market conditions,Continue standard operations
+2025-09-24,Western,Normal,Low,"Maharashtra,Gujarat,Rajasthan,Goa",Normal market conditions,Continue standard operations
+2025-09-25,North-Eastern,Normal,Low,"Assam,Meghalaya,Manipur,Nagaland,Tripura",Normal market conditions,Continue standard operations
+2025-09-26,North-Eastern,Normal,Low,"Nagaland,Assam",Normal market conditions,Continue standard operations
+2025-09-27,Eastern,Normal,Low,"Bihar,Jharkhand",Normal market conditions,Continue standard operations
+2025-09-28,Northern,Normal,Low,"Himachal Pradesh,Uttarakhand",Normal market conditions,Continue standard operations
+2025-09-29,Southern,Normal,Low,"Karnataka,Tamil Nadu,Kerala,Andhra Pradesh,Telangana",Normal market conditions,Continue standard operations
+2025-09-30,Western,Normal,Low,"Maharashtra,Gujarat,Rajasthan,Goa",Normal market conditions,Continue standard operations
+2025-10-01,Eastern,Policy_Change,High,"West Bengal,Odisha",New GST rate changes announced,Update tax calculations
+2025-10-02,Northern,Normal,Low,"Punjab,Jammu & Kashmir",Normal market conditions,Continue standard operations
+2025-10-03,North-Eastern,Normal,Low,"Tripura,Nagaland",Normal market conditions,Continue standard operations
+2025-10-04,Western,Normal,Low,"Gujarat,Maharashtra",Normal market conditions,Continue standard operations
+2025-10-05,North-Eastern,Normal,Low,"Assam,Meghalaya,Manipur,Nagaland,Tripura",Normal market conditions,Continue standard operations
+2025-10-06,Eastern,Normal,Low,"Bihar,Odisha",Normal market conditions,Continue standard operations
+2025-10-07,North-Eastern,Normal,Low,"Assam,Meghalaya",Normal market conditions,Continue standard operations
+2025-10-08,Eastern,Policy_Change,Medium,"Odisha,Bihar",New GST rate changes announced,Update tax calculations
+2025-10-09,Western,Normal,Low,"Maharashtra,Gujarat,Rajasthan,Goa",Normal market conditions,Continue standard operations
+2025-10-10,Western,Normal,Low,"Goa,Gujarat",Normal market conditions,Continue standard operations
+2025-10-11,Eastern,Normal,Low,"Jharkhand,Odisha",Normal market conditions,Continue standard operations
+2025-10-12,Northern,Normal,Low,"Delhi,Punjab,Haryana,Himachal Pradesh,Uttarakhand,Jammu & Kashmir",Normal market conditions,Continue standard operations
+2025-10-13,Eastern,Normal,Low,"West Bengal,Odisha,Bihar,Jharkhand",Normal market conditions,Continue standard operations
+2025-10-14,North-Eastern,Normal,Low,"Assam,Meghalaya,Manipur,Nagaland,Tripura",Normal market conditions,Continue standard operations
+2025-10-15,Northern,Normal,Low,"Himachal Pradesh,Haryana",Normal market conditions,Continue standard operations
+2025-10-16,North-Eastern,Normal,Low,"Assam,Meghalaya,Manipur,Nagaland,Tripura",Normal market conditions,Continue standard operations
+2025-10-17,Eastern,Labor_Strike,High,"West Bengal,Odisha,Bihar,Jharkhand",Transport workers strike in region,Buffer lead times by 15 days
+2025-10-18,North-Eastern,Normal,Low,"Tripura,Nagaland",Normal market conditions,Continue standard operations
+2025-10-19,Northern,Normal,Low,"Delhi,Punjab,Haryana,Himachal Pradesh,Uttarakhand,Jammu & Kashmir",Normal market conditions,Continue standard operations
+2025-10-20,Southern,Normal,Low,"Karnataka,Tamil Nadu,Kerala,Andhra Pradesh,Telangana",Normal market conditions,Continue standard operations
+2025-10-21,Western,Normal,Low,"Maharashtra,Gujarat,Rajasthan,Goa",Normal market conditions,Continue standard operations
+2025-10-22,Southern,Normal,Low,"Karnataka,Tamil Nadu,Kerala,Andhra Pradesh,Telangana",Normal market conditions,Continue standard operations
+2025-10-23,Western,Normal,Low,"Rajasthan,Maharashtra",Normal market conditions,Continue standard operations
+2025-10-24,Eastern,Normal,Low,"West Bengal,Odisha,Bihar,Jharkhand",Normal market conditions,Continue standard operations
+2025-10-25,Northern,Normal,Low,"Delhi,Punjab,Haryana,Himachal Pradesh,Uttarakhand,Jammu & Kashmir",Normal market conditions,Continue standard operations
+2025-10-26,Western,Normal,Low,"Maharashtra,Gujarat,Rajasthan,Goa",Normal market conditions,Continue standard operations
+2025-10-27,Western,Normal,Low,"Maharashtra,Gujarat,Rajasthan,Goa",Normal market conditions,Continue standard operations
+2025-10-28,Northern,Normal,Low,"Delhi,Punjab,Haryana,Himachal Pradesh,Uttarakhand,Jammu & Kashmir",Normal market conditions,Continue standard operations
+2025-10-29,Western,Normal,Low,"Goa,Maharashtra",Normal market conditions,Continue standard operations
+2025-10-30,Eastern,Normal,Low,"Jharkhand,Bihar",Normal market conditions,Continue standard operations
+2025-10-31,Northern,Normal,Low,"Delhi,Punjab,Haryana,Himachal Pradesh,Uttarakhand,Jammu & Kashmir",Normal market conditions,Continue standard operations
+2025-11-01,Northern,Normal,Low,"Delhi,Punjab,Haryana,Himachal Pradesh,Uttarakhand,Jammu & Kashmir",Normal market conditions,Continue standard operations
+2025-11-02,Eastern,Normal,Low,"West Bengal,Odisha,Bihar,Jharkhand",Normal market conditions,Continue standard operations
+2025-11-03,Western,Normal,Low,"Gujarat,Maharashtra",Normal market conditions,Continue standard operations
+2025-11-04,Northern,Normal,Low,"Punjab,Himachal Pradesh",Normal market conditions,Continue standard operations
+2025-11-05,Western,Normal,Low,"Gujarat,Goa",Normal market conditions,Continue standard operations
+2025-11-06,Southern,Normal,Low,"Karnataka,Telangana",Normal market conditions,Continue standard operations
+2025-11-07,Northern,Normal,Low,"Himachal Pradesh,Haryana",Normal market conditions,Continue standard operations
+2025-11-08,Western,Commodity_Price_Spike,Medium,"Maharashtra,Gujarat,Rajasthan,Goa",Steel prices increased by 15-20%,Review vendor contracts
+2025-11-09,North-Eastern,Normal,Low,"Tripura,Manipur",Normal market conditions,Continue standard operations
+2025-11-10,Northern,Normal,Low,"Jammu & Kashmir,Haryana",Normal market conditions,Continue standard operations
+2025-11-11,North-Eastern,Normal,Low,"Nagaland,Manipur",Normal market conditions,Continue standard operations
+2025-11-12,Western,Normal,Low,"Maharashtra,Gujarat,Rajasthan,Goa",Normal market conditions,Continue standard operations
+2025-11-13,Southern,Normal,Low,"Karnataka,Telangana",Normal market conditions,Continue standard operations
+2025-11-14,Southern,Commodity_Price_Spike,Medium,"Telangana,Andhra Pradesh",Steel prices increased by 15-20%,Review vendor contracts
+2025-11-15,Western,Normal,Low,"Maharashtra,Goa",Normal market conditions,Continue standard operations
+2025-11-16,Northern,Normal,Low,"Delhi,Punjab,Haryana,Himachal Pradesh,Uttarakhand,Jammu & Kashmir",Normal market conditions,Continue standard operations
+2025-11-17,Northern,Normal,Low,"Himachal Pradesh,Uttarakhand",Normal market conditions,Continue standard operations
+2025-11-18,North-Eastern,Normal,Low,"Nagaland,Tripura",Normal market conditions,Continue standard operations
+2025-11-19,North-Eastern,Normal,Low,"Meghalaya,Manipur",Normal market conditions,Continue standard operations
+2025-11-20,Northern,Normal,Low,"Punjab,Jammu & Kashmir",Normal market conditions,Continue standard operations
+2025-11-21,Southern,Normal,Low,"Karnataka,Kerala",Normal market conditions,Continue standard operations
+2025-11-22,Western,Normal,Low,"Maharashtra,Gujarat,Rajasthan,Goa",Normal market conditions,Continue standard operations
+2025-11-23,Southern,Normal,Low,"Karnataka,Tamil Nadu,Kerala,Andhra Pradesh,Telangana",Normal market conditions,Continue standard operations
+2025-11-24,Northern,Normal,Low,"Delhi,Punjab,Haryana,Himachal Pradesh,Uttarakhand,Jammu & Kashmir",Normal market conditions,Continue standard operations
+2025-11-25,Western,Normal,Low,"Maharashtra,Gujarat,Rajasthan,Goa",Normal market conditions,Continue standard operations
+2025-11-26,Northern,Normal,Low,"Delhi,Punjab,Haryana,Himachal Pradesh,Uttarakhand,Jammu & Kashmir",Normal market conditions,Continue standard operations
+2025-11-27,Eastern,Commodity_Price_Spike,Medium,"West Bengal,Odisha,Bihar,Jharkhand",Steel prices increased by 15-20%,Review vendor contracts
+2025-11-28,Eastern,Normal,Low,"West Bengal,Jharkhand",Normal market conditions,Continue standard operations
+2025-11-29,Southern,Normal,Low,"Karnataka,Tamil Nadu,Kerala,Andhra Pradesh,Telangana",Normal market conditions,Continue standard operations
+2025-11-30,North-Eastern,Normal,Low,"Nagaland,Tripura",Normal market conditions,Continue standard operations
+2025-12-01,Northern,Normal,Low,"Delhi,Punjab,Haryana,Himachal Pradesh,Uttarakhand,Jammu & Kashmir",Normal market conditions,Continue standard operations
+2025-12-02,Eastern,Normal,Low,"West Bengal,Odisha,Bihar,Jharkhand",Normal market conditions,Continue standard operations
+2025-12-03,North-Eastern,Normal,Low,"Assam,Meghalaya",Normal market conditions,Continue standard operations
+2025-12-04,Northern,Normal,Low,"Delhi,Punjab,Haryana,Himachal Pradesh,Uttarakhand,Jammu & Kashmir",Normal market conditions,Continue standard operations
+2025-12-05,Western,Normal,Low,"Maharashtra,Gujarat,Rajasthan,Goa",Normal market conditions,Continue standard operations
+2025-12-06,Western,Normal,Low,"Maharashtra,Gujarat,Rajasthan,Goa",Normal market conditions,Continue standard operations
+2025-12-07,Western,RoW_Issue,High,"Maharashtra,Gujarat,Rajasthan,Goa",Land acquisition delays reported,Hold procurement for affected projects
+2025-12-08,Eastern,Normal,Low,"West Bengal,Odisha,Bihar,Jharkhand",Normal market conditions,Continue standard operations
+2025-12-09,Eastern,Normal,Low,"West Bengal,Odisha,Bihar,Jharkhand",Normal market conditions,Continue standard operations
+2025-12-10,Northern,Normal,Low,"Delhi,Punjab,Haryana,Himachal Pradesh,Uttarakhand,Jammu & Kashmir",Normal market conditions,Continue standard operations
+2025-12-11,Northern,Normal,Low,"Delhi,Himachal Pradesh",Normal market conditions,Continue standard operations
+2025-12-12,Eastern,Normal,Low,"West Bengal,Odisha,Bihar,Jharkhand",Normal market conditions,Continue standard operations
+2025-12-13,Northern,Normal,Low,"Delhi,Punjab,Haryana,Himachal Pradesh,Uttarakhand,Jammu & Kashmir",Normal market conditions,Continue standard operations
+2025-12-14,Eastern,Normal,Low,"Odisha,Jharkhand",Normal market conditions,Continue standard operations
+2025-12-15,Southern,Normal,Low,"Tamil Nadu,Telangana",Normal market conditions,Continue standard operations
+2025-12-16,Southern,Normal,Low,"Karnataka,Tamil Nadu,Kerala,Andhra Pradesh,Telangana",Normal market conditions,Continue standard operations
+2025-12-17,Northern,Normal,Low,"Delhi,Himachal Pradesh",Normal market conditions,Continue standard operations
+2025-12-18,Eastern,Normal,Low,"West Bengal,Odisha,Bihar,Jharkhand",Normal market conditions,Continue standard operations
+2025-12-19,Western,Normal,Low,"Maharashtra,Gujarat,Rajasthan,Goa",Normal market conditions,Continue standard operations
+2025-12-20,Northern,Labor_Strike,High,"Delhi,Punjab,Haryana,Himachal Pradesh,Uttarakhand,Jammu & Kashmir",Transport workers strike in region,Buffer lead times by 15 days
+2025-12-21,North-Eastern,Normal,Low,"Assam,Meghalaya,Manipur,Nagaland,Tripura",Normal market conditions,Continue standard operations
+2025-12-22,Southern,Normal,Low,"Karnataka,Telangana",Normal market conditions,Continue standard operations
+2025-12-23,Southern,Normal,Low,"Karnataka,Tamil Nadu,Kerala,Andhra Pradesh,Telangana",Normal market conditions,Continue standard operations
+2025-12-24,Southern,Normal,Low,"Tamil Nadu,Telangana",Normal market conditions,Continue standard operations
+2025-12-25,Eastern,Normal,Low,"Jharkhand,Bihar",Normal market conditions,Continue standard operations
+2025-12-26,Eastern,Normal,Low,"West Bengal,Odisha,Bihar,Jharkhand",Normal market conditions,Continue standard operations
+2025-12-27,Northern,Normal,Low,"Punjab,Uttarakhand",Normal market conditions,Continue standard operations
+2025-12-28,Northern,Normal,Low,"Delhi,Punjab,Haryana,Himachal Pradesh,Uttarakhand,Jammu & Kashmir",Normal market conditions,Continue standard operations
+2025-12-29,Southern,Normal,Low,"Karnataka,Tamil Nadu,Kerala,Andhra Pradesh,Telangana",Normal market conditions,Continue standard operations
+2025-12-30,Western,Normal,Low,"Maharashtra,Gujarat,Rajasthan,Goa",Normal market conditions,Continue standard operations
+2025-12-31,Northern,Normal,Low,"Delhi,Punjab,Haryana,Himachal Pradesh,Uttarakhand,Jammu & Kashmir",Normal market conditions,Continue standard operations

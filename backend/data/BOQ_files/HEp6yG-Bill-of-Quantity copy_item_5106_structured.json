@@ -1,0 +1,32 @@
+{
+  "title": "Replacement of old HT I/D straight through joints for 33 kV, 3 C, 300 sq. mm. XLPE cable",
+  "item_code": "5106",
+  "items": [
+    {
+      "serial_number": 1,
+      "description": "23 kV Heat shrik Straight through joint (AI) kit for XLPE 3 C X 300 sqmm",
+      "unit": "No",
+      "quantity": 1.0,
+      "rate_per_unit": 36900.0,
+      "total_cost": 36900.0,
+      "components": null
+    },
+    {
+      "serial_number": 2,
+      "description": "Sundries",
+      "unit": "LS",
+      "quantity": 1.0,
+      "rate_per_unit": 810.0,
+      "total_cost": 810.0,
+      "components": null
+    }
+  ],
+  "summary": {
+    "cost_of_material": 37710.0,
+    "service_cost": 11502.0,
+    "sub_total": 49212.0,
+    "turnkey_charges": 2461.0,
+    "total_cost_of_estimate": 51672.0,
+    "civil_works_cost": null
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "title": "Estimate for LT to underground 3.5 x 300 sqmm cable for 1 Km",
+  "item_code": "1407",
+  "items": [
+    {
+      "serial_number": 1,
+      "description": "L.T. XLPE cable 3.5 Core 300 mm2",
+      "unit": "Rmt",
+      "quantity": 1000.0,
+      "rate_per_unit": 725.0,
+      "total_cost": 725000.0,
+      "components": null
+    },
+    {
+      "serial_number": 2,
+      "description": "R.C.C. Pipe 150 mm 2 M",
+      "unit": "No",
+      "quantity": 30.0,
+      "rate_per_unit": 572.0,
+      "total_cost": 17160.0,
+      "components": null
+    },
+    {
+      "serial_number": 3,
+      "description": "Misc. ( Bricks,sand,tremination kit and etc.)",
+      "unit": "LS",
+      "quantity": 1.0,
+      "rate_per_unit": 25350.0,
+      "total_cost": 25350.0,
+      "components": null
+    }
+  ],
+  "summary": {
+    "cost_of_material": 767510.0,
+    "service_cost": 234091.0,
+    "sub_total": 1001601.0,
+    "turnkey_charges": 50080.0,
+    "total_cost_of_estimate": 1051681.0,
+    "civil_works_cost": null
+  }
+}

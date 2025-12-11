@@ -1,0 +1,77 @@
+{
+  "title": "Replacement of old HT cable by new XLPE cable size 33 kV, 3 C, 300 sq. mm.",
+  "item_code": "5103",
+  "items": [
+    {
+      "serial_number": 1,
+      "description": "XLPE Cable 33 KV, 3 C / 300 mm sq.",
+      "unit": "Rmt",
+      "quantity": 1000.0,
+      "rate_per_unit": 1737.0,
+      "total_cost": 1737000.0,
+      "components": null
+    },
+    {
+      "serial_number": 2,
+      "description": "R.C.C. Pipe 150 mm 2 M",
+      "unit": "No",
+      "quantity": 30.0,
+      "rate_per_unit": 572.0,
+      "total_cost": 17160.0,
+      "components": null
+    },
+    {
+      "serial_number": 3,
+      "description": "Half round cement pipe ( 150 mm X 1mtr)",
+      "unit": "No.",
+      "quantity": 940.0,
+      "rate_per_unit": 110.0,
+      "total_cost": 103400.0,
+      "components": null
+    },
+    {
+      "serial_number": 4,
+      "description": "33 kV Heat shrik Straight through joint (AI) kit for XLPE 3 C X 300 sqmm",
+      "unit": "Kit",
+      "quantity": 4.0,
+      "rate_per_unit": 36900.0,
+      "total_cost": 147600.0,
+      "components": null
+    },
+    {
+      "serial_number": 5,
+      "description": "33 kV Heat shrik Outdoor termination joint (AI) kit for XLPE 3 C X 300 sqmm",
+      "unit": "Kit",
+      "quantity": 2.0,
+      "rate_per_unit": 19028.0,
+      "total_cost": 38056.0,
+      "components": null
+    },
+    {
+      "serial_number": 6,
+      "description": "Sand",
+      "unit": "Cmt",
+      "quantity": 250.0,
+      "rate_per_unit": 222.0,
+      "total_cost": 55500.0,
+      "components": null
+    },
+    {
+      "serial_number": 7,
+      "description": "Sundries",
+      "unit": "LS",
+      "quantity": 1.0,
+      "rate_per_unit": 810.0,
+      "total_cost": 810.0,
+      "components": null
+    }
+  ],
+  "summary": {
+    "cost_of_material": 2099526.0,
+    "service_cost": 640355.0,
+    "sub_total": 2739881.0,
+    "turnkey_charges": 136994.0,
+    "total_cost_of_estimate": 2876876.0,
+    "civil_works_cost": null
+  }
+}

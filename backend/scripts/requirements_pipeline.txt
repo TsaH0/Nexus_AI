@@ -1,0 +1,14 @@
+# Document Processing Pipeline Requirements
+
+# Core Dependencies
+mistralai>=1.0.0
+google-generativeai>=0.3.0
+pydantic>=2.0.0
+python-dotenv>=1.0.0
+
+# Utilities
+tqdm>=4.65.0
+
+# Optional: For enhanced functionality
+Pillow>=10.0.0  # Image processing
+PyPDF2>=3.0.0   # PDF manipulation

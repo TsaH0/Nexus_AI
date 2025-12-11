@@ -1,0 +1,256 @@
+{
+  "title": "Single Circuit Pin type with 232sq.mm AAAC lines on 152x152 mm 13 mtr RSJ poles (A) HT Line",
+  "item_code": "0823",
+  "items": [
+    {
+      "serial_number": 1,
+      "description": "RSJ 152x152, 13 m long",
+      "unit": "No.",
+      "quantity": 17.0,
+      "rate_per_unit": 21562.0,
+      "total_cost": 366554.0,
+      "components": null
+    },
+    {
+      "serial_number": 2,
+      "description": "RSJ 152x152, 12 m long",
+      "unit": "No.",
+      "quantity": 2.0,
+      "rate_per_unit": 19903.0,
+      "total_cost": 39806.0,
+      "components": null
+    },
+    {
+      "serial_number": 3,
+      "description": "MS Channel 100x50x6 mm",
+      "unit": "Kg.",
+      "quantity": 177.0,
+      "rate_per_unit": 51.8,
+      "total_cost": 9168.6,
+      "components": null
+    },
+    {
+      "serial_number": 4,
+      "description": "M.S.Channel 75x40x6 mm",
+      "unit": "Kg.",
+      "quantity": 122.0,
+      "rate_per_unit": 51.8,
+      "total_cost": 6319.6,
+      "components": null
+    },
+    {
+      "serial_number": 5,
+      "description": "22 KV V cross arm with clamp",
+      "unit": "No.",
+      "quantity": 13.0,
+      "rate_per_unit": 906.0,
+      "total_cost": 11778.0,
+      "components": null
+    },
+    {
+      "serial_number": 6,
+      "description": "22 KV Top Fitting",
+      "unit": "No.",
+      "quantity": 13.0,
+      "rate_per_unit": 382.0,
+      "total_cost": 4966.0,
+      "components": null
+    },
+    {
+      "serial_number": 7,
+      "description": "MS angle 50x50x6 mm",
+      "unit": "Kg.",
+      "quantity": 72.0,
+      "rate_per_unit": 51.8,
+      "total_cost": 3729.6,
+      "components": null
+    },
+    {
+      "serial_number": 8,
+      "description": "M.S. Flats(50 X 10mm)",
+      "unit": "Kg.",
+      "quantity": 37.0,
+      "rate_per_unit": 48.5,
+      "total_cost": 1794.5,
+      "components": null
+    },
+    {
+      "serial_number": 9,
+      "description": "G.I.Nut Bolts",
+      "unit": "Kg.",
+      "quantity": 90.0,
+      "rate_per_unit": 82.9,
+      "total_cost": 7461.0,
+      "components": null
+    },
+    {
+      "serial_number": 10,
+      "description": "22 kV Pin Insulators with G.I. Pins",
+      "unit": "No.",
+      "quantity": 39.0,
+      "rate_per_unit": 336.0,
+      "total_cost": 13104.0,
+      "components": null
+    },
+    {
+      "serial_number": 11,
+      "description": "Disc Insulator 11 KV 45 KN",
+      "unit": "No.",
+      "quantity": 48.0,
+      "rate_per_unit": 244.0,
+      "total_cost": 11712.0,
+      "components": null
+    },
+    {
+      "serial_number": 12,
+      "description": "Strain Hardware for AAAC232 sq.mm.",
+      "unit": "Set",
+      "quantity": 24.0,
+      "rate_per_unit": 603.0,
+      "total_cost": 14472.0,
+      "components": null
+    },
+    {
+      "serial_number": 13,
+      "description": "AAAC 232 mm2",
+      "unit": "Rml",
+      "quantity": 3150.0,
+      "rate_per_unit": 127.4,
+      "total_cost": 401310.0,
+      "components": null
+    },
+    {
+      "serial_number": 14,
+      "description": "Sleve Joints",
+      "unit": "No.",
+      "quantity": 3.0,
+      "rate_per_unit": 115.0,
+      "total_cost": 345.0,
+      "components": null
+    },
+    {
+      "serial_number": 15,
+      "description": "H.T.Stay Set",
+      "unit": "Set",
+      "quantity": 8.0,
+      "rate_per_unit": 598.0,
+      "total_cost": 4784.0,
+      "components": null
+    },
+    {
+      "serial_number": 16,
+      "description": "G.I.Stay Wire 7/4mm(8 SWG)",
+      "unit": "Kg.",
+      "quantity": 80.0,
+      "rate_per_unit": 57.45,
+      "total_cost": 4596.0,
+      "components": null
+    },
+    {
+      "serial_number": 17,
+      "description": "Earthing Sets H.T",
+      "unit": "Set",
+      "quantity": 17.0,
+      "rate_per_unit": 342.0,
+      "total_cost": 5814.0,
+      "components": null
+    },
+    {
+      "serial_number": 18,
+      "description": "D.I.Barbed Wire 'A' type.",
+      "unit": "Kg.",
+      "quantity": 77.0,
+      "rate_per_unit": 64.27,
+      "total_cost": 4948.79,
+      "components": null
+    },
+    {
+      "serial_number": 19,
+      "description": "Danger Board in yard.",
+      "unit": "No.",
+      "quantity": 17.0,
+      "rate_per_unit": 50.0,
+      "total_cost": 850.0,
+      "components": null
+    },
+    {
+      "serial_number": 20,
+      "description": "Concreting ration 1:3:6",
+      "unit": "Cmt.",
+      "quantity": 20.0,
+      "rate_per_unit": 3027.0,
+      "total_cost": 60540.0,
+      "components": null
+    },
+    {
+      "serial_number": 21,
+      "description": "G.I.Wire 8 SWG/ 6 SWG",
+      "unit": "Kg.",
+      "quantity": 130.0,
+      "rate_per_unit": 57.4,
+      "total_cost": 7462.0,
+      "components": null
+    },
+    {
+      "serial_number": 22,
+      "description": "Black Bituminus Paint",
+      "unit": "Ltr.",
+      "quantity": 6.0,
+      "rate_per_unit": 85.0,
+      "total_cost": 510.0,
+      "components": null
+    },
+    {
+      "serial_number": 23,
+      "description": "Red Oxide Paint for 2 coats",
+      "unit": "Ltr.",
+      "quantity": 20.0,
+      "rate_per_unit": 85.0,
+      "total_cost": 1700.0,
+      "components": null
+    },
+    {
+      "serial_number": 24,
+      "description": "Aluminium Paint for 1 coat",
+      "unit": "Ltr.",
+      "quantity": 9.0,
+      "rate_per_unit": 113.0,
+      "total_cost": 1017.0,
+      "components": null
+    },
+    {
+      "serial_number": 25,
+      "description": "Sundries",
+      "unit": "LS",
+      "quantity": 1.0,
+      "rate_per_unit": 810.0,
+      "total_cost": 810.0,
+      "components": null
+    },
+    {
+      "serial_number": 26,
+      "description": "Wedge connectors",
+      "unit": null,
+      "quantity": 1.0,
+      "rate_per_unit": null,
+      "total_cost": 17232.0,
+      "components": [
+        {
+          "description": "PANTHER TO PANTHER or equivalent AAAC",
+          "unit": "No",
+          "quantity": 24.0,
+          "rate_per_unit": 718.0,
+          "total_cost": 17232.0
+        }
+      ]
+    }
+  ],
+  "summary": {
+    "cost_of_material": 1002784.09,
+    "service_cost": 305849.0,
+    "sub_total": 1308633.0,
+    "turnkey_charges": 65432.0,
+    "total_cost_of_estimate": 1374065.0,
+    "civil_works_cost": null
+  }
+}

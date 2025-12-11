@@ -1,0 +1,224 @@
+{
+    "title": "22 KV SPECIAL DESIGNED TRANSFORMER TO AG. FEEDER",
+    "item_code": "1018",
+    "items": [
+        {
+            "serial_number": 1,
+            "description": "22kV Specially Designed Transformer with all accessories, control cables, Relays, Contactors, Indicators etc.",
+            "unit": "Set",
+            "quantity": 1.0,
+            "rate_per_unit": 180250.0,
+            "total_cost": 180250.0,
+            "components": null
+        },
+        {
+            "serial_number": 2,
+            "description": "22 kV CT for SDT",
+            "unit": "No",
+            "quantity": 1.0,
+            "rate_per_unit": 23767.0,
+            "total_cost": 23767.0,
+            "components": null
+        },
+        {
+            "serial_number": 3,
+            "description": "22kV Gang operated Three pole double throw change over switch",
+            "unit": "Set",
+            "quantity": 1.0,
+            "rate_per_unit": 6795.0,
+            "total_cost": 6795.0,
+            "components": null
+        },
+        {
+            "serial_number": 4,
+            "description": "22kV DP structure with L.A. as per sheet 'A'",
+            "unit": "No",
+            "quantity": 1.0,
+            "rate_per_unit": 52581.9,
+            "total_cost": 52581.9,
+            "components": [
+                {
+                    "description": "RSJ 116x100, 9 m long",
+                    "unit": "No.",
+                    "quantity": 2.0,
+                    "rate_per_unit": 9254.0,
+                    "total_cost": 18508.0
+                },
+                {
+                    "description": "M.S. Flats(50 X 10mm)",
+                    "unit": "Kg.",
+                    "quantity": 12.0,
+                    "rate_per_unit": 48.5,
+                    "total_cost": 582.0
+                },
+                {
+                    "description": "M.S.Flat 50 x 6 mm",
+                    "unit": "Kg.",
+                    "quantity": 10.0,
+                    "rate_per_unit": 48.5,
+                    "total_cost": 485.0
+                },
+                {
+                    "description": "MS Channel 100x50x6 mm",
+                    "unit": "Kg.",
+                    "quantity": 100.0,
+                    "rate_per_unit": 51.8,
+                    "total_cost": 5180.0
+                },
+                {
+                    "description": "M.S.Channel 75x40x6 mm",
+                    "unit": "Kg.",
+                    "quantity": 42.0,
+                    "rate_per_unit": 51.8,
+                    "total_cost": 2175.6
+                },
+                {
+                    "description": "MS angle 50x50x6 mm",
+                    "unit": "Kg.",
+                    "quantity": 30.0,
+                    "rate_per_unit": 51.8,
+                    "total_cost": 1554.0
+                },
+                {
+                    "description": "22 kV Pin Insulators with G.I. Pins",
+                    "unit": "No.",
+                    "quantity": 3.0,
+                    "rate_per_unit": 336.0,
+                    "total_cost": 1008.0
+                },
+                {
+                    "description": "Strain Hardware for 55 Sq.mm AAAC",
+                    "unit": "No.",
+                    "quantity": 6.0,
+                    "rate_per_unit": 140.0,
+                    "total_cost": 840.0
+                },
+                {
+                    "description": "Disc Insulator 11 KV 70 KN",
+                    "unit": "No.",
+                    "quantity": 12.0,
+                    "rate_per_unit": 344.0,
+                    "total_cost": 4128.0
+                },
+                {
+                    "description": "H.T.Stay Set",
+                    "unit": "No.",
+                    "quantity": 4.0,
+                    "rate_per_unit": 598.0,
+                    "total_cost": 2392.0
+                },
+                {
+                    "description": "G.I.Stay Wire 7/4mm(8 SWG)",
+                    "unit": "Kg.",
+                    "quantity": 24.0,
+                    "rate_per_unit": 57.45,
+                    "total_cost": 1378.8
+                },
+                {
+                    "description": "Earthing Sets H.T",
+                    "unit": "No",
+                    "quantity": 3.0,
+                    "rate_per_unit": 342.0,
+                    "total_cost": 1026.0
+                },
+                {
+                    "description": "G.I.Wire 8 SWG/ 6 SWG",
+                    "unit": "kg.",
+                    "quantity": 5.0,
+                    "rate_per_unit": 57.4,
+                    "total_cost": 287.0
+                },
+                {
+                    "description": "L.A.s 22KV (Gapless type) with disconnector",
+                    "unit": "No.",
+                    "quantity": 2.0,
+                    "rate_per_unit": 2280.0,
+                    "total_cost": 4560.0
+                },
+                {
+                    "description": "Danger Board in yard.",
+                    "unit": "No.",
+                    "quantity": 2.0,
+                    "rate_per_unit": 50.0,
+                    "total_cost": 100.0
+                },
+                {
+                    "description": "Concreting ration 1:3:6",
+                    "unit": "Cmt.",
+                    "quantity": 2.5,
+                    "rate_per_unit": 3027.0,
+                    "total_cost": 7567.5
+                },
+                {
+                    "description": "Sundries, such as Nut-Bolts, wedge connectors, Washers, Jumper & Minor fabrication., painting, earthing materials",
+                    "unit": "L.S.",
+                    "quantity": 1.0,
+                    "rate_per_unit": 810.0,
+                    "total_cost": 810.0
+                }
+            ]
+        },
+        {
+            "serial_number": 5,
+            "description": "Permanent earthing system by use of Pipe in pipe arrangment, with earthing materials Bentonite clay, salt, coal etc",
+            "unit": "No",
+            "quantity": 2.0,
+            "rate_per_unit": 6607.0,
+            "total_cost": 13214.0,
+            "components": null
+        },
+        {
+            "serial_number": 6,
+            "description": "GI Pipe 20 mm",
+            "unit": "No",
+            "quantity": 15.0,
+            "rate_per_unit": 70.08,
+            "total_cost": 1051.2,
+            "components": null
+        },
+        {
+            "serial_number": 7,
+            "description": "16 mm 2 Single core multistrand copper Armored cable.",
+            "unit": "rmt",
+            "quantity": 15.0,
+            "rate_per_unit": 109.0,
+            "total_cost": 1635.0,
+            "components": null
+        },
+        {
+            "serial_number": 8,
+            "description": "CT Box SMC Type Meter Box (Hinge Type) Size: 400X300X190 mm",
+            "unit": "No",
+            "quantity": 1.0,
+            "rate_per_unit": 755.0,
+            "total_cost": 755.0,
+            "components": null
+        },
+        {
+            "serial_number": 9,
+            "description": "Relay Box MS fabricated with powder coating suitable for outdoor installation of Relay.",
+            "unit": "No.",
+            "quantity": 1.0,
+            "rate_per_unit": 1164.0,
+            "total_cost": 1164.0,
+            "components": null
+        },
+        {
+            "serial_number": 10,
+            "description": "1\" PVC pipe for laying control cable",
+            "unit": "rmt",
+            "quantity": 25.0,
+            "rate_per_unit": 73.0,
+            "total_cost": 1825.0,
+            "components": null
+        }
+    ],
+    "summary": {
+        "cost_of_material": 283038.1,
+        "service_cost": 58022.81,
+        "sub_total": 341060.91,
+        "turnkey_charges": null,
+        "total_cost_of_estimate": 358114.0,
+        "civil_works_cost": null
+    }
+}

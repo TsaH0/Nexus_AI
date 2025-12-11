@@ -1,0 +1,59 @@
+{
+  "title": "SUNG DARI TIP INGREDICTATION OF FUNG INHERENT DISSTUDENT TRANSFERTS AND MANAG",
+  "item_code": "1301",
+  "items": [
+    {
+      "serial_number": 1,
+      "description": "Dist. Transformer 100 KVA, 11/0.43 kv",
+      "unit": "No.",
+      "quantity": 1.0,
+      "rate_per_unit": 112770.0,
+      "total_cost": 112770.0,
+      "components": null
+    },
+    {
+      "serial_number": 2,
+      "description": "L.T.Dist. boxes 100 KVA with MCCB",
+      "unit": "No.",
+      "quantity": 1.0,
+      "rate_per_unit": 12822.0,
+      "total_cost": 12822.0,
+      "components": null
+    },
+    {
+      "serial_number": 3,
+      "description": "L.T.XLPE Armoured 3.5 Core cable70 sq.mm.",
+      "unit": "Rmt",
+      "quantity": 25.0,
+      "rate_per_unit": 204.0,
+      "total_cost": 5100.0,
+      "components": null
+    },
+    {
+      "serial_number": 4,
+      "description": "L.T.XLPE Armoured 3.5 Core cable120 sq.mm.",
+      "unit": "Rmt",
+      "quantity": 10.0,
+      "rate_per_unit": 329.0,
+      "total_cost": 3290.0,
+      "components": null
+    },
+    {
+      "serial_number": 5,
+      "description": "Sundries",
+      "unit": "no",
+      "quantity": 1.0,
+      "rate_per_unit": 810.0,
+      "total_cost": 810.0,
+      "components": null
+    }
+  ],
+  "summary": {
+    "cost_of_material": 134792.0,
+    "service_cost": 41112.0,
+    "sub_total": 175904.0,
+    "turnkey_charges": 8795.0,
+    "total_cost_of_estimate": 184699.0,
+    "civil_works_cost": null
+  }
+}
