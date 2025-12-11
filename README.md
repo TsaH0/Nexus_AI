@@ -103,6 +103,7 @@ The trigger engine calculates stock health using these metrics:
 - 🟢 **GREEN** - Optimal stock levels
 
 ## 📱 Screenshots
+<img width="2442" height="1860" alt="image" src="https://github.com/user-attachments/assets/ca4f5379-2e7e-465d-adb9-c736507a635d" />
 
 The application features a modern dark-themed UI with:
 - Glassmorphism effects
